@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically accurate.  Reduced fetal movement can be a sign of serious complications and warrants immediate medical attention. It's also true that movements are less noticeable earlier in pregnancy.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response addresses the core concern and advises seeking medical attention, it lacks specific advice on what constitutes 'reduced' fetal movement and how to monitor movements (e.g., kick counts).  This information empowers the patient to better assess their situation.",
+    "missing_information": [
+      "Information on how to monitor fetal movements (e.g., kick counts -  choosing a time of day when the baby is usually active, lying down on your side, and counting how long it takes to feel 10 movements.  If it takes longer than two hours, contact your healthcare provider).",
+      "Specific examples of what might constitute a concerning change in fetal movement (e.g., a significant decrease in the number of kicks, a change in the usual pattern of movement, or no movement at all for an extended period)."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language is simple, straightforward, and easy to understand for someone with average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the advice is generally applicable, being from Assam, India, could mean limited access to healthcare, cultural beliefs about pregnancy, and potential language barriers.  Acknowledging these potential challenges and suggesting resources (if available) would improve cultural sensitivity."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "It's normal to occasionally not feel your baby move, especially earlier in pregnancy when movements can be less noticeable. However, if you notice a significant decrease in your baby's movements or if movements stop, this could be a sign of a serious complication. It's important to monitor the baby's movements, especially as you get further along in your pregnancy.\n\nIf you're concerned about the frequency or pattern of your baby's movements, it's best to contact your healthcare provider immediately for further advice. They can perform checks to ensure everything is progressing well with your pregnancy. Remember, it's always better to be cautious and seek advice if you're unsure or worried.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

@@ -1,0 +1,44 @@
+{
+    "rankings": [
+        {
+            "rank": 1,
+            "model": "gpt",
+            "reason": "Responses from this model are highly detailed, clinically accurate, fully address the questions, highly readable by non-experts, and include no hallucinated information."
+        },
+        {
+            "rank": 2,
+            "model": "gpt_rag",
+            "reason": "Provides detailed and generally accurate responses with good readability, but sometimes the responses are less detailed compared to the best model."
+        },
+        {
+            "rank": 3,
+            "model": "llama",
+            "reason": "Overall responses are relevant and fairly accurate but are shorter and slightly less detailed which may affect completeness."
+        },
+        {
+            "rank": 4,
+            "model": "llama_rag",
+            "reason": "Provides decent answers with reasonable accuracy and readability but could include more detailed explanations and sometimes gives responses that are culturally specific without clear context."
+        },
+        {
+            "rank": 5,
+            "model": "mixtral",
+            "reason": "Responses are generally relevant, but sometimes less accurate medically and include some unnecessary details which might confuse non-expert readers."
+        },
+        {
+            "rank": 6,
+            "model": "mixtral_rag",
+            "reason": "Offers answers that cover the basics of the queries but has occasional slight inaccuracies and issues with completeness and readability."
+        },
+        {
+            "rank": 7,
+            "model": "medalpaca",
+            "reason": "While responses generally address the questions, they lack depth and detail, providing only superficial information which may not fully satisfy information needs on medical topics."
+        },
+        {
+            "rank": 8,
+            "model": "medalpaca_rag",
+            "reason": "Responses often do not effectively address the question, include repetitive or irrelevant information, and show considerable issues with readability and accuracy."
+        }
+    ]
+}

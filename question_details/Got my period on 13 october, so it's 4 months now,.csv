@@ -1,0 +1,158 @@
+Content Type,Model,Content,Evaluation
+Retrieved Chunk,,"Chunk 1: your baby’s movement now; the baby’s blood circulation has begun and the brain, spinal cord and nerve network",
+,,have become fully functional; the teeth and bones have become denser,
+,,What is important to know?,
+,,"1.  As the 4 th month has started, we will have to repeat some of the",
+,,tests; your physical examination and tests will include the following:,
+,,Measurements Tests Check for,
+,,"Weight Blood hemoglobin level Pallor (conjunctiva, tongue, oral",
+,,mucosa and palms),
+,,Palpable goitre,
+,,Dental and skeletal flu...,
+,,"[Metadata: section: These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of, section_path: ['These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of'], chunk_type: text, chunk_index: 8, total_chunks: 32]",
+,,,
+,,Chunk 2: partum period,
+,,"[Metadata: section: Identification and management of complications of post, section_path: ['Identification and management of complications of post'], chunk_type: text]",
+,,,
+,,"Chunk 3: period of gestation, which needs to be correlated with the fundal height to estimate the",
+,,gestational age. Calculate the EDD on this basis. A special note should be made of such,
+,,cases in the records.,
+,,"/circle6 If the woman is not able to recollect any of the above things, encourage her to mention",
+,,"what she believes is her current month of pregnancy. For example, if a woman has come",
+,,to the ANC clinic on 20 September and says that she completed eight months of her,
+,,"pregnancy 10 days ago, it becomes...",
+,,"[Metadata: subsection: History-taking, section_path: ['History-taking'], chunk_type: text, chunk_index: 2, total_chunks: 5]",
+,,,
+,,Chunk 4: planning method after delivery,
+,,Your baby is little over 1.5 feet in length and weighs,
+,,about 3 kg; now your baby is fully developed and will,
+,,gain more weight,
+,,CARD 9,
+,,"If the pregnant woman is receiving her ﬁ rst ANC contact in this month, then also refer ‘What is",
+,,"important to know?’ from Card 1 (Message 2 only) and from Card 4 (Messages 3, 4 and 5)  ",
+,,19,
+,,9th Month,
+,,Gestational weight,
+,,gain,
+,,Previous Current,
+,,Blood pressure,
+,,Continue to,
+,,consume IFA tablets,
+,,after delivery till,
+,,your baby is six,
+,,months,
+,,Co...,
+,,"[Metadata: section: These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of, section_path: ['These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of'], chunk_type: text, chunk_index: 23, total_chunks: 32]",
+,,,
+,,Chunk 5: This indicates the progress of pregnancy and foetal growth. The uterus becomes an abdominal organ after 12,
+,,weeks of gestation. The gestational age (in weeks) corresponds to the fundal height (in cm) after 24 weeks of,
+,,gestation. The normal fundal height is different at different weeks of pregnancy. Follow the following steps for,
+,,measuring fundal height,
+,,∙ Divide the abdomen into parts by imaginary lines to estimate the gestational age through the fundal height.,
+,,∙ The most important line is the ...,
+,,"[Metadata: chapter: 3 Care during Pregnancy, section: Measuring Fundal height:, section_path: ['3 Care during Pregnancy', 'Measuring Fundal height:'], chunk_type: text, total_chunks: 4]",
+,,,
+,,"Chunk 6: pregnant women that is, all being in the same month of pregnancy",
+,,1  ,
+,,1st Month,
+,,"1.  Congratulations! Your pregnancy is con ﬁ rmed; register soon so that you get a unique ID number, Mother Child Protection (MCP) card and",
+,,start getting ANC services,
+,,2.  You should get ANC services 8 times throughout your pregnancy (including PMSMA on the 9 th of every month); Services should include:,
+,,CARD 1,
+,,Your baby is smaller than a grain of rice but vital organs like,
+,,"the heart, brain and spinal cord have alrea...",
+,,"[Metadata: section: These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of, section_path: ['These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of'], chunk_type: text, total_chunks: 32]",
+,,,
+Response,gpt,"If your last menstrual period started on October 13th, and assuming today's date is close to February 13th, you would be approximately 18 weeks into your pregnancy. ",
+,,,
+,,"At around 18 weeks, your baby is growing rapidly. The baby would be about 5.5 to 6 inches long from head to bottom, and weighs around 6.7 ounces (190 grams). The baby's skeleton is hardening, changing from rubbery cartilage to bone, and the nervous system is developing. The ears are in their final position, and the baby can now hear your voice. The baby is also moving around, though you might or might not have started to feel these movements yet.",
+,,,
+,,"It's important to continue with regular prenatal check-ups to monitor the health and development of your baby. These visits often include measuring your belly to check the baby's growth, listening to the baby's heartbeat, and discussing any symptoms or concerns you might have.",
+,,,
+Claim,gpt,"Claim 1: If your last menstrual period started on October 13th, you would be approximately 18 weeks into your pregnancy around February 13th.",Factually Correct
+,,"Claim 2: At around 18 weeks, your baby is approximately 5.5 to 6 inches long from head to bottom.",Factually Correct
+,,"Claim 3: At around 18 weeks, your baby weighs around 6.7 ounces (190 grams).",Factually Correct
+,,"Claim 4: The baby's skeleton is hardening, changing from rubbery cartilage to bone at 18 weeks.",Factually Correct
+,,Claim 5: The nervous system is developing at 18 weeks.,Factually Correct
+,,"Claim 6: The ears are in their final position by 18 weeks, and the baby can now hear your voice.",Partially Correct
+,,"Claim 7: The baby is moving around at 18 weeks, though you might or might not have started to feel these movements yet.",Factually Correct
+,,"Claim 8: Regular prenatal check-ups at 18 weeks often include measuring your belly to check the baby's growth, listening to the baby's heartbeat, and discussing any symptoms or concerns you might have.",Factually Correct
+,,,
+Response,gpt_rag,"आपके गर्भ के चार महीने पूरे हो चुके हैं, इस समय आपका बच्चा तेजी से विकसित हो रहा है। चौथे महीने में, बच्चे की लंबाई लगभग 5 से 6 इंच (लगभग 12.7 से 15.2 सेंटीमीटर) होती है और वजन लगभग 100 ग्राम होता है। इस समय बच्चे का दिमाग, रीढ़ की हड्डी और तंत्रिका तंत्र पूरी तरह से कार्यात्मक हो चुके होते हैं, और उसके दांत और हड्डियाँ भी घनी होने लगती हैं। इस दौरान बच्चे का रक्त परिसंचरण भी शुरू हो जाता है। यह समय बच्चे के विकास के लिए बहुत महत्वपूर्ण होता है, इसलिए आपको पोषण युक्त आहार लेना चाहिए और नियमित रूप से डॉक्टर से जांच करवानी चाहिए।",
+,,,
+Claim,gpt_rag,"Claim 1: At four months of pregnancy, the baby's length is about 5 to 6 inches (approximately 12.7 to 15.2 centimeters)",Factually Correct
+,,"Claim 2: At four months of pregnancy, the baby's weight is about 100 grams",Factually Correct
+,,"Claim 3: By the fourth month, the baby’s brain, spinal cord, and nerve system are fully functional",Partially Correct
+,,"Claim 4: By the fourth month, the teeth and bones of the baby have started to become denser",Partially Correct
+,,"Claim 5: By the fourth month, the baby’s blood circulation has begun",Factually Correct
+,,"Claim 6: This time is very important for the baby's development, hence a nutritious diet should be taken and regular checkups should be done with the doctor",Factually Correct
+,,,
+Response,mixtral,Answer:**,
+,,        ,
+,,"Hello, it seems like you're asking about fetal development in a pregnancy that started around October 13th. However, I must clarify that a period is not an indication of pregnancy. Pregnancy is confirmed when a fertilized egg implants in the uterus, typically around 10-14 days after conception. ",
+,,,
+,,"If you have had a positive pregnancy test and it's been 4 months since your last period, you would be about 16-18 weeks pregnant. At this stage, the fetus is about the size of a sweet potato, around 4.6 to 5.6 inches long, and weighs approximately 5.25 to 11 ounces. The baby's features are becoming more distinct, and they can now hear your voice and respond to touch.",
+,,,
+,,"However, if you have not had a positive pregnancy test, it's likely that you are not pregnant and your period is simply overdue. It's important to consult with a healthcare professional if you have concerns about your menstrual cycle or any other health matters.",
+,,,
+Claim,mixtral,Claim 1: A period is not an indication of pregnancy.,Factually Correct
+,,"Claim 2: Pregnancy is confirmed when a fertilized egg implants in the uterus, typically around 10-14 days after conception.",Factually Correct
+,,"Claim 3: If it's been 4 months since your last period, you would be about 16-18 weeks pregnant.",Factually Correct
+,,"Claim 4: At 16-18 weeks pregnant, the fetus is about the size of a sweet potato, around 4.6 to 5.6 inches long, and weighs approximately 5.25 to 11 ounces.",Partially Correct
+,,"Claim 5: The baby's features are becoming more distinct, and they can now hear your voice and respond to touch around 16-18 weeks of gestation.",Factually Correct
+,,"Claim 6: If you have not had a positive pregnancy test, it's likely that you are not pregnant and your period is simply overdue.",Partially Correct
+,,Claim 7: It's important to consult with a healthcare professional if you have concerns about your menstrual cycle or any other health matters.,Factually Correct
+,,,
+Response,mixtral_rag,Answer:,
+,,        ,
+,,        ,
+,,"        According to the context provided, your baby is now 1.5 feet in length and weighs about 2.3 kg. Your baby will continue to gain weight and the brain and lungs will continue to develop in this month. It is important to ensure proper growth and development of the baby by eating at least 3 main meals and 2 nutritious snacks to meet the increased nutrient requirements. Additionally, it is recommended to continue consuming IFA and calcium tablets as prescribed by your healthcare provider.",
+,,,
+,,,
+Response,llama,Answer:**,
+,,         मैं आपकी चिंता को समझता हूँ।  ,
+,,         आपके मासिक चक्र के बाद 4 महीने हो गए हैं।  ,
+,,         गर्भावस्था के दौरान बच्चे का विकास बहुत तेजी से होता है।  ,
+,,         4 महीने में बच्चे का विकास लगभग 10 से 12 सेमी होगा।  ,
+,,"         इसके अलावा, बच्चे का वजन लगभग 600 ग्राम होगा।  ",
+,,"         लेकिन ध्यान रखें कि हर गर्भावस्था अलग-अलग होती है, और बच्चे का विकास व्यक्तिगत रूप से भी अलग-अलग हो सकता है।  ",
+,,"         यदि आपको कोई चिंता है या आपको और जानकारी चाहिए, तो कृपया मुझसे पूछें।  ",
+,,,
+,,**Translation:**,
+,,I understand your concern.  ,
+,,Your menstrual cycle has passed 4 months.  ,
+,,The baby's growth is very rapid during pregnancy.  ,
+,,"At 4 months, the baby's growth is approximately 10 to 12 cm.  ",
+,,"Additionally, the baby's weight will be around 600 grams.  ",
+,,"However, please note that every pregnancy is different, and the baby's growth can also be different individually.  ",
+,,"If you have any concerns or need more information, please ask me.  ",
+,,,
+,,"**Note:** I've used simple and clear language to explain the baby's growth at 4 months of gestation. I've also provided a range of values (10-12 cm) to account for individual variations. If the patient has any further questions or concerns, I've encouraged them to ask.",
+,,,
+Claim,llama,"Claim 1: At 4 months, the baby's growth is approximately 10 to 12 cm.",Factually Correct
+,,"Claim 2: Additionally, the baby's weight will be around 600 grams.",Factually Correct
+,,"Claim 3: Every pregnancy is different, and the baby's growth can also be different individually.",Factually Correct
+,,,
+Response,llama_rag,Answer:,
+,,"         Abhi 4 mahine ho gaye hain, is samay aapki baby ki growth 2.3 kg se 3.5 kg tak ho sakti hai. Is samay aapki baby ki lungon aur brain ki development bhi badh rahi hogi. Aapko apni diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar karna hoga. Aapko apne diet mein sehati aur poshan ke liye kuchh vishesh bhojanon ka aahar",
+,,,
+Claim,llama_rag,"Claim 1: At 4 months, the baby's weight is between 2.3 kg to 3.5 kg.",Factually Incorrect
+,,"Claim 2: At this time, the baby's lungs and brain are developing rapidly.",Partially Correct
+,,Claim 3: You need to include specific healthy and nutritious foods in your diet.,Factually Correct
+,,,
+Response,medalpaca,Answer:**,
+,,         Baby's growth is 4 inches long and weighs around 4 pounds now.,
+,,,
+Claim,medalpaca,Claim 1: Baby's growth is 4 inches long,Factually Incorrect
+,,Claim 2: Baby weighs around 4 pounds now,Factually Incorrect
+,,,
+Response,medalpaca_rag,Answer:,
+,,        ,
+,,Your baby is now as long as a bottle gourd and weighs almost 2 kg.; your baby is building fat stores and the brain is growing in size; your baby can now respond to light and sound,
+,,,
+Claim,medalpaca_rag,Claim 1: Your baby is now as long as a bottle gourd,Factually Incorrect
+,,Claim 2: Your baby weighs almost 2 kg.,Factually Incorrect
+,,Claim 3: Your baby is building fat stores,Factually Correct
+,,Claim 4: The brain is growing in size,Factually Correct
+,,Claim 5: Your baby can now respond to light and sound,Factually Correct
+,,,

@@ -1,0 +1,29 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "The response correctly states that it doesn't have specific information and recommends consulting a doctor. However, it makes a general claim that thyroid problems can affect breastfeeding, which is partially true but needs clarification.  While untreated thyroid issues *can* affect breastfeeding, properly managed thyroid conditions generally do not pose a risk. The response lacks this nuance.",
+    "problematic_claims": [
+      "Thyroid ki samasyaon ka ilaaj aur unka prabandhan zaroori hai, aur yeh aapke overall swasthya aur breastfeeding ke anubhav par asar daal sakta hai."
+    ]
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While deferring to a doctor is appropriate, the response misses the opportunity to provide some basic reassurance and information.  It doesn't acknowledge the user's concern directly (impact on breast milk) and creates some anxiety by mentioning potential effects without clarifying the context of *untreated/poorly managed* thyroid issues.",
+    "missing_information": [
+      "If the thyroid condition is well-managed with medication, it is generally safe to breastfeed.",
+      "Untreated or poorly controlled thyroid disorders can affect milk supply and potentially pass on thyroid hormones or antibodies through breast milk, which is why consulting a doctor is crucial."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and understandable Hinglish, appropriate for a user with average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "Deferring to a healthcare provider is culturally appropriate, especially in the context of Assam, India, where doctor consultations are highly valued. The Hinglish used is also suitable for the target audience."
+  },
+  "question": "mujhe thyroid h to kya isse bhi breast milk pe asar hota h",
+  "response": "Mujhe aapke sawaal ka jawab dene ke liye di gayi jaankari mein koi seedha sandarbh nahi mila hai ki thyroid ki samasya se breast milk par kya asar padta hai. Yeh zaroori hai ki aap apne healthcare provider se is vishay mein vistar se baat karein, kyunki ve aapki personal medical condition ko samajhne mein madad kar sakte hain aur sahi salah de sakte hain. Thyroid ki samasyaon ka ilaaj aur unka prabandhan zaroori hai, aur yeh aapke overall swasthya aur breastfeeding ke anubhav par asar daal sakta hai. Kripya apne doctor se sampark karein taaki aapko sahi margdarshan mil sake.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

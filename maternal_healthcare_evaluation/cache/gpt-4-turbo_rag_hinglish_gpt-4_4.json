@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe",
+  "response": "Aapko chinta karne ki zarurat nahi hai agar aapko pregnancy ke 2.5 mahine mein vomiting ya koi aur takleef nahi ho rahi hai. Har mahila ki pregnancy alag hoti hai, aur kuch mahilao ko vomiting ya morning sickness nahi hoti. Yeh bilkul normal hai. Lekin, agar aapko koi aur symptoms dikhayi de rahe hain jo aapko pareshan kar rahe hain, toh aapko apne healthcare provider se zaroor consult karna chahiye. Woh aapki aur aapke baby ki health ka sahi se assessment kar sakenge. Aapka dhyan rakhna aur regular check-ups karwana important hai.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

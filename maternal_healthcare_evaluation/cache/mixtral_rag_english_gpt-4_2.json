@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "It sounds like you might be experiencing prickly heat or heat rash, which can cause itching and small red bumps on the skin. This is usually harmless and goes away on its own once the skin cools down. To help soothe the itching, you can try the following:\n\n1. Stay in a cool, airy place to allow your skin to breathe and reduce sweating.\n2. Wear loose, light clothing made of natural fibers like cotton.\n3. Avoid using harsh soaps, lotions, or perfumes that might irritate your skin.\n4. Take cool showers or baths to help relieve itching.\n5. Apply calamine lotion or aloe vera gel to the affected areas to soothe the skin.\n\nHowever, if the itching is severe, persistent, or accompanied by other symptoms like fever, rash, or swelling, it's important to consult a healthcare provider for further evaluation. They can help determine the cause of your symptoms and recommend appropriate treatment.",
+  "language": "english",
+  "judge": "gpt-4"
+}

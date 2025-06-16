@@ -1,0 +1,30 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "While gas or muscle strain *could* be contributing factors to abdominal pain after prolonged sitting, the AI completely missed the crucial point that the user states she is in her third trimester.  Abdominal pain during the third trimester should be investigated by a doctor, and could indicate serious issues such as preterm labor, placental abruption, or pre-eclampsia. Suggesting stretches and walks without acknowledging the pregnancy context is potentially harmful.",
+    "problematic_claims": [
+      "If you are experiencing abdominal pain after sitting for a long time, it might be due to gas or muscle strain.",
+      "You can try taking a walk or doing some light stretching exercises to relieve the pain."
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response completely fails to address the user's statement about being in the third trimester (satta ma lag chuka hai). This is the most critical piece of information provided.  It also doesn't acknowledge the dizziness upon standing, which, combined with abdominal pain in pregnancy, could indicate serious blood pressure issues.",
+    "missing_information": [
+      "The user's pregnancy status dramatically changes the potential causes of her symptoms and requires immediate medical attention.  The AI should have prioritized this information and advised consultation with a doctor.",
+      "Dizziness upon standing, especially during pregnancy, can be a sign of low blood pressure or other complications and should be investigated."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The English used in the response is simple and easy to understand."
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "The AI completely failed to recognize and address the Hindi phrase \"satta ma lag chuka hai\" which means the seventh month of pregnancy has started. This demonstrates a lack of understanding of the cultural context and language nuances.  Furthermore, in many parts of India, especially Assam, access to healthcare can be challenging, and relying on home remedies or delaying consultation can have serious consequences.  The AI should have taken this into account and strongly encouraged seeking medical advice given the user's pregnancy and symptoms."
+  },
+  "question": "\u091c\u092f\u0926\u093e \u091f\u093e\u0907\u092e \u0924\u0915 \u092c\u0948\u0920\u0928\u0947 \u0938\u0947 \u091a\u0915\u094d\u0915\u0930 \u0906\u0928\u093e \u0916\u0921\u093c\u093e \u0939\u094b\u0928\u0947 \u0938\u0947 \u092a\u0947\u091f \u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948\u092e\u0947\u0930\u0947 \u0915\u094b \u0915\u094c\u0928 \u0938\u0940 \u091f\u0947\u092c\u0932\u0947\u091f \u0916\u093e\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u0905\u092d\u0940 \u0938\u091f\u094d\u091f\u093e \u092e\u093e \u0932\u0917 \u091a\u0941\u0915\u093e \u0939\u0948",
+  "response": "If you are experiencing abdominal pain after sitting for a long time, it might be due to gas or muscle strain. You can try taking a walk or doing some light stretching exercises to relieve the pain. If the pain persists or is severe, it is recommended to consult a healthcare provider for a proper diagnosis and treatment.",
+  "language": "hindi",
+  "judge": "gemini-pro"
+}

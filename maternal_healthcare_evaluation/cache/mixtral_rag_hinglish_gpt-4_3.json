@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "mujhe thyroid h to kya isse bhi breast milk pe asar hota h",
+  "response": "Thyroid issues can affect breast milk production, but it depends on the type and severity of the thyroid disorder. If you have concerns about your thyroid and how it might be affecting your breast milk, it's important to consult with a healthcare provider for personalized advice. They can evaluate your thyroid function and provide appropriate guidance to ensure the health and well-being of both you and your baby.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

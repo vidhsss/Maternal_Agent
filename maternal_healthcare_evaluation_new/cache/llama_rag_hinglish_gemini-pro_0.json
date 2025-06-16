@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI acknowledges its lack of specific information regarding mango consumption during pregnancy within its guidelines and correctly advises consulting a healthcare provider.  There are no medically incorrect statements.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While deferring to a doctor is the most responsible action, the AI could provide *some* general information about fruit consumption and potential considerations during pregnancy.  Completely omitting any information about mangoes might leave the user feeling dismissed.",
+    "missing_information": [
+      "Mangoes are generally a good source of vitamins and minerals. However, portion control is important due to their sugar content. ",
+      "Some women experience gestational diabetes, making it crucial to monitor sugar intake.  A doctor can provide personalized guidance on this."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for a Hinglish speaker. The AI clearly states its limitations and provides a clear recommendation to consult a healthcare provider."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While deferring to a doctor is generally appropriate, acknowledging the cultural context of mango consumption in Assam (and India more broadly) would improve the response. Mangoes are a popular and readily available fruit, so briefly mentioning their general nutritional value while still emphasizing the importance of personalized medical advice would be more culturally relevant."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "I don't have enough information to answer this question based on the provided guidelines. The guidelines do not mention mango as a recommended or restricted food item during pregnancy. However, it is always best to consult a healthcare provider for personalized advice on what foods are safe and healthy during pregnancy.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

@@ -1,0 +1,787 @@
+2025-04-10 02:05:38,764 - INFO - Loading responses from gpt-4-turbo.json...
+2025-04-10 02:05:38,766 - ERROR - Error loading gpt-4-turbo.json: [Errno 2] No such file or directory: 'gpt-4-turbo.json'
+2025-04-10 02:05:38,767 - INFO - Loading responses from gpt-4-turbo_rag.json...
+2025-04-10 02:05:38,768 - ERROR - Error loading gpt-4-turbo_rag.json: [Errno 2] No such file or directory: 'gpt-4-turbo_rag.json'
+2025-04-10 02:05:38,769 - INFO - Loading responses from mixtral.json...
+2025-04-10 02:05:38,770 - ERROR - Error loading mixtral.json: [Errno 2] No such file or directory: 'mixtral.json'
+2025-04-10 02:05:38,771 - INFO - Loading responses from mixtral_rag.json...
+2025-04-10 02:05:38,772 - ERROR - Error loading mixtral_rag.json: [Errno 2] No such file or directory: 'mixtral_rag.json'
+2025-04-10 02:05:38,780 - INFO - Starting evaluation with judge: gpt-4
+2025-04-10 02:05:38,787 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation/evaluation_results.json
+2025-04-10 02:05:38,788 - INFO - Saved summary results to ./maternal_healthcare_evaluation/evaluation_summary.json
+2025-04-10 02:05:38,791 - INFO - Generated markdown report at ./maternal_healthcare_evaluation/evaluation_report.md
+2025-04-10 02:05:38,792 - INFO - Generated visual reports in ./maternal_healthcare_evaluation/visuals
+2025-04-10 02:06:47,563 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 02:06:47,567 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 02:06:47,569 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 02:06:47,570 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 02:06:47,571 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 02:06:47,573 - INFO - Loaded responses for mixtral
+2025-04-10 02:06:47,574 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 02:06:47,576 - INFO - Loaded responses for mixtral_rag
+2025-04-10 02:06:47,577 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 02:06:47,579 - INFO - Loaded responses for llama
+2025-04-10 02:06:47,580 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 02:06:47,581 - INFO - Loaded responses for llama_rag
+2025-04-10 02:06:47,590 - INFO - Starting evaluation with judge: gpt-4
+2025-04-10 02:06:47,594 - INFO - Evaluating gpt-4-turbo for english with gpt-4
+2025-04-10 02:06:48,684 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,684 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,684 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,684 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,684 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,689 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,690 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,694 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,696 - INFO - Evaluating gpt-4-turbo for hindi with gpt-4
+2025-04-10 02:06:48,699 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,701 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,715 - INFO - Evaluating gpt-4-turbo_rag for english with gpt-4
+2025-04-10 02:06:48,716 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,718 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,719 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,719 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,721 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,723 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,726 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,729 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,733 - INFO - Evaluating gpt-4-turbo_rag for hindi with gpt-4
+2025-04-10 02:06:48,741 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,743 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,745 - INFO - Evaluating mixtral for english with gpt-4
+2025-04-10 02:06:48,747 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,749 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,750 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,751 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,753 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,754 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,756 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,757 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,760 - INFO - Evaluating mixtral for hindi with gpt-4
+2025-04-10 02:06:48,764 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,765 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,767 - INFO - Evaluating mixtral_rag for english with gpt-4
+2025-04-10 02:06:48,768 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,771 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,772 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,773 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,774 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,774 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,776 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,786 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,789 - INFO - Evaluating mixtral_rag for hindi with gpt-4
+2025-04-10 02:06:48,802 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,804 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,806 - INFO - Evaluating llama for english with gpt-4
+2025-04-10 02:06:48,815 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,816 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,817 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,818 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,820 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,821 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,821 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,822 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,829 - INFO - Evaluating llama for hindi with gpt-4
+2025-04-10 02:06:48,839 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,844 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,850 - INFO - Evaluating llama_rag for english with gpt-4
+2025-04-10 02:06:48,853 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,854 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,855 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,855 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,857 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,861 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,862 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,863 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,867 - INFO - Evaluating llama_rag for hindi with gpt-4
+2025-04-10 02:06:48,877 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,877 - ERROR - Error getting evaluation from gpt-4: Error calling OpenAI API: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 02:06:48,884 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation/evaluation_results.json
+2025-04-10 02:06:48,885 - INFO - Saved summary results to ./maternal_healthcare_evaluation/evaluation_summary.json
+2025-04-10 02:06:50,993 - INFO - Generated markdown report at ./maternal_healthcare_evaluation/evaluation_report.md
+2025-04-10 02:06:51,000 - INFO - Generated visual reports in ./maternal_healthcare_evaluation/visuals
+2025-04-10 02:25:16,971 - INFO - Loading faiss with AVX2 support.
+2025-04-10 02:25:17,001 - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-10 02:25:17,009 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-10 02:25:33,915 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 02:25:33,918 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 02:25:33,919 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 02:25:33,921 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 02:25:33,922 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 02:25:33,923 - INFO - Loaded responses for mixtral
+2025-04-10 02:25:33,924 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 02:25:33,925 - INFO - Loaded responses for mixtral_rag
+2025-04-10 02:25:33,926 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 02:25:33,927 - INFO - Loaded responses for llama
+2025-04-10 02:25:33,928 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 02:25:33,929 - INFO - Loaded responses for llama_rag
+2025-04-10 02:25:33,932 - INFO - Starting evaluation with judge: gpt-4
+2025-04-10 02:25:33,935 - INFO - Evaluating gpt-4-turbo for english with gpt-4
+2025-04-10 02:25:45,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:25:45,909 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:25:48,125 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:25:48,128 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response provi...
+2025-04-10 02:25:49,106 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:25:49,120 - INFO - Evaluating gpt-4-turbo for hindi with gpt-4
+2025-04-10 02:26:00,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:01,223 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:01,227 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:26:01,233 - INFO - Evaluating gpt-4-turbo for hinglish with gpt-4
+2025-04-10 02:26:12,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:12,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:13,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:13,845 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:15,492 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:15,504 - INFO - Evaluating gpt-4-turbo_rag for english with gpt-4
+2025-04-10 02:26:27,001 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:27,103 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:30,286 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:30,294 - INFO - Evaluating gpt-4-turbo_rag for hindi with gpt-4
+2025-04-10 02:26:39,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:39,931 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The response is medical...
+2025-04-10 02:26:40,527 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:40,534 - INFO - Evaluating gpt-4-turbo_rag for hinglish with gpt-4
+2025-04-10 02:26:50,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:50,223 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The advice provided in ...
+2025-04-10 02:26:54,161 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:55,267 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:55,619 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:55,622 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The response correctly ...
+2025-04-10 02:26:56,305 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:26:56,308 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response accur...
+2025-04-10 02:26:56,317 - INFO - Evaluating mixtral for english with gpt-4
+2025-04-10 02:27:06,174 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:06,179 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:27:06,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:15,145 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:15,149 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "All claims in the respo...
+2025-04-10 02:27:15,156 - INFO - Evaluating mixtral for hindi with gpt-4
+2025-04-10 02:27:34,330 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:35,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:35,705 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The response seems to m...
+2025-04-10 02:27:35,713 - INFO - Evaluating mixtral for hinglish with gpt-4
+2025-04-10 02:27:56,864 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:57,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:57,621 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The advice to keep the ...
+2025-04-10 02:27:59,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:27:59,444 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:28:02,179 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:02,183 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:28:04,253 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:04,256 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The response implies th...
+2025-04-10 02:28:04,267 - INFO - Evaluating mixtral_rag for english with gpt-4
+2025-04-10 02:28:17,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:17,254 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The medical advice prov...
+2025-04-10 02:28:18,383 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:19,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:19,569 - INFO - Evaluating mixtral_rag for hindi with gpt-4
+2025-04-10 02:28:35,661 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:35,664 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The response's advice i...
+2025-04-10 02:28:37,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:37,098 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The response seems to m...
+2025-04-10 02:28:37,106 - INFO - Evaluating mixtral_rag for hinglish with gpt-4
+2025-04-10 02:28:49,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:49,559 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The advice to keep the ...
+2025-04-10 02:28:49,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:54,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:54,294 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:28:56,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:56,643 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:28:58,785 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:28:58,797 - INFO - Evaluating llama for english with gpt-4
+2025-04-10 02:29:08,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:11,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:11,852 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The response inaccurate...
+2025-04-10 02:29:14,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:14,550 - INFO - Evaluating llama for hindi with gpt-4
+2025-04-10 02:29:28,787 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:29,336 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:29,341 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 3,
+        "justification": "The response is highly ...
+2025-04-10 02:29:29,347 - INFO - Evaluating llama for hinglish with gpt-4
+2025-04-10 02:29:40,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:43,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:48,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:49,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:49,579 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The advice to keep the ...
+2025-04-10 02:29:50,614 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:29:50,617 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The response correctly ...
+2025-04-10 02:29:50,627 - INFO - Evaluating llama_rag for english with gpt-4
+2025-04-10 02:30:05,406 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:06,491 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:06,494 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response provi...
+2025-04-10 02:30:07,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:07,457 - INFO - Evaluating llama_rag for hindi with gpt-4
+2025-04-10 02:30:21,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:22,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:22,948 - INFO - Evaluating llama_rag for hinglish with gpt-4
+2025-04-10 02:30:36,012 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:36,020 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 2,
+        "justification": "The response suggests k...
+2025-04-10 02:30:36,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:37,354 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:38,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:40,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 02:30:40,064 - WARNING - Failed to parse JSON response: ```json
+{
+    "correctness": {
+        "score": 1,
+        "justification": "The AI's response is me...
+2025-04-10 02:30:40,095 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation/evaluation_results.json
+2025-04-10 02:30:40,097 - INFO - Saved summary results to ./maternal_healthcare_evaluation/evaluation_summary.json
+2025-04-10 02:30:44,391 - INFO - Generated markdown report at ./maternal_healthcare_evaluation/evaluation_report.md
+2025-04-10 02:30:44,414 - INFO - Generated visual reports in ./maternal_healthcare_evaluation/visuals
+2025-04-10 03:07:07,530 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:07:07,533 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:07:07,534 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:07:07,535 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:07:07,536 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:07:07,537 - INFO - Loaded responses for mixtral
+2025-04-10 03:07:07,537 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:07:07,538 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:07:07,539 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:07:07,540 - INFO - Loaded responses for llama
+2025-04-10 03:07:07,541 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:07:07,543 - INFO - Loaded responses for llama_rag
+2025-04-10 03:07:07,545 - INFO - Starting evaluation with judge: gpt-4
+2025-04-10 03:07:07,547 - INFO - Evaluating gpt-4-turbo for english with gpt-4
+2025-04-10 03:07:07,552 - INFO - Evaluating gpt-4-turbo for hindi with gpt-4
+2025-04-10 03:07:07,557 - INFO - Evaluating gpt-4-turbo for hinglish with gpt-4
+2025-04-10 03:07:07,563 - INFO - Evaluating gpt-4-turbo_rag for english with gpt-4
+2025-04-10 03:07:07,569 - INFO - Evaluating gpt-4-turbo_rag for hindi with gpt-4
+2025-04-10 03:07:07,580 - INFO - Evaluating gpt-4-turbo_rag for hinglish with gpt-4
+2025-04-10 03:07:07,590 - INFO - Evaluating mixtral for english with gpt-4
+2025-04-10 03:07:07,595 - INFO - Evaluating mixtral for hindi with gpt-4
+2025-04-10 03:07:07,599 - INFO - Evaluating mixtral for hinglish with gpt-4
+2025-04-10 03:07:07,605 - INFO - Evaluating mixtral_rag for english with gpt-4
+2025-04-10 03:07:07,610 - INFO - Evaluating mixtral_rag for hindi with gpt-4
+2025-04-10 03:07:07,614 - INFO - Evaluating mixtral_rag for hinglish with gpt-4
+2025-04-10 03:07:07,619 - INFO - Evaluating llama for english with gpt-4
+2025-04-10 03:07:07,624 - INFO - Evaluating llama for hindi with gpt-4
+2025-04-10 03:07:07,631 - INFO - Evaluating llama for hinglish with gpt-4
+2025-04-10 03:07:07,649 - INFO - Evaluating llama_rag for english with gpt-4
+2025-04-10 03:07:07,655 - INFO - Evaluating llama_rag for hindi with gpt-4
+2025-04-10 03:07:07,663 - INFO - Evaluating llama_rag for hinglish with gpt-4
+2025-04-10 03:07:07,716 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation/evaluation_results.json
+2025-04-10 03:07:07,720 - INFO - Saved summary results to ./maternal_healthcare_evaluation/evaluation_summary.json
+2025-04-10 03:07:11,915 - INFO - Generated markdown report at ./maternal_healthcare_evaluation/evaluation_report.md
+2025-04-10 03:07:11,934 - INFO - Generated visual reports in ./maternal_healthcare_evaluation/visuals
+2025-04-10 03:08:21,225 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:08:21,229 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:08:21,232 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:08:21,233 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:08:21,234 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:08:21,235 - INFO - Loaded responses for mixtral
+2025-04-10 03:08:21,236 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:08:21,239 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:08:21,240 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:08:21,242 - INFO - Loaded responses for llama
+2025-04-10 03:08:21,243 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:08:21,244 - INFO - Loaded responses for llama_rag
+2025-04-10 03:08:21,246 - INFO - Starting evaluation with judge: gemini-pro
+2025-04-10 03:08:21,250 - INFO - Evaluating gpt-4-turbo for english with gemini-pro
+2025-04-10 03:08:21,255 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,256 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,258 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,260 - INFO - Evaluating gpt-4-turbo for hindi with gemini-pro
+2025-04-10 03:08:21,265 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,266 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,268 - INFO - Evaluating gpt-4-turbo for hinglish with gemini-pro
+2025-04-10 03:08:21,275 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,277 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,278 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,279 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,284 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,286 - INFO - Evaluating gpt-4-turbo_rag for english with gemini-pro
+2025-04-10 03:08:21,288 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,289 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,292 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,294 - INFO - Evaluating gpt-4-turbo_rag for hindi with gemini-pro
+2025-04-10 03:08:21,299 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,300 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,302 - INFO - Evaluating gpt-4-turbo_rag for hinglish with gemini-pro
+2025-04-10 03:08:21,305 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,307 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,309 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,310 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,311 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,317 - INFO - Evaluating mixtral for english with gemini-pro
+2025-04-10 03:08:21,318 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,322 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,324 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,326 - INFO - Evaluating mixtral for hindi with gemini-pro
+2025-04-10 03:08:21,332 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,334 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,336 - INFO - Evaluating mixtral for hinglish with gemini-pro
+2025-04-10 03:08:21,337 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,338 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,339 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,340 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,342 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,346 - INFO - Evaluating mixtral_rag for english with gemini-pro
+2025-04-10 03:08:21,349 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,350 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,356 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,358 - INFO - Evaluating mixtral_rag for hindi with gemini-pro
+2025-04-10 03:08:21,363 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,364 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,366 - INFO - Evaluating mixtral_rag for hinglish with gemini-pro
+2025-04-10 03:08:21,377 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,379 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,382 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,383 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,384 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,389 - INFO - Evaluating llama for english with gemini-pro
+2025-04-10 03:08:21,400 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,410 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,411 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,414 - INFO - Evaluating llama for hindi with gemini-pro
+2025-04-10 03:08:21,425 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,426 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,428 - INFO - Evaluating llama for hinglish with gemini-pro
+2025-04-10 03:08:21,442 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,444 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,445 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,448 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,450 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,454 - INFO - Evaluating llama_rag for english with gemini-pro
+2025-04-10 03:08:21,473 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,474 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,476 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,481 - INFO - Evaluating llama_rag for hindi with gemini-pro
+2025-04-10 03:08:21,485 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,487 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,490 - INFO - Evaluating llama_rag for hinglish with gemini-pro
+2025-04-10 03:08:21,492 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,493 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,494 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,494 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,496 - ERROR - Error getting evaluation from gemini-pro: Google Generative AI package not installed. Install with: pip install google-generativeai
+2025-04-10 03:08:21,508 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation/evaluation_results.json
+2025-04-10 03:08:21,510 - INFO - Saved summary results to ./maternal_healthcare_evaluation/evaluation_summary.json
+2025-04-10 03:08:23,313 - INFO - Generated markdown report at ./maternal_healthcare_evaluation/evaluation_report.md
+2025-04-10 03:08:23,338 - INFO - Generated visual reports in ./maternal_healthcare_evaluation/visuals
+2025-04-10 03:08:57,936 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:08:57,939 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:08:57,939 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:08:57,941 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:08:57,941 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:08:57,942 - INFO - Loaded responses for mixtral
+2025-04-10 03:08:57,943 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:08:57,944 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:08:57,945 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:08:57,946 - INFO - Loaded responses for llama
+2025-04-10 03:08:57,947 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:08:57,948 - INFO - Loaded responses for llama_rag
+2025-04-10 03:08:57,950 - INFO - Starting evaluation with judge: gemini-pro
+2025-04-10 03:08:57,952 - INFO - Evaluating gpt-4-turbo for english with gemini-pro
+2025-04-10 03:09:10,905 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:11,055 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:11,094 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:11,096 - INFO - Evaluating gpt-4-turbo for hindi with gemini-pro
+2025-04-10 03:09:23,199 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:23,204 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:31,700 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:09:31,702 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:09:31,702 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:09:31,704 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:09:31,704 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:09:31,705 - INFO - Loaded responses for mixtral
+2025-04-10 03:09:31,706 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:09:31,707 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:09:31,708 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:09:31,709 - INFO - Loaded responses for llama
+2025-04-10 03:09:31,710 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:09:31,711 - INFO - Loaded responses for llama_rag
+2025-04-10 03:09:31,715 - INFO - Starting evaluation with judge: gemini-pro
+2025-04-10 03:09:31,717 - INFO - Evaluating gpt-4-turbo for english with gemini-pro
+2025-04-10 03:09:43,917 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:43,999 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:44,287 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:44,310 - INFO - Evaluating gpt-4-turbo for hindi with gemini-pro
+2025-04-10 03:09:56,394 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:56,484 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:09:56,488 - INFO - Evaluating gpt-4-turbo for hinglish with gemini-pro
+2025-04-10 03:10:08,389 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:10:08,568 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:10:08,615 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:10:08,651 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:10:08,686 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:13:41,692 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:13:41,693 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:13:41,694 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:13:41,695 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:13:41,696 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:13:41,697 - INFO - Loaded responses for mixtral
+2025-04-10 03:13:41,698 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:13:41,699 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:13:41,700 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:13:41,701 - INFO - Loaded responses for llama
+2025-04-10 03:13:41,702 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:13:41,704 - INFO - Loaded responses for llama_rag
+2025-04-10 03:13:41,709 - INFO - Starting evaluation with judge: gemini-pro
+2025-04-10 03:13:41,712 - INFO - Evaluating gpt-4-turbo for english with gemini-pro
+2025-04-10 03:13:54,106 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:13:54,232 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:13:54,383 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:13:54,388 - INFO - Evaluating gpt-4-turbo for hindi with gemini-pro
+2025-04-10 03:14:06,425 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:14:06,478 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:14:06,480 - INFO - Evaluating gpt-4-turbo for hinglish with gemini-pro
+2025-04-10 03:14:18,276 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:14:18,489 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:14:18,602 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:14:18,612 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:14:18,694 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2025-04-10 03:15:52,353 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:15:52,355 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:15:52,356 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:15:52,357 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:15:52,357 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:15:52,358 - INFO - Loaded responses for mixtral
+2025-04-10 03:15:52,359 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:15:52,360 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:15:52,360 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:15:52,361 - INFO - Loaded responses for llama
+2025-04-10 03:15:52,362 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:15:52,363 - INFO - Loaded responses for llama_rag
+2025-04-10 03:15:52,365 - INFO - Starting evaluation with judge: gemini-pro
+2025-04-10 03:15:52,367 - INFO - Evaluating gpt-4-turbo for english with gemini-pro
+2025-04-10 03:15:52,604 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,605 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,608 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,610 - INFO - Evaluating gpt-4-turbo for hindi with gemini-pro
+2025-04-10 03:15:52,717 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,731 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,734 - INFO - Evaluating gpt-4-turbo for hinglish with gemini-pro
+2025-04-10 03:15:52,839 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,839 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,840 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,841 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,851 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,858 - INFO - Evaluating gpt-4-turbo_rag for english with gemini-pro
+2025-04-10 03:15:52,957 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:52,968 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,094 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,097 - INFO - Evaluating gpt-4-turbo_rag for hindi with gemini-pro
+2025-04-10 03:15:53,186 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,203 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,205 - INFO - Evaluating gpt-4-turbo_rag for hinglish with gemini-pro
+2025-04-10 03:15:53,287 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,296 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,307 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,308 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,309 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,312 - INFO - Evaluating mixtral for english with gemini-pro
+2025-04-10 03:15:53,417 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,418 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,434 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,435 - INFO - Evaluating mixtral for hindi with gemini-pro
+2025-04-10 03:15:53,651 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,655 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,657 - INFO - Evaluating mixtral for hinglish with gemini-pro
+2025-04-10 03:15:53,744 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,758 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,758 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,765 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,767 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,772 - INFO - Evaluating mixtral_rag for english with gemini-pro
+2025-04-10 03:15:53,853 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,856 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,864 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:53,866 - INFO - Evaluating mixtral_rag for hindi with gemini-pro
+2025-04-10 03:15:53,970 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,004 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,007 - INFO - Evaluating mixtral_rag for hinglish with gemini-pro
+2025-04-10 03:15:54,098 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,100 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,101 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,113 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,123 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,127 - INFO - Evaluating llama for english with gemini-pro
+2025-04-10 03:15:54,221 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,223 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,291 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,296 - INFO - Evaluating llama for hindi with gemini-pro
+2025-04-10 03:15:54,388 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,404 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,407 - INFO - Evaluating llama for hinglish with gemini-pro
+2025-04-10 03:15:54,495 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,500 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,509 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,517 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,529 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,536 - INFO - Evaluating llama_rag for english with gemini-pro
+2025-04-10 03:15:54,637 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,640 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,650 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,653 - INFO - Evaluating llama_rag for hindi with gemini-pro
+2025-04-10 03:15:54,736 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,744 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,748 - INFO - Evaluating llama_rag for hinglish with gemini-pro
+2025-04-10 03:15:54,848 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,849 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,852 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,853 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,861 - ERROR - Error getting evaluation from gemini-pro: Error calling Google API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-10 03:15:54,867 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation_new/evaluation_results.json
+2025-04-10 03:15:54,868 - INFO - Saved summary results to ./maternal_healthcare_evaluation_new/evaluation_summary.json
+2025-04-10 03:15:56,930 - INFO - Generated markdown report at ./maternal_healthcare_evaluation_new/evaluation_report.md
+2025-04-10 03:15:56,937 - INFO - Generated visual reports in ./maternal_healthcare_evaluation_new/visuals
+2025-04-10 03:18:05,449 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:18:05,451 - INFO - Loaded responses for gpt-4-turbo
+2025-04-10 03:18:05,452 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/gpt-4-turbo_rag.json...
+2025-04-10 03:18:05,455 - INFO - Loaded responses for gpt-4-turbo_rag
+2025-04-10 03:18:05,456 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:18:05,458 - INFO - Loaded responses for mixtral
+2025-04-10 03:18:05,459 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/mixtral_rag.json...
+2025-04-10 03:18:05,461 - INFO - Loaded responses for mixtral_rag
+2025-04-10 03:18:05,461 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:18:05,464 - INFO - Loaded responses for llama
+2025-04-10 03:18:05,464 - INFO - Loading responses from /home/vidhij2/nivi/test_docs/llama_rag.json...
+2025-04-10 03:18:05,467 - INFO - Loaded responses for llama_rag
+2025-04-10 03:18:05,471 - INFO - Starting evaluation with judge: gemini-pro
+2025-04-10 03:18:05,476 - INFO - Evaluating gpt-4-turbo for english with gemini-pro
+2025-04-10 03:18:12,876 - INFO - Evaluating gpt-4-turbo for hindi with gemini-pro
+2025-04-10 03:18:21,090 - WARNING - Failed to parse JSON response: ```json
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI correctly states it cannot...
+2025-04-10 03:18:21,101 - INFO - Evaluating gpt-4-turbo for hinglish with gemini-pro
+2025-04-10 03:18:29,446 - INFO - Evaluating gpt-4-turbo_rag for english with gemini-pro
+2025-04-10 03:18:36,946 - INFO - Evaluating gpt-4-turbo_rag for hindi with gemini-pro
+2025-04-10 03:18:45,850 - INFO - Evaluating gpt-4-turbo_rag for hinglish with gemini-pro
+2025-04-10 03:18:53,595 - INFO - Evaluating mixtral for english with gemini-pro
+2025-04-10 03:19:01,381 - INFO - Evaluating mixtral for hindi with gemini-pro
+2025-04-10 03:19:10,589 - INFO - Evaluating mixtral for hinglish with gemini-pro
+2025-04-10 03:19:17,123 - WARNING - Failed to parse JSON response: ```json
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically sound. M...
+2025-04-10 03:19:19,996 - INFO - Evaluating mixtral_rag for english with gemini-pro
+2025-04-10 03:19:28,587 - INFO - Evaluating mixtral_rag for hindi with gemini-pro
+2025-04-10 03:19:38,081 - INFO - Evaluating mixtral_rag for hinglish with gemini-pro
+2025-04-10 03:19:47,316 - INFO - Evaluating llama for english with gemini-pro
+2025-04-10 03:19:54,787 - INFO - Evaluating llama for hindi with gemini-pro
+2025-04-10 03:20:03,761 - WARNING - Failed to parse JSON response: ```json
+{
+  "correctness": {
+    "score": 2,
+    "justification": "While dizziness and abdominal pai...
+2025-04-10 03:20:03,770 - INFO - Evaluating llama for hinglish with gemini-pro
+2025-04-10 03:20:12,943 - INFO - Evaluating llama_rag for english with gemini-pro
+2025-04-10 03:20:20,716 - INFO - Evaluating llama_rag for hindi with gemini-pro
+2025-04-10 03:20:29,549 - WARNING - Failed to parse JSON response: ```json
+{
+  "correctness": {
+    "score": 2,
+    "justification": "While dizziness and abdominal pai...
+2025-04-10 03:20:29,556 - INFO - Evaluating llama_rag for hinglish with gemini-pro
+2025-04-10 03:20:38,543 - INFO - Saved full evaluation results to ./maternal_healthcare_evaluation_new/evaluation_results.json
+2025-04-10 03:20:38,546 - INFO - Saved summary results to ./maternal_healthcare_evaluation_new/evaluation_summary.json
+2025-04-10 03:20:44,569 - INFO - Generated markdown report at ./maternal_healthcare_evaluation_new/evaluation_report.md
+2025-04-10 03:20:44,587 - INFO - Generated visual reports in ./maternal_healthcare_evaluation_new/visuals

@@ -1,0 +1,31 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "Most claims are correct, but using moisturizers on prickly heat is not advisable as it can further block sweat glands.  Also, while antihistamines can help with itching, they aren't a primary treatment for prickly heat. Hydrocortisone cream can provide relief but should be used sparingly and under the guidance of a doctor, especially during pregnancy.",
+    "problematic_claims": [
+      "using moisturizers to soothe the affected area."
+    ]
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response covers the basics but omits important information related to clothing and environment, particularly relevant in a hot and humid climate like Assam, India.",
+    "missing_information": [
+      "Wear loose, breathable clothing made of cotton or linen to allow air circulation and prevent further irritation.",
+      "Avoid tight-fitting clothes and synthetic fabrics.",
+      "Stay in cool, well-ventilated areas. Use fans or air conditioning to reduce sweating.",
+      "Keep the affected area dry. Pat the skin dry instead of rubbing after showering or sweating."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language is simple and easy to understand for a user of average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the language is generally appropriate, the advice lacks specific consideration for the hot and humid climate of Assam, India.  Access to air conditioning might not be universal, and recommending loose cotton clothing would be more culturally relevant and helpful."
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "Prickly heat is a common skin condition that occurs when the skin's sweat glands become overactive. It's usually harmless and can be treated with self-care measures. You can try applying cool compresses, taking cool showers, and using moisturizers to soothe the affected area. If the symptoms persist or worsen, it's always best to consult a healthcare provider for further guidance. They can assess the situation and provide personalized advice. In the meantime, you can try over-the-counter antihistamines or hydrocortisone cream to help alleviate itching and discomfort. However, if you experience any signs of infection, such as increased redness, swelling, or pus, seek medical attention immediately.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

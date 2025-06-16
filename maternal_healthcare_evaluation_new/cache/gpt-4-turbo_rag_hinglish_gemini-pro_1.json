@@ -1,0 +1,30 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "Most of the advice is generally sound, but some aspects are not entirely accurate and could be misleading.  Overdressing a baby can be dangerous, and radiant warmers are specialized equipment not available at home.",
+    "problematic_claims": [
+      "Bacche ko acche se cover karein, khaaskar uske sir aur pair ko. Thandi mausam mein, bacche ko extra kapde pahnaayein.",
+      "Agar aapke paas radiant warmer hai toh uska istemal karein."
+    ]
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response addresses some key aspects of managing a cold in a baby, it omits crucial information about hydration and when to seek professional medical help. It focuses on keeping the baby warm but doesn't mention other important symptoms to watch out for.",
+    "missing_information": [
+      "Encourage frequent breastfeeding or formula feeding to keep the baby hydrated.",
+      "Look for signs of dehydration like less frequent wet diapers, sunken eyes, or lethargy.  Also, be aware of serious symptoms like difficulty breathing, high fever, or refusal to feed, which warrant immediate medical attention."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for a Hinglish-speaking audience with average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "The advice is generally culturally appropriate for the context, especially mentioning kangaroo mother care. However, assuming access to a radiant warmer is not realistic for most households in Assam, India.  The advice about keeping the baby warm is important, but needs to be balanced with cautions about overbundling, which is a risk in resource-limited settings where overheating can go unnoticed more easily."
+  },
+  "question": "Bacche ko Tej Sardi ho to kaise usko maintain Karen",
+  "response": "Agar bacche ko tej sardi ho rahi hai, toh yeh kuch upay hain jo aap kar sakti hain:\n\n1. Bacche ko garam rakhein: Bacche ko acche se cover karein, khaaskar uske sir aur pair ko. Thandi mausam mein, bacche ko extra kapde pahnaayein.\n\n2. Bacche ke sone ka sthan garam rakhein: Bacche ko sone ke liye ek garam aur sukhad jagah pradan karein. Agar aapke paas radiant warmer hai toh uska istemal karein.\n\n3. Swachhta ka dhyan rakhein: Bacche ko sambhalte waqt haatho ko saaf rakhein aur bacche ko bhi saaf rakhein.\n\n4. Bacche ko skin-to-skin contact dein: Agar bacche ko sardi zyada hai toh usko apni skin se lagaye rakhna (kangaroo mother care) madadgar ho sakta hai kyunki yeh bacche ko garam rakhta hai.\n\n5. Agar bacche ko saans lene mein dikkat ho rahi hai ya uske anya gambhir lakshan dikhayi de rahe hain, toh turant swasthya seva pradan karne wale se sampark karein.\n\nYeh upay aam taur par madadgar hote hain, lekin agar aapko lagta hai ki sthiti gambhir hai, toh kripya turant doctor se sampark karein.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

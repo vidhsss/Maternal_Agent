@@ -1,0 +1,96 @@
+{
+  "model_performance": {
+    "gemini-pro": {
+      "gpt-4-turbo": {
+        "correctness": 1.7,
+        "completeness": 2.1666666666666665,
+        "clarity": 1.4000000000000001,
+        "cultural_appropriateness": 1.8,
+        "overall": 1.7666666666666666
+      },
+      "gpt-4-turbo_rag": {
+        "correctness": 1.3666666666666665,
+        "completeness": 2.0,
+        "clarity": 1.0666666666666667,
+        "cultural_appropriateness": 1.8,
+        "overall": 1.5583333333333333
+      },
+      "mixtral": {
+        "correctness": 1.7777777777777777,
+        "completeness": 2.6444444444444444,
+        "clarity": 1.3777777777777775,
+        "cultural_appropriateness": 2.2333333333333334,
+        "overall": 2.0083333333333333
+      },
+      "mixtral_rag": {
+        "correctness": 1.6444444444444446,
+        "completeness": 2.577777777777778,
+        "clarity": 1.4111111111111108,
+        "cultural_appropriateness": 2.1,
+        "overall": 1.9333333333333333
+      },
+      "llama": {
+        "correctness": 1.9222222222222225,
+        "completeness": 2.577777777777778,
+        "clarity": 2.0444444444444443,
+        "cultural_appropriateness": 2.1666666666666665,
+        "overall": 2.1777777777777776
+      },
+      "llama_rag": {
+        "correctness": 1.9222222222222225,
+        "completeness": 2.577777777777778,
+        "clarity": 2.0444444444444443,
+        "cultural_appropriateness": 2.1666666666666665,
+        "overall": 2.1777777777777776
+      }
+    }
+  },
+  "rag_vs_nonrag": {
+    "gemini-pro": {
+      "gpt-4-turbo_vs_gpt-4-turbo_rag": {
+        "rag_wins": 1,
+        "non_rag_wins": 2,
+        "winner": "non_rag"
+      },
+      "mixtral_vs_mixtral_rag": {
+        "rag_wins": 1,
+        "non_rag_wins": 2,
+        "winner": "non_rag"
+      },
+      "llama_vs_llama_rag": {
+        "rag_wins": 0,
+        "non_rag_wins": 3,
+        "winner": "non_rag"
+      }
+    }
+  },
+  "language_performance": {
+    "gemini-pro": {
+      "gpt-4-turbo": {
+        "best_language": "english",
+        "worst_language": "hindi"
+      },
+      "gpt-4-turbo_rag": {
+        "best_language": "english",
+        "worst_language": "hindi"
+      },
+      "mixtral": {
+        "best_language": "english",
+        "worst_language": "hinglish"
+      },
+      "mixtral_rag": {
+        "best_language": "english",
+        "worst_language": "hindi"
+      },
+      "llama": {
+        "best_language": "english",
+        "worst_language": "hindi"
+      },
+      "llama_rag": {
+        "best_language": "english",
+        "worst_language": "hindi"
+      }
+    }
+  },
+  "judge_agreement": {}
+}

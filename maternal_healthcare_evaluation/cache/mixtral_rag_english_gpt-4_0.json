@@ -1,0 +1,29 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "The response inaccurately addresses the user's question about the normalcy of their baby's weight at 22 weeks gestation by discussing low birth weight, which is not directly relevant to the question about fetal weight during pregnancy. The information about low birth weight being under 1500 grams is correct but not applicable to a fetus at 22 weeks gestation.",
+    "problematic_claims": [
+      "Discussion of low birth weight in the context of fetal weight at 22 weeks gestation"
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response fails to address the specific question about whether a weight of 452 grams at 22 weeks is normal. It does not provide any reference to fetal growth charts or the expected weight range for this gestational age.",
+    "missing_information": [
+      "Reference to fetal growth charts or expected weight range for 22 weeks gestation",
+      "Advice to consult with a healthcare provider for an assessment specific to fetal growth and development"
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "Despite the response not directly answering the user's question, the language used is clear and understandable for a user of average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for an English-speaking user, avoiding any culturally sensitive issues and focusing on the need for professional healthcare advice."
+  },
+  "question": "My baby weight is 452 gram in 22weeks..is this normal",
+  "response": "I'm sorry, but the provided context does not include specific information about your baby's weight or gestational age. However, I can tell you that a birth weight of less than 1500 grams is considered low birth weight and may require special care. It's important to consult with a healthcare provider for personalized advice and monitoring. They can assess your baby's health and provide appropriate guidance.",
+  "language": "english",
+  "judge": "gpt-4"
+}

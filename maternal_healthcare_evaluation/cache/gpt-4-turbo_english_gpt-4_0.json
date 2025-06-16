@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "My baby weight is 452 gram in 22weeks..is this normal",
+  "response": "Based on the information provided, I don't have specific guidelines regarding fetal weight at 22 weeks to determine if 452 grams is within a normal range. It's important to discuss this with your healthcare provider, who can assess the growth of your baby in the context of overall health and development during your pregnancy. They can provide you with the best advice and care. Remember, regular prenatal check-ups are crucial for monitoring the health and development of your baby. If you have any concerns about your pregnancy, it's always best to consult with your healthcare provider.",
+  "language": "english",
+  "judge": "gpt-4"
+}

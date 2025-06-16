@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The response accurately reflects medical advice regarding fetal movements. It correctly states that it's normal to not always feel the baby move, especially in the earlier stages of pregnancy when movements are less noticeable. It also correctly advises on the importance of monitoring movements and seeking healthcare advice if there's a noticeable decrease in movement, which could indicate a complication.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response covers the most critical advice for a pregnant person concerned about fetal movements. However, it could be improved by including specific guidance on how to monitor fetal movements (e.g., kick counts) and what constitutes a significant decrease in movements. Additionally, mentioning the typical timeframe when movements become more regular (usually around 28 weeks) would provide more context.",
+    "missing_information": [
+      "Specific guidance on how to monitor fetal movements, such as kick counts.",
+      "Information on when fetal movements typically become more regular and noticeable."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used in the response is clear and straightforward, making it easily understandable for a user of average literacy. The advice is presented in a logical sequence, starting with reassurance, followed by cautionary advice, and ending with a clear call to action."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for an English-speaking audience. It uses neutral and respectful language that is considerate of the concerns of a pregnant person. There are no cultural references or idioms that could be misunderstood or considered inappropriate."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "It's normal to occasionally not feel your baby move, especially earlier in pregnancy when movements can be less noticeable. However, if you notice a significant decrease in your baby's movements or if movements stop, this could be a sign of a serious complication. It's important to monitor the baby's movements, especially as you get further along in your pregnancy.\n\nIf you're concerned about the frequency or pattern of your baby's movements, it's best to contact your healthcare provider immediately for further advice. They can perform checks to ensure everything is progressing well with your pregnancy. Remember, it's always better to be cautious and seek advice if you're unsure or worried.",
+  "language": "english",
+  "judge": "gpt-4"
+}

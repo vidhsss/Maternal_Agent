@@ -1,0 +1,33 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "While the response correctly identifies bleeding during pregnancy as not normal and mentions threatened and incomplete abortion, it oversimplifies these conditions and makes some inaccurate claims.  It incorrectly states bleeding related to these conditions only occurs up to 20 weeks. It also ties light bleeding to threatened abortion and heavy bleeding to incomplete abortion, which is an oversimplification.  Many other conditions can cause bleeding, and the amount of bleeding doesn't definitively diagnose the cause.",
+    "problematic_claims": [
+      "Pregnancy m bleeding hoti h, lekin yeh normal nahin h.",
+      "Pregnancy m bleeding hoti h, jise threatened abortion ya incomplete spontaneous abortion kaha jata hai.",
+      "Yeh bleeding light hoti h, aur yeh pregnancy ke 20 week tak hoti h.",
+      "Agar bleeding heavy hoti h, ya uterine tenderness hoti h, to yeh incomplete spontaneous abortion ho sakta hai.",
+      "Agar bleeding light hoti h, aur uterine tenderness nahin hoti h, to yeh threatened abortion ho sakta hai."
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response focuses narrowly on two potential causes of bleeding and omits crucial information. It fails to mention other potential causes, the importance of seeking immediate medical attention, and doesn't discuss the range of symptoms that might accompany bleeding.",
+    "missing_information": [
+      "Other causes of bleeding, such as ectopic pregnancy, molar pregnancy, placenta previa, placental abruption, cervical changes, and infections.",
+      "The need to seek immediate medical attention for any bleeding during pregnancy, especially heavy bleeding, severe pain, or dizziness."
+    ]
+  },
+  "clarity": {
+    "score": 2,
+    "justification": "The Hinglish used is generally understandable, but the repetitive phrasing and lack of clear structure make it less clear than it could be.  Simplifying the language and using clearer explanations would improve understanding."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "Using Hinglish is appropriate for the target audience. However, the response lacks sensitivity regarding the potential anxiety and fear associated with bleeding during pregnancy.  A more empathetic and reassuring tone would be more culturally appropriate, especially considering the context of Assam, India, where access to healthcare might be challenging for some."
+  },
+  "question": "Kya pregnancy m bleeding hoti h kya yeh normal h",
+  "response": "Pregnancy m bleeding hoti h kya yeh normal h\n\nPregnancy m bleeding hoti h, lekin yeh normal nahin h. Pregnancy m bleeding hoti h, jise threatened abortion ya incomplete spontaneous abortion kaha jata hai. Yeh bleeding light hoti h, aur yeh pregnancy ke 20 week tak hoti h. Agar bleeding heavy hoti h, ya uterine tenderness hoti h, to yeh incomplete spontaneous abortion ho sakta hai. Agar bleeding light hoti h, aur uterine tenderness nahin hoti h, to yeh threatened abortion ho sakta hai.\n\nYadi aapko pregnancy m bleeding hoti h, to aapko apne doctor se baat karni chahiye. Unhone aapki pregnancy ki jaanch ki hogi, aur unhone aapko pata chalega ki aapki pregnancy m bleeding kitni normal hai. Agar aapki pregnancy m bleeding heavy hoti h, ya uterine tenderness hoti h, to aapko hospital mein le jaana pad sakta hai.\n\nYadi aapko koi dusri samasya hai, to aap mujhe puch sakte hain. Main aapki madad karne ke liye yahaan hoon.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

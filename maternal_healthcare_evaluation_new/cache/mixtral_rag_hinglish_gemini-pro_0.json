@@ -1,0 +1,26 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically sound. Mangoes *are* rich in vitamins A and C, they *do* contain natural sugars, and recommending a balanced diet with fruits, vegetables, and consulting a healthcare provider is standard and accurate advice."
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response addresses the core concern about mango consumption and provides general dietary advice, it lacks specific information about portion sizes and potential risks of excessive mango consumption during pregnancy (like gestational diabetes).",
+    "missing_information": [
+      "Information about appropriate portion sizes of mangoes for pregnant women.",
+      "Mentioning potential risks of overconsumption of mangoes, specifically relating to high sugar content and its impact on gestational diabetes."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for someone with average literacy. The mix of Hindi and English (Hinglish) is common and natural."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the use of Hinglish is appropriate, the response could be improved by acknowledging the cultural significance of mangoes in India, particularly in regions like Assam.  Mentioning seasonal availability or incorporating local dietary advice related to mangoes during pregnancy would enhance cultural relevance."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "Mangoes can be consumed during pregnancy, but it is important to maintain a balanced diet and not consume too much of any one food. Mangoes are rich in vitamins A and C, but they also contain natural sugars. It is recommended to eat at least 3 main meals and 2 nutritious snacks daily, including a variety of fruits and vegetables. However, if you have any concerns about your diet during pregnancy, it is always best to consult with a healthcare provider for personalized advice.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The response accurately reflects medical advice regarding variations in fetal movements and the importance of consulting a healthcare provider if there is a significant decrease in movements or no movement felt for a while. Each claim is medically correct.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the critical advice of seeking medical attention for decreased or absent fetal movements, it lacks specific guidance on what constitutes a significant decrease and when exactly to seek help (e.g., the 'count-to-ten' method or specific time frames for inactivity that should prompt concern).",
+    "missing_information": [
+      "Guidance on monitoring fetal movements (e.g., kick counts or what patterns to watch for).",
+      "Specific advice on when to seek medical attention, such as if no movements are felt within a 2-hour window."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clearly written and uses straightforward language that should be understandable to a user of average literacy. It avoids medical jargon and explains the steps a person should take in a clear manner."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally neutral and provides advice that is broadly applicable to English-speaking users. It focuses on universal concerns regarding fetal health without making assumptions about the user's specific cultural or personal background."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "It's normal for the baby's movements to vary from time to time. However, if you notice a significant decrease in your baby's movements or if you haven't felt any movement for a while, it's important to consult your healthcare provider. They can check your baby's heartbeat and make sure everything is okay. It's always better to be safe and seek medical advice when it comes to your baby's health.",
+  "language": "english",
+  "judge": "gpt-4"
+}

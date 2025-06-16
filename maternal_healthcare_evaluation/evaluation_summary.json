@@ -1,0 +1,12 @@
+{
+  "model_performance": {
+    "gemini-pro": {}
+  },
+  "rag_vs_nonrag": {
+    "gemini-pro": {}
+  },
+  "language_performance": {
+    "gemini-pro": {}
+  },
+  "judge_agreement": {}
+}

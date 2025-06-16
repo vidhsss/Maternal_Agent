@@ -1,0 +1,32 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "Some claims are correct, like keeping the baby comfortable and dressed warmly. However, the advice about exposing the baby to 'sehatmand hawa' (healthy air) to prevent or reduce a cold is not medically sound.  Colds are caused by viruses, not by a lack of fresh air. In fact, in colder climates, exposing a baby with a cold to cold air could worsen their condition.",
+    "problematic_claims": [
+      "Bacche ko sabse pehle rakhein jahaan se sehatmand hawa aati hai. Isse bacche ko thandi nahi honi padegi.",
+      "Isse bacche ki sardi kam hogi."
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response omits crucial information about when to seek medical advice, how to manage fever, and safe hydration practices. It also lacks information about over-the-counter remedies that might be appropriate and safe for infants.",
+    "missing_information": [
+      "When to seek medical advice (e.g., difficulty breathing, high fever, persistent cough, not feeding well)",
+      "How to safely manage fever (e.g., appropriate dosage of paracetamol or ibuprofen based on weight, sponging with lukewarm water)",
+      "Importance of keeping the baby hydrated (e.g., continued breastfeeding or formula feeding, offering small amounts of oral rehydration solution if advised by a doctor)",
+      "Information about safe and appropriate over-the-counter remedies (if any) for infants with colds."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language is simple and easy to understand for a Hinglish speaker with average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the use of Hinglish is appropriate for the target audience, the advice about 'sehatmand hawa' could be misinterpreted. In some cultural contexts, this might lead caregivers to expose the baby to drafts or cold air, which could be harmful.  More specific advice about comfortable room temperature and ventilation would be better.  Additionally, understanding common home remedies used in Assam, and addressing their safety and efficacy, would improve cultural appropriateness."
+  },
+  "question": "Bacche ko Tej Sardi ho to kaise usko maintain Karen",
+  "response": "Agar bacche mein tej sardi ho to unhe aaram se rakhein. Thodi der tak unki sar aur pair chunein. Unhe ek aur kapda pehena do. Bacche ko sabse pehle rakhein jahaan se sehatmand hawa aati hai. Isse bacche ko thandi nahi honi padegi. Bacche ko thandi nahi honi chahiye. Isse bacche ki sardi kam hogi.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

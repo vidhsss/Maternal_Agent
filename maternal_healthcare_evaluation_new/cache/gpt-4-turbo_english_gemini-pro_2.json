@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically sound and appropriate advice for managing prickly heat/heat rash.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response covers the most common and helpful advice. However, it could be slightly more complete by mentioning the use of a cool compress and specifying how long to use hydrocortisone.",
+    "missing_information": [
+      "Applying a cool, wet cloth or compress to the affected area can provide immediate relief from itching and inflammation.",
+      "Hydrocortisone cream should not be used for prolonged periods without consulting a doctor.  Specify a time frame, e.g., 'Use hydrocortisone cream sparingly for no more than a week unless directed otherwise by your doctor.'"
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language is clear, concise, and easy to understand for someone with average literacy skills.  The advice is presented in a numbered list, making it easy to follow."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the advice is generally applicable, knowing the user is from Assam, India, a region known for its hot and humid climate, the response could be strengthened.  Mentioning readily available local remedies or acknowledging the specific climatic challenges in Assam would improve cultural relevance."
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "Prickly heat and itching are common during pregnancy due to hormonal changes and increased sweating. Here are a few tips to help manage the discomfort:\n\n1. Keep the affected area cool and dry. Try to stay in cooler environments and avoid excessive heat.\n2. Wear loose, breathable clothing made from natural fibers like cotton, which allows your skin to breathe and reduces irritation.\n3. Bathe in cool water and use a mild soap that is gentle on the skin.\n4. You can apply a calamine lotion or an over-the-counter hydrocortisone cream to soothe itching. However, it's always best to consult with your healthcare provider before using any medications.\n5. Stay hydrated by drinking plenty of water, as this helps to regulate your body temperature.\n\nIf the itching is severe, widespread, or accompanied by other symptoms like jaundice, it's important to consult your healthcare provider for further evaluation. Remember, it's always best to seek personalized advice from your healthcare provider regarding any health concerns during pregnancy.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

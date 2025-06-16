@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Bacche ko Tej Sardi ho to kaise usko maintain Karen",
+  "response": "Agar bacche mein tej sardi ho to unhe aaram se rakhein. Thodi der tak unki sar aur pair chunein. Unhe ek aur kapda pehena do. Bacche ko sabse pehle rakhein jahaan se sehatmand hawa aati hai. Isse bacche ko thandi nahi honi padegi. Bacche ko thandi nahi honi chahiye. Isse bacche ki sardi kam hogi.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

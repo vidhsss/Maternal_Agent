@@ -1,0 +1,26 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically sound. Mangoes are indeed rich in vitamin C and fiber.  It's also correct to advise moderation and consultation with a doctor, especially during pregnancy due to individual dietary needs and potential blood sugar concerns."
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response addresses the core concern and advises consultation with a doctor, it lacks specific information about portion sizes or potential risks of overconsumption.  Simply stating 'santulit matra' (balanced amount) isn't actionable advice for a pregnant woman.",
+    "missing_information": [
+      "Information about reasonable portion sizes of mango during pregnancy.",
+      "Mention of potential risks of excessive mango consumption, such as gestational diabetes if predisposed."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for a Hinglish speaker.  The terms used are common and the sentence structure is straightforward."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate.  Mangoes are a popular fruit in India and Assam, and the advice to consult a doctor aligns with common healthcare practices. The use of Hinglish makes it accessible to a wider audience."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "Mujhe mango ke sevan ke liye kisi specific mahine ke bare mein jankari dene ke liye paryapt suchna nahi hai, jo di gayi guidelines mein shaamil hai. Aam tor par, mango ek poshtik phal hai jo vitamin C aur fiber se bharpoor hota hai. Garbhavastha ke dauran, yadi aapko mango se koi allergy nahi hai aur aapka sugar level samanya hai, to aap iska sevan kar sakti hain, lekin yah sunishchit karein ki aap ise santulit matra mein khayein. Har vyakti ki nutritional zarooratein alag hoti hain, isliye apne aahar mein mango shamil karne se pehle ek swasthya visheshagya ya apne doctor se salah zaroor lein.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

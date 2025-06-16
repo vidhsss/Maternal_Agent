@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Bacche ko Tej Sardi ho to kaise usko maintain Karen",
+  "response": "Agar bacche ko tej sardi ho rahi hai, toh yeh kuch upay hain jo aap kar sakti hain:\n\n1. Bacche ko garam rakhein: Bacche ko acche se cover karein, khaaskar uske sir aur pair ko. Thandi mausam mein, bacche ko extra kapde pahnaayein.\n\n2. Bacche ke sone ka sthan garam rakhein: Bacche ko sone ke liye ek garam aur sukhad jagah pradan karein. Agar aapke paas radiant warmer hai toh uska istemal karein.\n\n3. Swachhta ka dhyan rakhein: Bacche ko sambhalte waqt haatho ko saaf rakhein aur bacche ko bhi saaf rakhein.\n\n4. Bacche ko skin-to-skin contact dein: Agar bacche ko sardi zyada hai toh usko apni skin se lagaye rakhna (kangaroo mother care) madadgar ho sakta hai kyunki yeh bacche ko garam rakhta hai.\n\n5. Agar bacche ko saans lene mein dikkat ho rahi hai ya uske anya gambhir lakshan dikhayi de rahe hain, toh turant swasthya seva pradan karne wale se sampark karein.\n\nYeh upay aam taur par madadgar hote hain, lekin agar aapko lagta hai ki sthiti gambhir hai, toh kripya turant doctor se sampark karein.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

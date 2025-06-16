@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "Each claim in the response is medically correct. Keeping the child warm, maintaining cleanliness, providing skin-to-skin contact, and seeking medical help for severe symptoms or difficulty breathing are all appropriate measures for a child with a cold.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response covers most of the important information for managing a child's cold at home. However, it lacks specific advice on hydration and the use of saline drops for nasal congestion, which are commonly recommended for children with colds.",
+    "missing_information": [
+      "Advice on keeping the child hydrated",
+      "Recommendation for using saline drops for nasal congestion if applicable"
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is written in Hinglish, which is a mix of Hindi and English. This language choice is clear and understandable for the intended audience, making the medical advice accessible to a user of average literacy in the cultural context."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a Hinglish-speaking user. It uses a familiar language blend and provides advice that is practical and feasible within the cultural context, such as kangaroo mother care, which is a widely accepted practice."
+  },
+  "question": "Bacche ko Tej Sardi ho to kaise usko maintain Karen",
+  "response": "Agar bacche ko tej sardi ho rahi hai, toh yeh kuch upay hain jo aap kar sakti hain:\n\n1. Bacche ko garam rakhein: Bacche ko acche se cover karein, khaaskar uske sir aur pair ko. Thandi mausam mein, bacche ko extra kapde pahnaayein.\n\n2. Bacche ke sone ka sthan garam rakhein: Bacche ko sone ke liye ek garam aur sukhad jagah pradan karein. Agar aapke paas radiant warmer hai toh uska istemal karein.\n\n3. Swachhta ka dhyan rakhein: Bacche ko sambhalte waqt haatho ko saaf rakhein aur bacche ko bhi saaf rakhein.\n\n4. Bacche ko skin-to-skin contact dein: Agar bacche ko sardi zyada hai toh usko apni skin se lagaye rakhna (kangaroo mother care) madadgar ho sakta hai kyunki yeh bacche ko garam rakhta hai.\n\n5. Agar bacche ko saans lene mein dikkat ho rahi hai ya uske anya gambhir lakshan dikhayi de rahe hain, toh turant swasthya seva pradan karne wale se sampark karein.\n\nYeh upay aam taur par madadgar hote hain, lekin agar aapko lagta hai ki sthiti gambhir hai, toh kripya turant doctor se sampark karein.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

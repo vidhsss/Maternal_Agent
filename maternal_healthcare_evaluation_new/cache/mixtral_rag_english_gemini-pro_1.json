@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All statements are medically sound.  It acknowledges the variability of fetal movements while stressing the importance of seeking medical attention for significant changes.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the advice to consult a healthcare provider is crucial, it lacks specific guidance on what constitutes a \"significant decrease\" in fetal movement.  This vagueness could lead to anxiety or delayed consultation. It also doesn't mention how to monitor movements (e.g., kick counts).",
+    "missing_information": [
+      "Information on how to monitor fetal movements (e.g., kick counts -  choosing a time of day when the baby is usually active, lying down on their side, and counting how long it takes to feel 10 movements.  If it takes longer than two hours, they should contact their healthcare provider).",
+      "Clearer definition of what constitutes a \"significant decrease\" \u2013 for example, less than 10 movements in 2 hours."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple, straightforward, and easily understandable for a user of average literacy."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the advice is generally appropriate, cultural factors in Assam, India, might influence a woman's access to healthcare or her comfort in seeking it.  Mentioning the importance of involving family members in the decision-making process (if culturally relevant) or acknowledging potential barriers to accessing care could improve the response.  Additionally, providing resources specific to Assam or India would be beneficial."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "It's normal for the baby's movements to vary from time to time. However, if you notice a significant decrease in your baby's movements or if you haven't felt any movement for a while, it's important to consult your healthcare provider. They can check your baby's heartbeat and make sure everything is okay. It's always better to be safe and seek medical advice when it comes to your baby's health.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

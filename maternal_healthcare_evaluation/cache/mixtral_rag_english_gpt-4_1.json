@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI's response is medically correct. It accurately states that variations in a baby's movements can be normal but emphasizes the importance of consulting a healthcare provider if there is a significant decrease in movements or no movement felt for a while. This advice aligns with standard prenatal care guidelines.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the critical action of seeking medical advice when there's a noticeable decrease in fetal movements, it lacks specific guidance on what constitutes a 'significant decrease' and does not mention the importance of tracking movements, especially in the third trimester, which is often recommended.",
+    "missing_information": [
+      "Guidance on what constitutes a significant decrease in movements (e.g., fewer than 10 movements in 2 hours).",
+      "The importance of regular fetal movement tracking in the third trimester."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clear and straightforward, using simple language that should be understandable to a user of average literacy. It directly addresses the user's concern and provides a clear course of action."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for an English-speaking user. It is sensitive to the user's concerns about fetal health and encourages seeking medical advice, which is a universally accepted approach in healthcare."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "It's normal for the baby's movements to vary from time to time. However, if you notice a significant decrease in your baby's movements or if you haven't felt any movement for a while, it's important to consult your healthcare provider. They can check your baby's heartbeat and make sure everything is okay. It's always better to be safe and seek medical advice when it comes to your baby's health.",
+  "language": "english",
+  "judge": "gpt-4"
+}

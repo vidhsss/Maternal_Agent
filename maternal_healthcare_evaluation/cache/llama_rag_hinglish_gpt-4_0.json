@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI's response is medically correct. It emphasizes the importance of consulting a healthcare provider for personalized advice, which is a safe and appropriate recommendation. There are no medically incorrect claims made in the response.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response correctly advises consulting a healthcare provider for personalized advice, it lacks specific information about the general safety of consuming mangoes during pregnancy. Including general guidance on moderation and potential nutritional benefits or concerns (e.g., high sugar content, vitamin content) would have made the response more complete.",
+    "missing_information": [
+      "General guidance on consuming mangoes in moderation due to their high sugar content.",
+      "Information on the nutritional benefits of mangoes, such as being a good source of vitamins C and A."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clear and understandable for a user of average literacy. It directly addresses the user's query and provides a straightforward recommendation to consult a healthcare provider for personalized advice."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a hinglish-speaking user. It respects the user's query without making assumptions about their dietary habits or preferences and maintains a neutral tone that is respectful and inclusive."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "I don't have enough information to answer this question based on the provided guidelines. The guidelines do not mention mango as a recommended or restricted food item during pregnancy. However, it is always best to consult a healthcare provider for personalized advice on what foods are safe and healthy during pregnancy.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

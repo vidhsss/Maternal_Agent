@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Kya pregnancy m bleeding hoti h kya yeh normal h",
+  "response": "Bleeding ke dauran pregnancy mein hamesha ek chinta ka vishay hota hai aur ise halka nahi lena chahiye. Pregnancy ke shuruaati 20 hafte ke dauran, bleeding ka karan ho sakta hai dhamki di hui garbhpaat (threatened abortion), swatah garbhpaat (spontaneous abortion), ectopic pregnancy ya hydatidiform mole. Agar aapko bleeding ho rahi hai, to yeh zaroori hai ki aap turant apne swasthya seva pradaata se sampark karein.\n\nBleeding hamesha normal nahi hoti hai aur iska karan aur prabandhan vyakti ke aadhaar par alag-alag ho sakta hai. Isliye, yadi aapko pregnancy ke dauran kisi bhi prakar ki bleeding ho rahi hai, to kripya apne doctor ya swasthya seva pradaata se sampark karein taki ve sthiti ka sahi mulyankan kar sakein aur uchit salah de sakein.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "mujhe thyroid h to kya isse bhi breast milk pe asar hota h",
+  "response": "Thyroid issues can affect breastfeeding, but it's not a straightforward issue. If you have a thyroid condition, it's essential to discuss it with your healthcare provider. They can help you understand how your thyroid condition might impact your milk supply and provide guidance on managing it. In some cases, thyroid medication may be adjusted to ensure it doesn't interfere with milk production. However, it's crucial to note that thyroid issues can also affect the quality of your milk, and your healthcare provider will work with you to ensure your baby receives the best possible nutrition. \n\nIt's also worth mentioning that some women with thyroid conditions may experience changes in milk supply or quality, but this can be managed with proper guidance and support. If you're concerned about your thyroid condition and breastfeeding, it's always best to consult with your healthcare provider for personalized advice. They can help you navigate any challenges and ensure a healthy breastfeeding journey for both you and your baby.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

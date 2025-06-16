@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The response is medically correct. It emphasizes the importance of consulting a healthcare provider for personalized advice, which is a safe and appropriate recommendation. There are no medically incorrect claims.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response correctly advises consulting a healthcare provider, it lacks specific information about the general safety of consuming mangoes during pregnancy. Generally, mangoes are safe to eat during pregnancy in moderation, as they are rich in vitamins C and A; however, due to their high sugar content, they should be consumed in moderation.",
+    "missing_information": [
+      "General safety of consuming mangoes during pregnancy.",
+      "Recommendation to consume in moderation due to high sugar content."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clear and understandable, even though it uses a cautious approach by not providing specific advice about mango consumption. It communicates the primary advice effectively, which is to consult a healthcare provider."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a Hinglish-speaking user. It respects the user's query without making assumptions about their dietary habits or preferences and maintains a neutral and respectful tone."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "I don't have enough information to answer this question based on the provided guidelines. The guidelines do not mention mango as a recommended or restricted food item during pregnancy. However, it is always best to consult a healthcare provider for personalized advice on what foods are safe and healthy during pregnancy.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

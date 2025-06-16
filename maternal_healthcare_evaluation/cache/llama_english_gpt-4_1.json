@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "I don\u2019t have enough information to answer this question based on the provided guidelines. The guidelines do not mention anything about the frequency of fetal movement. However, it does mention that newborns normally move their arms or legs or turn their head several times in a minute. If you are concerned about the baby\u2019s movement, I would recommend consulting a healthcare provider for personalized advice. They can assess the baby's overall health and provide guidance on any concerns you may have.",
+  "language": "english",
+  "judge": "gpt-4"
+}

@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims regarding prickly heat management are medically sound.  The advice to seek medical attention for severe or persistent itching, or if accompanied by other symptoms like fever, rash, or swelling, is also correct.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the basics of prickly heat management, it could be more complete by addressing prevention and mentioning the use of a mild corticosteroid cream for short-term relief if itching is bothersome.",
+    "missing_information": [
+      "Preventive measures, such as using a dusting powder (especially in skin folds) and staying hydrated, could be included.",
+      "A mild over-the-counter hydrocortisone cream can be used for a short period to help with the itching if other measures aren't sufficient.  However, this should be mentioned with the caveat to consult a doctor if symptoms persist or worsen."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language is clear, concise, and easy to understand for someone with average literacy. The numbered list makes the advice easy to follow."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "The advice is generally culturally appropriate. However, knowing the user is from Assam, India, a region known for its hot and humid climate, the response could be slightly improved.  Mentioning readily available and culturally relevant remedies common in India, like sandalwood paste or neem paste, could enhance the response's relevance. While calamine and aloe vera are likely accessible, these traditional remedies are often readily available and trusted."
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "It sounds like you might be experiencing prickly heat or heat rash, which can cause itching and small red bumps on the skin. This is usually harmless and goes away on its own once the skin cools down. To help soothe the itching, you can try the following:\n\n1. Stay in a cool, airy place to allow your skin to breathe and reduce sweating.\n2. Wear loose, light clothing made of natural fibers like cotton.\n3. Avoid using harsh soaps, lotions, or perfumes that might irritate your skin.\n4. Take cool showers or baths to help relieve itching.\n5. Apply calamine lotion or aloe vera gel to the affected areas to soothe the skin.\n\nHowever, if the itching is severe, persistent, or accompanied by other symptoms like fever, rash, or swelling, it's important to consult a healthcare provider for further evaluation. They can help determine the cause of your symptoms and recommend appropriate treatment.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

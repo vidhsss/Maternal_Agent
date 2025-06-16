@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "\u0938\u0930\u094d\u0926\u0940 -\u091c\u0941\u0915\u093e\u092e  \u0939\u094b \u0930\u0939\u093e  \u0939\u0948\u0964\u0907\u0938\u0915\u093e \u092c\u091a\u094d\u091a\u0947 \u092a\u0930 \u0924\u094b \u0915\u094b\u0908 \u092a\u094d\u0930\u092d\u093e\u0935  \u0928\u0939\u0940\u0902  \u0939\u094b\u0917\u093e \u0964",
+  "response": "During winter, it is normal for babies to feel a little cold, but it should not affect their overall health. However, if the baby is showing signs of being unwell, such as lethargy, refusal to feed, or difficulty breathing, it is important to seek medical attention immediately. It is also crucial to keep the baby warm by covering their head and feet, and dressing them in extra clothing. If the baby's temperature is too low or too high, it is a sign of illness and requires medical attention. It is always best to consult a healthcare provider for personalized medical advice.",
+  "language": "hindi",
+  "judge": "gpt-4"
+}

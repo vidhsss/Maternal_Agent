@@ -1,0 +1,29 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "The response contains a mix of correct and slightly misleading information. The reference to newborns moving several times a minute is not relevant to a question about fetal movement, which can confuse the issue. However, the advice to consult a healthcare provider if concerned about the baby's movement is correct.",
+    "problematic_claims": [
+      "Newborns normally move their arms or legs or turn their head several times in a minute."
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response omits significant information about the importance of monitoring fetal movement, especially in the second and third trimesters, and how changes in movement patterns can be a sign of fetal distress. It also fails to mention the general guidance on counting kicks or movements as a way to monitor fetal health.",
+    "missing_information": [
+      "Importance of monitoring fetal movement in the second and third trimesters",
+      "General guidance on counting kicks or movements as a way to monitor fetal health"
+    ]
+  },
+  "clarity": {
+    "score": 2,
+    "justification": "While the response is generally understandable, the irrelevant mention of newborn movement could confuse users about the focus of the question, which is about fetal movement, not newborn behavior."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for an English-speaking user, focusing on the universal concern of fetal movement without making any assumptions or references that could be culturally sensitive."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "I don\u2019t have enough information to answer this question based on the provided guidelines. The guidelines do not mention anything about the frequency of fetal movement. However, it does mention that newborns normally move their arms or legs or turn their head several times in a minute. If you are concerned about the baby\u2019s movement, I would recommend consulting a healthcare provider for personalized advice. They can assess the baby's overall health and provide guidance on any concerns you may have.",
+  "language": "english",
+  "judge": "gpt-4"
+}

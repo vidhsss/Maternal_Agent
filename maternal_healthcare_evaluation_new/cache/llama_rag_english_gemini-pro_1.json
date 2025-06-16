@@ -1,0 +1,30 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "The claim about newborn movement is misplaced and irrelevant to the user's question about fetal movement during pregnancy.  While newborns *do* move frequently, this information doesn't address the user's concern. The statement about consulting a healthcare provider is correct.",
+    "problematic_claims": [
+      "However, it does mention that newborns normally move their arms or legs or turn their head several times in a minute."
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response fails to provide any helpful information about reduced fetal movement. It deflects to a healthcare provider, which is ultimately correct advice, but doesn't offer any interim guidance or reassurance.",
+    "missing_information": [
+      "Information about when fetal movements are typically first felt (around 16-25 weeks, though this can vary).",
+      "Reassurance that decreased fetal movement sometimes happens and isn't always a cause for immediate alarm, but that it *always* warrants contacting a healthcare provider.",
+      "Suggestions for trying to stimulate fetal movement (drinking something cold or sugary, lying on the left side) and then monitoring for movement."
+    ]
+  },
+  "clarity": {
+    "score": 2,
+    "justification": "The language is understandable, but the inclusion of the newborn information makes the response confusing and unclear in its relevance to the user's question."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the language itself is appropriate, there's no consideration for the user's location in Assam, India. Access to healthcare can vary significantly within India, and acknowledging this would improve the response.  For example, providing information about local resources or acknowledging potential barriers to accessing care would be beneficial."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "I don\u2019t have enough information to answer this question based on the provided guidelines. The guidelines do not mention anything about the frequency of fetal movement. However, it does mention that newborns normally move their arms or legs or turn their head several times in a minute. If you are concerned about the baby\u2019s movement, I would recommend consulting a healthcare provider for personalized advice. They can assess the baby's overall health and provide guidance on any concerns you may have.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

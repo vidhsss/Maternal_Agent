@@ -1,0 +1,29 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "While gas or muscle strain *could* be contributing factors to abdominal pain after prolonged sitting, the AI completely missed the crucial point that the user states she is in her third trimester (\"\u0938\u091f\u094d\u091f\u093e \u092e\u093e \u0932\u0917 \u091a\u0941\u0915\u093e \u0939\u0948\").  Abdominal pain during the third trimester should be investigated more seriously as it could indicate a number of pregnancy-related complications. Suggesting stretches without knowing the cause is potentially harmful.",
+    "problematic_claims": [
+      "If you are experiencing abdominal pain after sitting for a long time, it might be due to gas or muscle strain."
+    ]
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "The response fails to acknowledge the user's pregnancy and the potential seriousness of abdominal pain in the third trimester. It provides generic advice for abdominal pain unrelated to pregnancy and omits crucial information about seeking immediate medical attention for certain types of pain during pregnancy.",
+    "missing_information": [
+      "Given that you are in your third trimester, abdominal pain could indicate several pregnancy-related complications. It is crucial to contact your doctor or midwife immediately to assess the pain and rule out any serious issues.",
+      "Certain types of abdominal pain during the third trimester, such as persistent or severe pain, cramping, contractions, or pain accompanied by bleeding or fever, warrant immediate medical attention."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used in the English response is simple and easy to understand."
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "The AI completely failed to address the user's Hindi query.  It did not respond in Hindi, and more importantly, it missed the critical contextual clue about the user's advanced pregnancy stated in Hindi.  This demonstrates a lack of cultural sensitivity and understanding of the user's situation.  In many cultures, including parts of India, discussing pregnancy openly might be less common, so relying on the user's provided information is crucial."
+  },
+  "question": "\u091c\u092f\u0926\u093e \u091f\u093e\u0907\u092e \u0924\u0915 \u092c\u0948\u0920\u0928\u0947 \u0938\u0947 \u091a\u0915\u094d\u0915\u0930 \u0906\u0928\u093e \u0916\u0921\u093c\u093e \u0939\u094b\u0928\u0947 \u0938\u0947 \u092a\u0947\u091f \u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948\u092e\u0947\u0930\u0947 \u0915\u094b \u0915\u094c\u0928 \u0938\u0940 \u091f\u0947\u092c\u0932\u0947\u091f \u0916\u093e\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u0905\u092d\u0940 \u0938\u091f\u094d\u091f\u093e \u092e\u093e \u0932\u0917 \u091a\u0941\u0915\u093e \u0939\u0948",
+  "response": "If you are experiencing abdominal pain after sitting for a long time, it might be due to gas or muscle strain. You can try taking a walk or doing some light stretching exercises to relieve the pain. If the pain persists or is severe, it is recommended to consult a healthcare provider for a proper diagnosis and treatment.",
+  "language": "hindi",
+  "judge": "gemini-pro"
+}

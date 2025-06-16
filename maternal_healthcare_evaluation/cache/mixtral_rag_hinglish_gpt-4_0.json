@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The response accurately mentions the benefits of consuming mangoes during pregnancy, highlighting their richness in vitamins A and C, and the need to be cautious about their natural sugar content. It correctly advises on maintaining a balanced diet and consulting a healthcare provider for personalized advice, which are medically sound recommendations.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response covers the important aspects of consuming mangoes during pregnancy, including the nutritional benefits and the advice to not consume too much of any one food. However, it lacks specific guidance on quantity, which might be what the user was looking for ('kitna mntra me kha skti hu' suggests a query about quantity).",
+    "missing_information": [
+      "Specific guidance on the recommended quantity of mangoes that can be safely consumed during pregnancy.",
+      "A mention of the potential for mangoes to affect blood sugar levels, which could be a concern for pregnant women with or at risk of gestational diabetes."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clear and should be understandable to a user of average literacy. It uses straightforward language without medical jargon, making it accessible."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a hinglish-speaking user. It addresses a common dietary question among pregnant women in many cultures and provides a respectful and informative answer without making assumptions about the user's dietary preferences or restrictions."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "Mangoes can be consumed during pregnancy, but it is important to maintain a balanced diet and not consume too much of any one food. Mangoes are rich in vitamins A and C, but they also contain natural sugars. It is recommended to eat at least 3 main meals and 2 nutritious snacks daily, including a variety of fruits and vegetables. However, if you have any concerns about your diet during pregnancy, it is always best to consult with a healthcare provider for personalized advice.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

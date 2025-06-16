@@ -1,0 +1,26 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically accurate. It's true that not all women experience morning sickness, and it's also crucial to consult a healthcare provider for any concerning symptoms or regular check-ups."
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response addresses the user's lack of nausea and vomiting, it doesn't provide any information about other expected symptoms or milestones at 2.5 months of pregnancy.  It focuses solely on the absence of a particular symptom, which, while reassuring, doesn't offer a holistic view of a healthy pregnancy at this stage.",
+    "missing_information": [
+      "Mentioning other common symptoms at 2.5 months like fatigue, breast tenderness, or frequent urination would make the response more informative.",
+      "Encouraging the user to schedule a visit with their healthcare provider for their first prenatal appointment (if they haven't already) and discuss any questions or concerns they may have is crucial."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for a Hinglish speaker. The sentences are short and clear."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The use of Hinglish is appropriate for the specified context.  Addressing the user's concern directly and reassuringly is also culturally sensitive, particularly given potential anxieties around pregnancy."
+  },
+  "question": "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe",
+  "response": "Aapko chinta karne ki zarurat nahi hai agar aapko pregnancy ke 2.5 mahine mein vomiting ya koi aur takleef nahi ho rahi hai. Har mahila ki pregnancy alag hoti hai, aur kuch mahilao ko vomiting ya morning sickness nahi hoti. Yeh bilkul normal hai. Lekin, agar aapko koi aur symptoms dikhayi de rahe hain jo aapko pareshan kar rahe hain, toh aapko apne healthcare provider se zaroor consult karna chahiye. Woh aapki aur aapke baby ki health ka sahi se assessment kar sakenge. Aapka dhyan rakhna aur regular check-ups karwana important hai.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "My baby weight is 452 gram in 22weeks..is this normal",
+  "response": "I'm sorry, but the provided context does not include specific information about your baby's weight or gestational age. However, I can tell you that a birth weight of less than 1500 grams is considered low birth weight and may require special care. It's important to consult with a healthcare provider for personalized advice and monitoring. They can assess your baby's health and provide appropriate guidance.",
+  "language": "english",
+  "judge": "gpt-4"
+}

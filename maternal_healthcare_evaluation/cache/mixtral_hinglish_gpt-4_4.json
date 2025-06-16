@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe",
+  "response": "Aapko 2.5 mahine se hogaye hue hamare garbha ko vomit ya kuch nahi hai, yeh aapki surakshit rahne ke liye koi khas kadam nahi lena chahta hai. Garbhaalamban mein vomiting kaam aata hai, lekin iska koi sthaayi nahi hai. Agar aapko vomiting ya koi anya problem hai to aap apne swasthya karyakarta se salah lena chahte hain.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

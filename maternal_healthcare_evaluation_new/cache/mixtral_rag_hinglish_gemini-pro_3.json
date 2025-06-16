@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The claims are medically sound. Thyroid disorders, both hypothyroidism and hyperthyroidism, can impact breastfeeding.  Hypothyroidism can decrease milk supply, while poorly controlled hyperthyroidism can also affect milk production and potentially expose the baby to elevated thyroid hormones.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response correctly advises consultation with a healthcare provider, it omits mentioning the importance of continuing breastfeeding even with thyroid issues (with proper management) and the possibility of medication being safe during breastfeeding.",
+    "missing_information": [
+      "It's important to continue breastfeeding even if you have thyroid issues, as breast milk is still the best source of nutrition for your baby. Your doctor can help manage your thyroid levels while you breastfeed.",
+      "Many medications used to treat thyroid disorders are safe to take while breastfeeding. Your doctor will prescribe medication that is safe for both you and your baby."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for a Hinglish speaker. The response avoids complex medical jargon."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate. It acknowledges the user's language (Hinglish) and provides a general recommendation applicable across India, including Assam.  Directing the user to a healthcare provider is also culturally sensitive, aligning with common healthcare-seeking practices."
+  },
+  "question": "mujhe thyroid h to kya isse bhi breast milk pe asar hota h",
+  "response": "Thyroid issues can affect breast milk production, but it depends on the type and severity of the thyroid disorder. If you have concerns about your thyroid and how it might be affecting your breast milk, it's important to consult with a healthcare provider for personalized advice. They can evaluate your thyroid function and provide appropriate guidance to ensure the health and well-being of both you and your baby.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

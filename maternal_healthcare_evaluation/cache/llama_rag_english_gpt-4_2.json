@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "Prickly heat is a common skin condition that occurs when the skin's sweat glands become overactive. It's usually harmless and can be treated with self-care measures. You can try applying cool compresses, taking cool showers, and using moisturizers to soothe the affected area. If the symptoms persist or worsen, it's always best to consult a healthcare provider for further guidance. They can assess the situation and provide personalized advice. In the meantime, you can try over-the-counter antihistamines or hydrocortisone cream to help alleviate itching and discomfort. However, if you experience any signs of infection, such as increased redness, swelling, or pus, seek medical attention immediately.",
+  "language": "english",
+  "judge": "gpt-4"
+}

@@ -1,0 +1,168 @@
+Content Type,Model,Content,Evaluation
+Retrieved Chunk,,Chunk 1: examination using a pregnancy test kit. Th e pregnancy test should be off ered to any woman,
+,,in the reproductive age group who comes to you with a history of amenorrhoea or symptoms,
+,,of pregnancy.,
+,,Th e GoI has made the ‘Nischay’ pregnancy test kit available across the country. Other test kits,
+,,are also available in the market. Th ese kits detect pregnancy on the basis of the presence of,
+,,Human Chorionic Gonadotrophin (hCG) hormone in the urine. Th is test can be performed,
+,,soon aft er a missed per...,
+,,"[Metadata: subsection: Counselling, section_path: ['Counselling'], chunk_type: text, chunk_index: 6, total_chunks: 19]",
+,,,
+,,Chunk 2: planning method after delivery,
+,,Your baby is now 1.5 feet in length and weighs about,
+,,2.3 kg; your baby will gain more weight and the brain and,
+,,lungs will continue to develop in this month,
+,,CARD 8,
+,,"If the pregnant woman is receiving her ﬁ rst ANC contact in this month, then also refer to ‘What is",
+,,"important to know?’ from Card 1 (Message 2 only) and from Card 4 (Messages 3, 4 and 5).  ",
+,,17,
+,,8th Month,
+,,Blood pressure,
+,,Eat at least 3 main meals and,
+,,2 nutritious snacks,
+,,ANC services,
+,,Early and exclusive br...,
+,,"[Metadata: section: These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of, section_path: ['These cards are designed for individual counselling but may be used for group counselling if it is possible to form a homogenous group of'], chunk_type: text, chunk_index: 20, total_chunks: 32]",
+,,,
+,,Chunk 3: pregnancy upto 63 days.,
+,,2. MMA may adversely affect the woman’s future fertility.,
+,,"[Metadata: chapter: 8 Schedule for MMA Trainings, section: MMA is a safe and effective method to terminate early, section_path: ['8 Schedule for MMA Trainings', 'MMA is a safe and effective method to terminate early'], chunk_type: text]",
+,,,
+,,Chunk 4: P/V  -  uterus corresponds to 10 weeks of gestation,
+,,What is your diagnosis?,
+,,• Inevitable abortion,
+,,B) How will you manage this case?,
+,,• Evacuate the uterus using MVA.  ,
+,,146,
+,,Case Study 30:,
+,,"A) Mrs. Gurupreet 20 yr.s. old, G 2 P1L1 with 10 wks. pregnancy came with c/o pain in abdomen,",
+,,P/V bleeding since 12 hrs and h/o passage of products of conception.,
+,,On examination:,
+,,Pallor ++,
+,,Pulse  -   120/min.,
+,,BP     -   100/60 mm. Hg.,
+,,RR     -   40/ min.,
+,,P/A  -   NAD,
+,,"P/S   -  active bleeding through Os +, clo...",
+,,"[Metadata: section: The presence of meconium, section_path: ['The presence of meconium'], chunk_type: text, chunk_index: 137, total_chunks: 152]",
+,,,
+,,Chunk 5: pregnancy,
+,,"[Metadata: section: Confirm, section_path: ['Confirm'], chunk_type: text]",
+,,,
+,,Chunk 6: /head2rightActivities,
+,,"•Refer to Guidelines Module 2, Chapter 1(b)",
+,,• Case scenarios & Discussion,
+,,• Visit to labour room,
+,,• Summarization of the session by the trainee,
+,,/head2rightEmphasize,
+,,Bleeding during second half of pregnancy should be considered as because of placenta previa unless proved otherwise,
+,,"and any vaginal examination is CONTRA-INDICATED, as it may provoke heavy bleeding.  ",
+,,56,
+,,/head2right Case Study 34:  (Ask the trainee to write down the answers to the questions asked in the,
+,,releva...,
+,,"[Metadata: section: Metronidazole, section_path: ['Metronidazole'], chunk_type: text, chunk_index: 19, total_chunks: 36]",
+,,,
+Response,gpt,"Agar aapko 2.5 mahine ho gaye hain aur aapka UPT (Urine Pregnancy Test) positive hai, toh yeh confirm karta hai ki aap pregnant hain. Har mahila ki pregnancy alag hoti hai, aur sabhi ko vomiting ya morning sickness nahi hoti. Kuch mahilao ko pregnancy ke dauran bilkul bhi vomiting ya nausea (matli) ka samna nahi karna padta.",
+,,,
+,,Yeh bilkul normal hai agar aapko koi vomiting ya nausea nahi ho rahi hai. Zaroori hai ki aap apni regular prenatal check-ups ke liye jaayein taki aap aur aapka baby swasth rahein. Doctor aapko pregnancy ke dauran zaroori salah aur dekhbhaal provide karenge.,
+,,,
+,,Agar aapko koi aur symptoms ya concerns hain toh apne doctor se baat karein. Unka guidance aapke aur aapke baby ke liye best hoga.,
+,,,
+Claim,gpt,"Claim 1: If you are 2.5 months into your pregnancy and your UPT (Urine Pregnancy Test) is positive, it confirms that you are pregnant.",Factually Correct
+,,"Claim 2: Every woman's pregnancy is different, and not everyone experiences vomiting or morning sickness.",Factually Correct
+,,Claim 3: Some women do not experience vomiting or nausea at all during pregnancy.,Factually Correct
+,,Claim 4: It is completely normal if you are not having any vomiting or nausea.,Factually Correct
+,,Claim 5: It's important to go for regular prenatal check-ups to ensure you and your baby remain healthy.,Factually Correct
+,,Claim 6: Doctors will provide necessary advice and care during your pregnancy.,Factually Correct
+,,"Claim 7: If you have any other symptoms or concerns, you should talk to your doctor.",Factually Correct
+,,,
+Response,gpt_rag,"Agar aapko 2.5 mahine ho gaye hain pregnancy ko aur aapko koi vomiting ya anya lakshan nahi ho rahe hain, lekin aapka pregnancy test (UPT) positive hai, toh yeh ek achhi baat hai. Har mahila ki pregnancy alag hoti hai, aur kuch mahilao ko early pregnancy mein vomiting ya morning sickness nahi hoti. ",
+,,,
+,,"Aapko regular check-ups ke liye apne doctor se milna chahiye taki aap aur aapka baby swasth rahein. Doctor aapko zaroori tests aur ultrasounds ki salah de sakte hain, jo aapki pregnancy ki progress ko track karenge. Yadi aapko koi chinta ya sawal hai toh apne doctor se baat zaroor karein. Yeh zaroori hai ki aap apna aur apne hone wale bachche ka dhyan rakhein.",
+,,,
+Claim,gpt_rag,"Claim 1: Not all women experience vomiting or morning sickness early in pregnancy, even if the pregnancy test is positive.",Factually Correct
+,,Claim 2: It is good to not have symptoms like vomiting during early pregnancy.,Partially Correct
+,,Claim 3: Regular check-ups with a doctor are advisable to ensure the health of both mother and baby.,Factually Correct
+,,Claim 4: Doctors might advise necessary tests and ultrasounds to track the progress of the pregnancy.,Factually Correct
+,,Claim 5: It is important to discuss any concerns or questions with a doctor.,Factually Correct
+,,Claim 6: Taking care of oneself and the unborn child is crucial.,Factually Correct
+,,,
+Response,mixtral,Answer:**,
+,,        ,
+,,"Mujhe yakeen hai ke aapko pregnancy mein hai, kyunki aapka pregnancy test positive hai. Lekin, aap vomiting nahi kar rahe hain, toh yeh ek concern hai. Isse kuch serious diseases ho sakte hain, jaise ki hyperemesis gravidarum. Is disease mein, aapko vomiting bahut zyada hota hai, aur isse aapko dehydration ho sakti hai. Isliye, aap apne doctor se yakeen karein aur unhe apne symptoms batayein. Unhe apne se poochhna chahiye ki aapko koi treatment chahiye ya nahi. Aap apne doctor se bhi poochh sakte hain ki aap pregnancy mein kaise khana khayein aur vomiting kam kar sakte hain.",
+,,,
+,,"(Translation: I am confident that you are pregnant because your pregnancy test is positive. However, if you are not vomiting, it is a matter of concern. This could be a sign of a serious disease like hyperemesis gravidarum, where vomiting is excessive and can lead to dehydration. Therefore, it is important to consult your doctor and share your symptoms with them. You can ask them if you need treatment or not. You can also ask your doctor for advice on what to eat during pregnancy to reduce vomiting.)",
+,,,
+Claim,mixtral,Claim 1: A positive pregnancy test confirms pregnancy.,Factually Correct
+,,Claim 2: Not vomiting during pregnancy is a matter of concern.,Factually Incorrect
+,,Claim 3: Not vomiting could be a sign of a serious disease like hyperemesis gravidarum.,Factually Incorrect
+,,Claim 4: Hyperemesis gravidarum involves excessive vomiting that can lead to dehydration.,Factually Correct
+,,Claim 5: It is important to consult your doctor and share your symptoms with them.,Factually Correct
+,,Claim 6: You can ask your doctor if you need treatment or not.,Factually Correct
+,,Claim 7: You can ask your doctor for advice on what to eat during pregnancy to reduce vomiting.,Factually Correct
+,,,
+Response,mixtral_rag,Answer:,
+,,        ,
+,,        ,
+,,"        Ma'am, you are 2.5 months pregnant and your urine pregnancy test is positive. This means that you are pregnant and your body is producing Human Chorionic Gonadotrophin (hCG) hormone which is detected by the pregnancy test kit. It is normal if you are not experiencing nausea or vomiting, as not all women have these symptoms during pregnancy. However, if you have any concerns or symptoms, please consult your healthcare provider for further evaluation and management. It is also important to start consuming a healthy and balanced diet, including calcium and folate rich foods, to support your baby's growth and development.",
+,,,
+Claim,mixtral_rag,Claim 1: You are 2.5 months pregnant and your urine pregnancy test is positive. This means that you are pregnant and your body is producing Human Chorionic Gonadotrophin (hCG) hormone which is detected by the pregnancy test kit.,Factually Correct
+,,"Claim 2: It is normal if you are not experiencing nausea or vomiting, as not all women have these symptoms during pregnancy.",Factually Correct
+,,"Claim 3: However, if you have any concerns or symptoms, please consult your healthcare provider for further evaluation and management.",Factually Correct
+,,"Claim 4: It is also important to start consuming a healthy and balanced diet, including calcium and folate rich foods, to support your baby's growth and development.",Factually Correct
+,,,
+Response,llama,Answer:**,
+,,"         **प्रिय रोगी**,  ",
+,,         मैं आपकी चिंता को समझता हूँ। आपके पिछले 2.5 महीने के गर्भावस्था के बाद वोमिंग और अन्य लक्षणों के कारण आपको चिंता हो सकती है।  ,
+,,"         **गर्भावस्था के दौरान वोमिंग के कारण**: गर्भावस्था के दौरान, आपका शरीर कई परिवर्तनों का अनुभव कर रहा है, जिनमें से एक यह है कि आपका पेट और आंतें अधिक सक्रिय हो जाती हैं। यह परिवर्तन आपके पेट में वोमिंग का कारण बन सकता है।  ",
+,,"         **अन्य संभावित कारण**: वोमिंग के अलावा, आपको अन्य लक्षणों का अनुभव हो सकता है, जैसे कि थकान, बीमार महसूस करना, और पेट में दर्द। ये लक्षण गर्भावस्था के दौरान सामान्य हो सकते हैं, लेकिन यदि वे गंभीर होते हैं या लंबे समय तक रहते हैं, तो आपको अपने डॉक्टर से परामर्श करना चाहिए।  ",
+,,"         **क्या करें**: यदि आपको वोमिंग और अन्य लक्षणों का अनुभव हो रहा है, तो आपको अपने डॉक्टर से परामर्श करना चाहिए। वे आपको उचित उपचार और सलाह दे सकते हैं और आपकी स्थिति का मूल्यांकन कर सकते हैं।  ",
+,,"         **आपकी सुरक्षा**: आपकी सुरक्षा सबसे महत्वपूर्ण है। यदि आपको वोमिंग और अन्य लक्षणों का अनुभव हो रहा है, तो आपको अपने डॉक्टर से परामर्श करना चाहिए ताकि वे आपकी स्थिति का मूल्यांकन कर सकें और आपको उचित उपचार दे",
+,,,
+Claim,llama,"Claim 1: During pregnancy, the body experiences many changes, one of which is increased activity of the stomach and intestines. This change can cause vomiting.",Partially Correct
+,,"Claim 2: Apart from vomiting, other symptoms such as fatigue, feeling ill, and stomach pain can be experienced during pregnancy.",Factually Correct
+,,"Claim 3: These symptoms are normal during pregnancy, but if they are severe or persist for a long time, consultation with a doctor is advised.",Factually Correct
+,,"Claim 4: If experiencing vomiting and other symptoms during pregnancy, consulting a doctor for appropriate treatment and assessment is suggested.",Factually Correct
+,,"Claim 5: If experiencing vomiting and other symptoms, consulting a doctor to assess the situation and provide appropriate treatment is for safety purposes.",Factually Correct
+,,,
+Response,llama_rag,Answer:,
+,,"         2.5 months pregnancy mein vomet ya kch ni hora mjhe bss upt positive h, iske liye aapko kuchh vishesh charan karni honge. ",
+,,,
+,,"         Pehle, aapko apne aapko pahle se hi pata chalna hoga ki aapki pregnancy ki umra 2.5 mahine h. ",
+,,,
+,,"         Fir, aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge. ",
+,,,
+,,         1.  Apne aapko apne aapko pahle se hi pata chalna hoga ki aapki pregnancy ki umra 2.5 mahine h. ,
+,,,
+,,"         2.  Apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge. ",
+,,,
+,,"         3.  Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge. ",
+,,,
+,,"         4.  Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge. ",
+,,,
+,,"         5.  Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge. ",
+,,,
+,,"         6.  Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",
+,,,
+Claim,llama_rag,Claim 1: 2.5 months pregnancy mein vomet ya kch ni hora mjhe bss upt positive h,Factually Correct
+,,"Claim 2: Pehle, aapko apne aapko pahle se hi pata chalna hoga ki aapki pregnancy ki umra 2.5 mahine h.",Factually Incorrect
+,,"Claim 3: Fir, aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",Factually Incorrect
+,,Claim 4: Apne aapko apne aapko pahle se hi pata chalna hoga ki aapki pregnancy ki umra 2.5 mahine h.,Factually Incorrect
+,,"Claim 5: Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",Factually Incorrect
+,,"Claim 6: Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",Factually Incorrect
+,,"Claim 7: Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",Factually Incorrect
+,,"Claim 8: Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",Factually Incorrect
+,,,
+Response,medalpaca,Answer:**,
+,,        1. Vomiting in pregnancy is common in the first trimester due to hormonal changes. ,
+,,        2. It is normal to have some bleeding or spotting in the first trimester due to implantation of the embryo in the uterus. ,
+,,"        3. If the pregnancy test is positive, it means that you are pregnant. ",
+,,        4. You should consult a doctor for a physical examination and to discuss your symptoms.,
+,,,
+,,,
+Response,medalpaca_rag,Answer:,
+,,        1. Upt positive h to positive pregnancy test kit hota hai. Upt negative h to negative hota hai.,
+,,,
+Claim,medalpaca_rag,Claim 1: Upt positive h to positive pregnancy test kit hota hai,Factually Correct
+,,Claim 2: Upt negative h to negative hota hai,Factually Correct
+,,,

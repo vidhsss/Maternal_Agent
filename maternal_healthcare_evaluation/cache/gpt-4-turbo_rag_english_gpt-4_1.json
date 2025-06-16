@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI's response is medically correct. It accurately describes the variability in fetal movements and the importance of monitoring changes, especially a significant decrease, which could indicate a complication. The advice to contact a healthcare provider if concerned is also correct and aligns with standard medical guidance.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the critical aspect of monitoring fetal movements and when to seek medical advice, it lacks specific guidance on what constitutes a 'significant decrease' in movements, which could be crucial for a pregnant person to understand. Additionally, it does not mention the concept of 'kick counts,' a common method used to monitor fetal health.",
+    "missing_information": [
+      "Explanation of what constitutes a significant decrease in fetal movements.",
+      "Information on 'kick counts' as a method to monitor fetal movements."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is written in clear, understandable language suitable for a user of average literacy. It uses straightforward terms and avoids medical jargon, making it accessible to a broad audience."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for an English-speaking user. It provides general advice that is relevant and respectful across different cultural contexts without making assumptions about the user's specific cultural background."
+  },
+  "question": "Sometimes I don\u2019t feel the baby\u2019s move ..is it okay or something else?",
+  "response": "It's normal to occasionally not feel your baby move, especially earlier in pregnancy when movements can be less noticeable. However, if you notice a significant decrease in your baby's movements or if movements stop, this could be a sign of a serious complication. It's important to monitor the baby's movements, especially as you get further along in your pregnancy.\n\nIf you're concerned about the frequency or pattern of your baby's movements, it's best to contact your healthcare provider immediately for further advice. They can perform checks to ensure everything is progressing well with your pregnancy. Remember, it's always better to be cautious and seek advice if you're unsure or worried.",
+  "language": "english",
+  "judge": "gpt-4"
+}

@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims regarding prickly heat management are medically sound.  The advice regarding loose clothing, cool environment, avoiding irritants, cool baths/showers, calamine lotion, and aloe vera are all appropriate. The recommendation to seek medical advice if symptoms worsen or are accompanied by fever, rash, or swelling is also correct.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the basics of prickly heat management, it omits information about the duration of the condition and when to specifically seek medical attention (e.g., if it doesn't improve after a few days). It also doesn't mention the use of a mild corticosteroid cream which can be helpful in some cases.",
+    "missing_information": [
+      "Information on how long prickly heat typically lasts and when to seek medical advice if it doesn't resolve (e.g., if symptoms persist for more than a few days despite home care).",
+      "Mention of the potential use of over-the-counter hydrocortisone cream (low potency steroid) for short-term relief of itching, with the caveat to consult a doctor if it doesn't improve or worsens."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language is simple, straightforward, and easy to understand for someone with average literacy. The numbered list makes the advice clear and actionable."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "The advice is generally culturally appropriate. However, access to air conditioning and cool showers might not be universal in Assam, India.  Acknowledging this and suggesting alternatives like using fans, damp cloths, or seeking shade would improve cultural sensitivity.  While calamine lotion and aloe vera are generally available, mentioning readily available alternatives used in Assam (like sandalwood paste) could be beneficial."
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "It sounds like you might be experiencing prickly heat or heat rash, which can cause itching and small red bumps on the skin. This is usually harmless and goes away on its own once the skin cools down. To help soothe the itching, you can try the following:\n\n1. Stay in a cool, airy place to allow your skin to breathe and reduce sweating.\n2. Wear loose, light clothing made of natural fibers like cotton.\n3. Avoid using harsh soaps, lotions, or perfumes that might irritate your skin.\n4. Take cool showers or baths to help relieve itching.\n5. Apply calamine lotion or aloe vera gel to the affected areas to soothe the skin.\n\nHowever, if the itching is severe, persistent, or accompanied by other symptoms like fever, rash, or swelling, it's important to consult a healthcare provider for further evaluation. They can help determine the cause of your symptoms and recommend appropriate treatment.",
+  "language": "english",
+  "judge": "gemini-pro"
+}

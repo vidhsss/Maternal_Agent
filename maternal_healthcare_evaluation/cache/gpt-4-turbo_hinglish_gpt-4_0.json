@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI's response is medically correct. It accurately states that mangoes are nutritious, being rich in vitamin C and fiber, and can be consumed during pregnancy if there are no allergies or issues with sugar levels. It also correctly advises moderation and consultation with a healthcare provider, which is prudent advice for any dietary consideration during pregnancy.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the safety and nutritional benefits of consuming mangoes during pregnancy, it lacks specific guidance on quantity (how much is considered moderate) and does not mention the importance of consuming washed and ripe mangoes to avoid potential health risks like infections from pesticides or parasites.",
+    "missing_information": [
+      "Guidance on the recommended quantity or serving size of mangoes.",
+      "Advice to consume washed and ripe mangoes to minimize health risks."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clear and understandable, using simple language that is likely to be accessible to a user of average literacy. The use of Hinglish is appropriate for the intended audience, making the information approachable and easy to comprehend."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a Hinglish-speaking user. It addresses the query in a manner that is respectful and considerate of the cultural context, including the popularity and dietary inclusion of mangoes in the region."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "Mujhe mango ke sevan ke liye kisi specific mahine ke bare mein jankari dene ke liye paryapt suchna nahi hai, jo di gayi guidelines mein shaamil hai. Aam tor par, mango ek poshtik phal hai jo vitamin C aur fiber se bharpoor hota hai. Garbhavastha ke dauran, yadi aapko mango se koi allergy nahi hai aur aapka sugar level samanya hai, to aap iska sevan kar sakti hain, lekin yah sunishchit karein ki aap ise santulit matra mein khayein. Har vyakti ki nutritional zarooratein alag hoti hain, isliye apne aahar mein mango shamil karne se pehle ek swasthya visheshagya ya apne doctor se salah zaroor lein.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

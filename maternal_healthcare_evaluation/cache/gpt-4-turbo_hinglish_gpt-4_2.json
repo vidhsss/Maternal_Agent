@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI response accurately identifies common causes of bleeding in early pregnancy, such as threatened abortion, spontaneous abortion, ectopic pregnancy, and hydatidiform mole. It correctly advises seeking medical attention if bleeding occurs, which is essential for proper evaluation and management.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers important causes of bleeding in early pregnancy and the crucial advice to seek medical attention, it does not mention other possible causes of bleeding later in pregnancy, such as placenta previa, placental abruption, or the onset of labor. Including information about when bleeding might be considered more normal, such as very light spotting in early pregnancy, could also be helpful.",
+    "missing_information": [
+      "Other potential causes of bleeding later in pregnancy (e.g., placenta previa, placental abruption).",
+      "A brief mention that very light spotting can sometimes occur in early pregnancy and may not always signify a serious problem, but medical advice should still be sought."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is written in Hinglish, which is a blend of Hindi and English commonly used in certain regions. It uses clear and straightforward language to convey the message, making it understandable for a user of average literacy familiar with this linguistic style."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The use of Hinglish is culturally appropriate for the intended audience, as it reflects a common mode of communication in many parts of India and among Indian communities. The response addresses a sensitive topic with the necessary seriousness and encourages seeking professional medical advice, which is culturally respectful and appropriate."
+  },
+  "question": "Kya pregnancy m bleeding hoti h kya yeh normal h",
+  "response": "Bleeding ke dauran pregnancy mein hamesha ek chinta ka vishay hota hai aur ise halka nahi lena chahiye. Pregnancy ke shuruaati 20 hafte ke dauran, bleeding ka karan ho sakta hai dhamki di hui garbhpaat (threatened abortion), swatah garbhpaat (spontaneous abortion), ectopic pregnancy ya hydatidiform mole. Agar aapko bleeding ho rahi hai, to yeh zaroori hai ki aap turant apne swasthya seva pradaata se sampark karein.\n\nBleeding hamesha normal nahi hoti hai aur iska karan aur prabandhan vyakti ke aadhaar par alag-alag ho sakta hai. Isliye, yadi aapko pregnancy ke dauran kisi bhi prakar ki bleeding ho rahi hai, to kripya apne doctor ya swasthya seva pradaata se sampark karein taki ve sthiti ka sahi mulyankan kar sakein aur uchit salah de sakein.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

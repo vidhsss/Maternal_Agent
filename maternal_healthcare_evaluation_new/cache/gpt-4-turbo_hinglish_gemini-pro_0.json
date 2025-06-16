@@ -1,0 +1,26 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All claims are medically sound. Mangoes are indeed rich in vitamin C and fiber.  It's also correct to advise moderation and consultation with a doctor, especially during pregnancy due to individual dietary needs and potential blood sugar concerns."
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response addresses the core concern and advises consultation with a doctor, it lacks specific information about portion sizes or frequency.  Simply stating \"balanced amounts\" isn't actionable advice for a pregnant woman.",
+    "missing_information": [
+      "Information regarding reasonable portion sizes of mango during pregnancy.",
+      "Mentioning potential risks of overconsumption, like gestational diabetes exacerbation if pre-disposed."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and easy to understand for a Hinglish speaker.  The sentences are well-structured and avoid complex medical jargon."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate.  It uses Hinglish, which is common in India, and addresses the question about mango consumption, a popular fruit in the region, including Assam. The advice to consult a doctor is also aligned with the cultural context where medical professionals are highly regarded."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "Mujhe mango ke sevan ke liye kisi specific mahine ke bare mein jankari dene ke liye paryapt suchna nahi hai, jo di gayi guidelines mein shaamil hai. Aam tor par, mango ek poshtik phal hai jo vitamin C aur fiber se bharpoor hota hai. Garbhavastha ke dauran, yadi aapko mango se koi allergy nahi hai aur aapka sugar level samanya hai, to aap iska sevan kar sakti hain, lekin yah sunishchit karein ki aap ise santulit matra mein khayein. Har vyakti ki nutritional zarooratein alag hoti hain, isliye apne aahar mein mango shamil karne se pehle ek swasthya visheshagya ya apne doctor se salah zaroor lein.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

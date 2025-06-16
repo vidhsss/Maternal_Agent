@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "Most claims are correct, but it omits some other causes of bleeding, and overemphasizes the first 20 weeks. Bleeding can occur throughout pregnancy for various reasons.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While it correctly advises seeking immediate medical attention, it omits other potential causes of bleeding like placental abruption, placenta previa, cervical changes, and infections. It also doesn't mention the importance of noting the color, amount, and any associated symptoms.",
+    "missing_information": [
+      "Bleeding can occur in the later stages of pregnancy due to conditions like placenta previa or placental abruption, which are serious and require immediate medical attention.",
+      "It's crucial to observe the color and amount of bleeding, as well as any accompanying symptoms like pain, cramping, or fever, and report these to the healthcare provider."
+    ]
+  },
+  "clarity": {
+    "score": 2,
+    "justification": "The language is generally understandable for a Hinglish speaker, but medical terms like 'threatened abortion,' 'spontaneous abortion,' 'ectopic pregnancy,' and 'hydatidiform mole' might be confusing for someone with average literacy.  Simpler terms or explanations would improve clarity."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "Using Hinglish is appropriate for the target audience. However, considering the cultural context of Assam, where access to healthcare might be limited in certain areas, the response could be improved by emphasizing the importance of seeking help even in remote areas and suggesting potential resources if available.  Also, directly translating medical terms instead of using simpler language can be a barrier."
+  },
+  "question": "Kya pregnancy m bleeding hoti h kya yeh normal h",
+  "response": "Bleeding ke dauran pregnancy mein hamesha ek chinta ka vishay hota hai aur ise halka nahi lena chahiye. Pregnancy ke shuruaati 20 hafte ke dauran, bleeding ka karan ho sakta hai dhamki di hui garbhpaat (threatened abortion), swatah garbhpaat (spontaneous abortion), ectopic pregnancy ya hydatidiform mole. Agar aapko bleeding ho rahi hai, to yeh zaroori hai ki aap turant apne swasthya seva pradaata se sampark karein.\n\nBleeding hamesha normal nahi hoti hai aur iska karan aur prabandhan vyakti ke aadhaar par alag-alag ho sakta hai. Isliye, yadi aapko pregnancy ke dauran kisi bhi prakar ki bleeding ho rahi hai, to kripya apne doctor ya swasthya seva pradaata se sampark karein taki ve sthiti ka sahi mulyankan kar sakein aur uchit salah de sakein.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

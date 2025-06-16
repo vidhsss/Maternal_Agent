@@ -1,0 +1,272 @@
+{
+    "How does folic acid help during pregnancy?": {
+        "gpt": {
+            "Similarity Increase": -0.026282668113708496,
+            "Factual Accuracy Improvement": -5
+        },
+        "mixtral": {
+            "Similarity Increase": 0.07442551851272583,
+            "Factual Accuracy Improvement": -4
+        },
+        "llama": {
+            "Similarity Increase": -0.1647261381149292,
+            "Factual Accuracy Improvement": 4
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.007762163877487183,
+            "Factual Accuracy Improvement": 1
+        }
+    },
+    "What is the best treatment for gestational diabetes?": {
+        "gpt": {
+            "Similarity Increase": -0.04997396469116211,
+            "Factual Accuracy Improvement": 11
+        },
+        "mixtral": {
+            "Similarity Increase": 0.008216261863708496,
+            "Factual Accuracy Improvement": -12
+        },
+        "llama": {
+            "Similarity Increase": -0.16676796972751617,
+            "Factual Accuracy Improvement": 0
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.14734229445457458,
+            "Factual Accuracy Improvement": 0
+        }
+    },
+    "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+        "gpt": {
+            "Similarity Increase": -0.1307445988059044,
+            "Factual Accuracy Improvement": 0
+        },
+        "mixtral": {
+            "Similarity Increase": 0.06142835319042206,
+            "Factual Accuracy Improvement": 0
+        },
+        "llama": {
+            "Similarity Increase": 0.21987831592559814,
+            "Factual Accuracy Improvement": 0
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.0980423241853714,
+            "Factual Accuracy Improvement": 3
+        }
+    },
+    "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+        "gpt": {
+            "Similarity Increase": -0.03608962893486023,
+            "Factual Accuracy Improvement": -2
+        },
+        "mixtral": {
+            "Similarity Increase": 0.08029007911682129,
+            "Factual Accuracy Improvement": -1
+        },
+        "llama": {
+            "Similarity Increase": 0.24817854166030884,
+            "Factual Accuracy Improvement": -3
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.09902584552764893,
+            "Factual Accuracy Improvement": 2
+        }
+    },
+    "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+        "gpt": {
+            "Similarity Increase": -0.19168724119663239,
+            "Factual Accuracy Improvement": -4
+        },
+        "mixtral": {
+            "Similarity Increase": 0.015242412686347961,
+            "Factual Accuracy Improvement": 3
+        },
+        "llama": {
+            "Similarity Increase": 0.0262448787689209,
+            "Factual Accuracy Improvement": -2
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.16383802890777588,
+            "Factual Accuracy Improvement": -1
+        }
+    },
+    "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+        "gpt": {
+            "Similarity Increase": -0.1764182299375534,
+            "Factual Accuracy Improvement": -3
+        },
+        "mixtral": {
+            "Similarity Increase": 0.14793328940868378,
+            "Factual Accuracy Improvement": -5
+        },
+        "llama": {
+            "Similarity Increase": 0.1729937419295311,
+            "Factual Accuracy Improvement": -2
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.023360341787338257,
+            "Factual Accuracy Improvement": 3
+        }
+    },
+    "2nd trimester diet plan?": {
+        "gpt": {
+            "Similarity Increase": -0.069822758436203,
+            "Factual Accuracy Improvement": 6
+        },
+        "mixtral": {
+            "Similarity Increase": 0.1035846471786499,
+            "Factual Accuracy Improvement": -9
+        },
+        "llama": {
+            "Similarity Increase": -0.07261344790458679,
+            "Factual Accuracy Improvement": 7
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.0028227269649505615,
+            "Factual Accuracy Improvement": 0
+        }
+    },
+    "3 manth ke bad garam taseer wali chize khasakte h": {
+        "gpt": {
+            "Similarity Increase": 0.005451768636703491,
+            "Factual Accuracy Improvement": 2
+        },
+        "mixtral": {
+            "Similarity Increase": -0.10619587823748589,
+            "Factual Accuracy Improvement": 3
+        },
+        "llama": {
+            "Similarity Increase": 0.14641598612070084,
+            "Factual Accuracy Improvement": 1
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.002826876938343048,
+            "Factual Accuracy Improvement": 0
+        }
+    },
+    "After 3 months, can I start eating things which are naturally hot for the body": {
+        "gpt": {
+            "Similarity Increase": 0.06276938319206238,
+            "Factual Accuracy Improvement": -2
+        },
+        "mixtral": {
+            "Similarity Increase": 0.19909703731536865,
+            "Factual Accuracy Improvement": -1
+        },
+        "llama": {
+            "Similarity Increase": 0.06457458436489105,
+            "Factual Accuracy Improvement": -1
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.07884281687438488,
+            "Factual Accuracy Improvement": 0
+        }
+    },
+    "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+        "gpt": {
+            "Similarity Increase": 0.008014030754566193,
+            "Factual Accuracy Improvement": -1
+        },
+        "mixtral": {
+            "Similarity Increase": 0.14644984900951385,
+            "Factual Accuracy Improvement": 0
+        },
+        "llama": {
+            "Similarity Increase": 0.2856385335326195,
+            "Factual Accuracy Improvement": -1
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.266385730355978,
+            "Factual Accuracy Improvement": 3
+        }
+    },
+    "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+        "gpt": {
+            "Similarity Increase": 0.0011416971683502197,
+            "Factual Accuracy Improvement": 3
+        },
+        "mixtral": {
+            "Similarity Increase": 0.008482366800308228,
+            "Factual Accuracy Improvement": -12
+        },
+        "llama": {
+            "Similarity Increase": -0.10973761975765228,
+            "Factual Accuracy Improvement": 4
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.04866987466812134,
+            "Factual Accuracy Improvement": 5
+        }
+    },
+    "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+        "gpt": {
+            "Similarity Increase": 0.005987770855426788,
+            "Factual Accuracy Improvement": -6
+        },
+        "mixtral": {
+            "Similarity Increase": -0.07389102317392826,
+            "Factual Accuracy Improvement": -4
+        },
+        "llama": {
+            "Similarity Increase": 0.02579220663756132,
+            "Factual Accuracy Improvement": 0
+        },
+        "medalpaca": {
+            "Similarity Increase": 0.0029039233922958374,
+            "Factual Accuracy Improvement": 0
+        }
+    },
+    "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+        "gpt": {
+            "Similarity Increase": 0.04168115556240082,
+            "Factual Accuracy Improvement": 2
+        },
+        "mixtral": {
+            "Similarity Increase": 0.14634554088115692,
+            "Factual Accuracy Improvement": 1
+        },
+        "llama": {
+            "Similarity Increase": -0.022013403475284576,
+            "Factual Accuracy Improvement": 2
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.08904764801263809,
+            "Factual Accuracy Improvement": -2
+        }
+    },
+    "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+        "gpt": {
+            "Similarity Increase": -0.11570623517036438,
+            "Factual Accuracy Improvement": 3
+        },
+        "mixtral": {
+            "Similarity Increase": -0.3163774013519287,
+            "Factual Accuracy Improvement": -4
+        },
+        "llama": {
+            "Similarity Increase": 0.12052002549171448,
+            "Factual Accuracy Improvement": -2
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.47535350918769836,
+            "Factual Accuracy Improvement": -2
+        }
+    },
+    "What should be the hemoglobin level to be ready for delivery?": {
+        "gpt": {
+            "Similarity Increase": 0.029031038284301758,
+            "Factual Accuracy Improvement": 4
+        },
+        "mixtral": {
+            "Similarity Increase": -0.08179676532745361,
+            "Factual Accuracy Improvement": 1
+        },
+        "llama": {
+            "Similarity Increase": -0.15038958936929703,
+            "Factual Accuracy Improvement": 1
+        },
+        "medalpaca": {
+            "Similarity Increase": -0.09344226121902466,
+            "Factual Accuracy Improvement": 0
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The response correctly identifies that not experiencing vomiting or morning sickness during the first 2.5 months of pregnancy can be normal, as symptoms can vary widely among pregnant individuals. It also appropriately advises consulting a healthcare provider if there are other concerning symptoms, which is medically sound advice.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers the primary concern about the absence of vomiting or morning sickness and advises seeking medical advice for other symptoms, it could have included information on what symptoms might warrant immediate consultation (e.g., severe abdominal pain, bleeding, or signs of dehydration) to provide a more comprehensive overview.",
+    "missing_information": [
+      "Specific symptoms that should prompt immediate medical consultation.",
+      "Encouragement to maintain regular prenatal check-ups even if no concerning symptoms are present."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is written in clear, simple language that is likely understandable to a user of average literacy. The use of Hinglish is appropriate for the intended audience, making the advice accessible and relatable."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a Hinglish-speaking user. It addresses the user's concern in a respectful manner without making assumptions about their knowledge or beliefs regarding pregnancy symptoms, which aligns well with cultural sensitivity."
+  },
+  "question": "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe",
+  "response": "Aapko chinta karne ki zarurat nahi hai agar aapko pregnancy ke 2.5 mahine mein vomiting ya koi aur takleef nahi ho rahi hai. Har mahila ki pregnancy alag hoti hai, aur kuch mahilao ko vomiting ya morning sickness nahi hoti. Yeh bilkul normal hai. Lekin, agar aapko koi aur symptoms dikhayi de rahe hain jo aapko pareshan kar rahe hain, toh aapko apne healthcare provider se zaroor consult karna chahiye. Woh aapki aur aapke baby ki health ka sahi se assessment kar sakenge. Aapka dhyan rakhna aur regular check-ups karwana important hai.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The advice given by the AI is medically sound. Recommending light physical activity such as walking or stretching to alleviate abdominal pain caused by prolonged sitting is appropriate. The suggestion to consult a healthcare provider if the pain persists or is severe is also correct and responsible advice.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While the response covers general advice for abdominal pain due to prolonged sitting, it lacks specific guidance regarding the user's mention of '\u0938\u091f\u094d\u091f\u093e \u092e\u093e \u0932\u0917 \u091a\u0941\u0915\u093e \u0939\u0948' which could imply pregnancy ('\u092e\u093e \u0932\u0917 \u091a\u0941\u0915\u093e \u0939\u0948' might be interpreted as 'pregnancy has occurred'). The response does not address the potential pregnancy directly, nor does it mention the importance of avoiding certain medications without consulting a healthcare provider during pregnancy.",
+    "missing_information": [
+      "Specific advice for pregnant women regarding the use of any medication.",
+      "A caution against self-medicating, especially during pregnancy, without consulting a healthcare provider."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is clear and should be understandable to a user of average literacy. It provides straightforward advice without using complex medical jargon."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally neutral and appropriate. It does not include any cultural references or assumptions that could be considered inappropriate for a Hindi-speaking user. The advice is universally applicable and respectful."
+  },
+  "question": "\u091c\u092f\u0926\u093e \u091f\u093e\u0907\u092e \u0924\u0915 \u092c\u0948\u0920\u0928\u0947 \u0938\u0947 \u091a\u0915\u094d\u0915\u0930 \u0906\u0928\u093e \u0916\u0921\u093c\u093e \u0939\u094b\u0928\u0947 \u0938\u0947 \u092a\u0947\u091f \u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948\u092e\u0947\u0930\u0947 \u0915\u094b \u0915\u094c\u0928 \u0938\u0940 \u091f\u0947\u092c\u0932\u0947\u091f \u0916\u093e\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u0905\u092d\u0940 \u0938\u091f\u094d\u091f\u093e \u092e\u093e \u0932\u0917 \u091a\u0941\u0915\u093e \u0939\u0948",
+  "response": "If you are experiencing abdominal pain after sitting for a long time, it might be due to gas or muscle strain. You can try taking a walk or doing some light stretching exercises to relieve the pain. If the pain persists or is severe, it is recommended to consult a healthcare provider for a proper diagnosis and treatment.",
+  "language": "hindi",
+  "judge": "gpt-4"
+}

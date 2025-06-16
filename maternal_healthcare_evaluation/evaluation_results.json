@@ -1,0 +1,120 @@
+{
+  "model_evaluations": {
+    "gemini-pro": {
+      "gpt-4-turbo": {
+        "english": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hindi": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hinglish": {
+          "evaluations": [],
+          "summary": {}
+        }
+      },
+      "gpt-4-turbo_rag": {
+        "english": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hindi": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hinglish": {
+          "evaluations": [],
+          "summary": {}
+        }
+      },
+      "mixtral": {
+        "english": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hindi": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hinglish": {
+          "evaluations": [],
+          "summary": {}
+        }
+      },
+      "mixtral_rag": {
+        "english": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hindi": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hinglish": {
+          "evaluations": [],
+          "summary": {}
+        }
+      },
+      "llama": {
+        "english": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hindi": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hinglish": {
+          "evaluations": [],
+          "summary": {}
+        }
+      },
+      "llama_rag": {
+        "english": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hindi": {
+          "evaluations": [],
+          "summary": {}
+        },
+        "hinglish": {
+          "evaluations": [],
+          "summary": {}
+        }
+      }
+    }
+  },
+  "judge_comparisons": {},
+  "language_comparisons": {
+    "gemini-pro": {
+      "gpt-4-turbo": {},
+      "gpt-4-turbo_rag": {},
+      "mixtral": {},
+      "mixtral_rag": {},
+      "llama": {},
+      "llama_rag": {}
+    }
+  },
+  "rag_vs_nonrag_comparisons": {
+    "gemini-pro": {
+      "gpt-4-turbo_vs_gpt-4-turbo_rag": {
+        "hindi": {},
+        "english": {},
+        "hinglish": {}
+      },
+      "mixtral_vs_mixtral_rag": {
+        "hindi": {},
+        "english": {},
+        "hinglish": {}
+      },
+      "llama_vs_llama_rag": {
+        "hindi": {},
+        "english": {},
+        "hinglish": {}
+      }
+    }
+  }
+}

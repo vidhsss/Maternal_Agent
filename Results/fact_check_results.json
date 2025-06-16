@@ -1,0 +1,2470 @@
+{
+    "gpt": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid is a form of vitamin B9 that helps prevent birth defects in the baby's brain and spine, known as neural tube defects.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Neural tube defects can include conditions like spina bifida and anencephaly.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking folic acid before and during early pregnancy helps ensure that the baby's neural tube develops correctly.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's recommended that women planning to become pregnant or are in early stages of pregnancy take a daily supplement of folic acid.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The neural tube develops very early in pregnancy, often before many women know they're pregnant.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid helps the body make new cells, including red blood cells.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking folic acid can help prevent another type of birth defect known as cleft lip and palate.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Folic acid supports the overall growth and development of the fetus.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The typical recommendation is to take 400 micrograms (mcg) of folic acid every day, starting at least one month before becoming pregnant and continuing through the first 12 weeks of pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Some women might need a higher dose if they have a history of neural tube defects in previous pregnancies or other specific health conditions.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's a good idea to discuss with a healthcare provider to ensure the right dosage and to address any other health considerations during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "It's completely normal not to experience vomiting during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Every pregnancy is different, and not all pregnant women experience the same symptoms.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Nausea and vomiting are common in pregnancy, often referred to as morning sickness, but many women might have mild symptoms or none at all.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "As long as you are attending your regular prenatal check-ups and your healthcare provider confirms that your pregnancy is progressing well, there is usually no need to worry.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have any concerns about your symptoms or lack thereof, it's always a good idea to discuss them with your doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "If you are 2.5 months into your pregnancy and your UPT (Urine Pregnancy Test) is positive, it confirms that you are pregnant.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Every woman's pregnancy is different, and not everyone experiences vomiting or morning sickness.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Some women do not experience vomiting or nausea at all during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is completely normal if you are not having any vomiting or nausea.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's important to go for regular prenatal check-ups to ensure you and your baby remain healthy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Doctors will provide necessary advice and care during your pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have any other symptoms or concerns, you should talk to your doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [
+                {
+                    "Claim": "At around 16 weeks of pregnancy, the baby is approximately 11.6 cm (4.6 inches) long and weighs about 100 grams (3.5 ounces).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "By this stage, all major organs such as the heart, kidneys, liver, and brain are developed and have started functioning.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "The baby's bones and muscles have also started to develop.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The baby begins to make small movements, which might start to be felt as fluttering or a bubbling sensation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The baby's skin is still thin and transparent, but it will gradually become stronger.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "If your last menstrual period started on October 13th, you would be approximately 18 weeks into your pregnancy around February 13th.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "At around 18 weeks, your baby is approximately 5.5 to 6 inches long from head to bottom.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "At around 18 weeks, your baby weighs around 6.7 ounces (190 grams).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The baby's skeleton is hardening, changing from rubbery cartilage to bone at 18 weeks.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The nervous system is developing at 18 weeks.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The ears are in their final position by 18 weeks, and the baby can now hear your voice.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "The baby is moving around at 18 weeks, though you might or might not have started to feel these movements yet.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regular prenatal check-ups at 18 weeks often include measuring your belly to check the baby's growth, listening to the baby's heartbeat, and discussing any symptoms or concerns you might have.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [
+                {
+                    "Claim": "Protein is important for the baby's growth and should be included in every meal.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Calcium is essential for building strong bones and teeth for the baby, as well as supporting the nervous, muscular, and circulatory systems.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Iron is important to prevent anemia as blood volume is increasing during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid is crucial for preventing birth defects of the brain and spine.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Fiber helps prevent constipation, a common issue during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Eating a variety of colorful fruits and vegetables ensures a range of vitamins and minerals.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Healthy fats are important for the baby's brain development.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Extra fluids are needed during pregnancy to support the increased blood volume and other bodily changes.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Consulting with a healthcare provider or dietitian to tailor the diet to specific pregnancy needs is recommended.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "Post childbirth, it is generally advised that the mother should consume a balanced and nutritious diet, which includes all kinds of food items.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Warm-natured foods like ginger, garlic, warm spices can be consumed in moderation, provided that they do not cause any allergies or issues to the mother or the child.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "In many traditional health beliefs, such as in Ayurveda or traditional Chinese medicine, foods are often categorized as 'hot' or 'cold' based on the effects they are believed to have on the body, rather than their actual temperature.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Whether you can start eating these 'hot' foods after three months depends on your specific health condition, where if you were advised to avoid certain foods due to a medical condition, it's best to follow up with your healthcare provider to see if it's safe to reintroduce these foods.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Your overall health recovery might allow you to start reintroducing these foods slowly and see how your body reacts.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If reintroducing these foods causes any discomfort, such as indigestion, it's important to take note and possibly discuss it with a healthcare provider.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you're unsure, it's always a good idea to consult with a healthcare provider who understands your health history and can give you personalized advice.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "Dairy products like milk, yogurt, and paneer are rich in calcium, which is essential for the development of the baby's bones.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Legumes and pulses are a good source of protein and will help in the development of the baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Green leafy vegetables such as spinach and fenugreek are good sources of iron and folate, which are crucial for the healthy development of the baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Fresh fruits like oranges, apples, bananas, and others are rich in vitamins and minerals.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Grains like wheat, rice, and barley will provide energy and help in the baby's development.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Drinking plenty of water and fluids like juice to stay hydrated is recommended.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you are unable to get vitamin and mineral supplements, consuming the mentioned food items can provide you and your baby with necessary nutrition.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [
+                {
+                    "Claim": "Continue to breastfeed or provide formula. Breast milk provides essential nutrients and antibodies that help protect your baby from infections. If breastfeeding isn’t an option, use infant formula as recommended by your pediatrician.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Make sure your baby receives vaccinations according to the schedule recommended by your pediatrician. Vaccines are crucial for protecting your baby from serious diseases.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Keep up with regular pediatric check-ups. These visits allow the doctor to monitor your baby’s growth and development and to catch any potential health issues early.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Ensure that your baby sleeps on their back, in a crib without any loose bedding, pillows, or toys, which can increase the risk of sudden infant death syndrome (SIDS).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Keep your baby’s environment clean. Wash your hands frequently, especially before handling your baby, and make sure anyone who touches the baby has clean hands.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Once your pediatrician gives the go-ahead (usually around 4-6 months), you can start introducing solid foods. Begin with iron-fortified cereals and then move on to pureed fruits and vegetables.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Engage with your baby through talking, singing, and playing. This interaction helps with emotional and cognitive development.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Keep an eye out for any signs of illness like fever, fussiness, or a change in eating or sleeping habits, and consult your pediatrician if anything seems unusual.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [
+                {
+                    "Claim": "Some medications can cause vomiting if taken on an empty stomach. Eating a small amount of food before taking the medication might help, but some medications require an empty stomach, so always read the instructions or consult your doctor.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have difficulty swallowing large pills, ask your doctor if you can split the medication into smaller parts.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If continuous vomiting occurs, you can ask your doctor for an alternative form of the medication (like liquid form or capsule) that might be more suitable.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "In some cases, doctors can prescribe anti-nausea medication to help prevent vomiting.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Changing the timing of taking the medication might help. Consult your doctor about this option.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If vomiting persists despite trying these measures, it's important to consult your doctor for better advice suited to your condition.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "Taking medication with food can help reduce nausea unless the medication requires that it be taken on an empty stomach.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Staying hydrated and drinking fluids like water or herbal tea can help settle your stomach.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking medicine at a different time of day can help manage nausea.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Ginger and peppermint can help reduce nausea, with ginger especially recognized for its anti-nausea properties.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If nausea persists, talking to your doctor for possible adjustment of dosage or prescription of anti-nausea medication is advised.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Severe or persistent nausea should be consulted with a healthcare provider to rule out more serious issues.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        }
+    },
+    "gpt_rag": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid helps prevent birth defects in the baby's brain and spine, known as neural tube defects.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The neural tube is the part of the developing baby that becomes the brain and spinal cord.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking folic acid before and during early pregnancy can reduce the risk of these defects significantly.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Doctors recommend that women who are planning to become pregnant start taking folic acid supplements at least 2 to 3 months before conception and continue taking it during the first 12 weeks of pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The usual dose is 400 micrograms (μg) per day.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [
+                {
+                    "Claim": "The best treatment for gestational diabetes primarily involves managing your diet and engaging in regular physical activity.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's recommended to monitor your fasting blood glucose regularly and follow a specific diet plan.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This diet should consist of 50-60% calories from carbohydrates, 10-20% from proteins, and 25-30% from fats.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's important to choose carbohydrates with a low glycemic index and avoid refined carbohydrates like sweets, fruit juices, and starchy vegetables.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Spreading carbohydrate intake throughout the day across three small meals and 2-3 snacks can help maintain stable blood glucose levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Avoiding fried foods and opting for healthier cooking methods such as steaming, boiling, or sautéing in a non-stick pan is advised.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Exercise is also a crucial part of managing gestational diabetes.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Moderate physical activity, as recommended by your healthcare provider, can help control blood sugar levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If diet and exercise are not enough to control blood sugar, medication may be necessary.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This could include oral glucose-lowering drugs or insulin therapy, depending on individual needs.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regular follow-ups with your healthcare provider are essential to monitor the health of both you and your baby and make adjustments to your treatment plan as needed.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "It is completely normal not to have vomiting during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Each woman's experience during pregnancy is different.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Some women experience nausea and vomiting early in pregnancy, while others do not.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have no other concerning symptoms and you feel healthy, there is no need to worry.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "However, if you have any other questions or concerns, make sure to talk to your doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "Not all women experience vomiting or morning sickness early in pregnancy, even if the pregnancy test is positive.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is good to not have symptoms like vomiting during early pregnancy.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Regular check-ups with a doctor are advisable to ensure the health of both mother and baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Doctors might advise necessary tests and ultrasounds to track the progress of the pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to discuss any concerns or questions with a doctor.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking care of oneself and the unborn child is crucial.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "At four months of pregnancy, the baby's length is about 5 to 6 inches (approximately 12.7 to 15.2 centimeters)",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "At four months of pregnancy, the baby's weight is about 100 grams",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "By the fourth month, the baby’s brain, spinal cord, and nerve system are fully functional",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "By the fourth month, the teeth and bones of the baby have started to become denser",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "By the fourth month, the baby’s blood circulation has begun",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This time is very important for the baby's development, hence a nutritious diet should be taken and regular checkups should be done with the doctor",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [
+                {
+                    "Claim": "Aim to have at least three main meals each day.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Each meal should include carbohydrates like whole grains.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Protein sources such as lentils, beans, paneer, yogurt, eggs, or lean meats should be included in meals.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Fill half of your plate with a variety of vegetables.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Incorporate fruits as part of your meals or as a snack.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Have 2 nutritious snacks between meals.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Continue taking iron-folic acid supplements as recommended.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Eating vitamin C-rich foods like oranges, lemons, and guavas alongside can help with the absorption of iron.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Calcium is vital for building your baby's bones and teeth.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Include a calcium supplement if advised by your healthcare provider and consume calcium-rich foods.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Drink at least 8-10 glasses of water a day.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Staying hydrated is important for preventing urinary tract infections and helping with constipation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Limit intake of caffeine and avoid alcohol, unpasteurized dairy products, and raw or undercooked meats to reduce the risk of infections.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Try to include a variety of foods to ensure you get a mix of nutrients necessary for your health and the growth of your baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Eating different types of foods will also help make meals more enjoyable.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's a good idea to consult with your healthcare provider to tailor the diet plan according to your specific health needs and nutritional requirements.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "3 mahine ke baad aap garam taseer wali cheezein kha sakte hain",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Yeh zaroori hai ki aap apne aahar mein santulit matra mein sabhi tarah ki poshak tatvon ko shaamil karein",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Garam taseer wali cheezein jaise ki adrak, lahsun, garam masale aadi ko samay-samay par aur simit matra mein hi istemal karna chahiye",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Yadi aapko kisi bhi tarah ki sehat se sambandhit samasya hai to pehle ek swasthya visheshagya se salah zaroor lein",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "After three months, you can generally start including foods that are considered 'naturally hot' for the body, unless you have specific health conditions or dietary restrictions advised by your doctor.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "These foods might include spices like ginger, garlic, and pepper, which are believed to increase body heat.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's important to introduce them gradually into your diet to see how your body reacts, especially if you are breastfeeding, as some spices can affect the baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Always ensure that your diet is balanced and consult with your healthcare provider if you have any concerns about your diet or health.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "Milk, paneer, and curd are good sources of calcium for you and your baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Leafy green vegetables like methi, bathua, and spinach are good sources of folic acid.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Grains like ragi and bajra should be included in your diet as they are rich in calcium and other minerals.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Sesame seeds are also a good source of calcium.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Legumes and nuts such as chana, rajma, moong, and almonds are also good sources of protein and folic acid.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [
+                {
+                    "Claim": "At 4 months, your baby should still be exclusively breastfed.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Breast milk provides all the necessary nutrients and antibodies your baby needs to grow healthy and strong.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Try to breastfeed your baby on demand, which might be about 8 times or more in 24 hours.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Make sure to take your baby for regular health check-ups.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "During these visits, the healthcare provider will monitor your baby’s growth, development, and administer necessary vaccinations like the ones mentioned (BCG, OPV, Hepatitis B).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "At this age, babies typically need about 14 to 16 hours of sleep over a 24-hour period, including naps.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Keep your baby’s environment safe and clean.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Make sure sleeping and playing areas are free from small objects that could be a choking hazard.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Maintain good hygiene by washing your and your baby’s hands regularly, especially before feeding.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Continue to provide skin-to-skin contact if possible. This helps in bonding but also regulates the baby's body temperature, breathing, and heart rate.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Be responsive to your baby’s hunger cues. Crying, sucking fingers, or becoming more alert are signs that your baby might be hungry.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "Nausea is common in early pregnancy and usually reduces in the second trimester.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Eating small, frequent meals can help reduce nausea.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Avoid lying down immediately after eating to help reduce nausea.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Ginger and mint can help reduce nausea.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Drinking plenty of water throughout the day, especially if experiencing vomiting, is beneficial.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Avoiding food smells can help reduce nausea.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If non-pharmacological methods do not relieve symptoms, consulting a doctor for possible medication is advised.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [
+                {
+                    "Claim": "Delivery ke liye, ek mahila ka hemoglobin ka star kam se kam 10 g/dL hona chahiye.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Yadi hemoglobin ka star is se kam hai, toh yeh anemia ka sanket ho sakta hai, jo delivery ke samay jatiltaon ko badha sakta hai.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Isliye, agar hemoglobin ka star kam hai, toh doctor iron supplements aur poshan yukt aahar lene ki salah de sakte hain taaki hemoglobin ka star badhaya ja sake aur swasth delivery sunishchit ki ja sake.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [
+                {
+                    "Claim": "For a pregnant woman, it's important that her hemoglobin level is at least 11 g/dl to be considered ready for delivery without additional concerns related to anemia.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If the hemoglobin level is between 7 and 11 g/dl, it indicates moderate anemia.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If the hemoglobin level is below 7 g/dl, it indicates severe anemia.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "In cases of severe anemia (hemoglobin less than 7 g/dl), it is recommended that the delivery should take place at a facility equipped to handle high-risk cases, such as a First Referral Unit (FRU).",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        }
+    },
+    "mixtral": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid is a type of B vitamin important for the health of a mother and her baby during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid helps in the formation of the neural tube, which eventually becomes the baby's brain and spine.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If the neural tube does not form properly, it can lead to serious birth defects of the brain and spine called neural tube defects.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid helps the body make new cells and can prevent changes to DNA that may lead to cancer.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Folic acid is found in foods such as leafy green vegetables, fruits, dried beans, and peas.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is difficult to get the required amount of folic acid from food alone, especially during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is recommended that all women of reproductive age take a daily folic acid supplement of 400 to 800 micrograms, and women who are planning to become pregnant should start taking folic acid supplements before they become pregnant.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid is water-soluble, which means it is not stored in the body and needs to be replenished daily.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's crucial to take folic acid every day.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [
+                {
+                    "Claim": "Gestational diabetes is a type of diabetes that occurs during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The best treatment for gestational diabetes typically involves a combination of healthy eating, regular physical activity, and monitoring blood sugar levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "A balanced diet rich in fruits, vegetables, lean proteins, and whole grains can help manage blood sugar levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's also important to limit intake of sugary drinks and foods, and to eat regularly to prevent spikes in blood sugar.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regular exercise can help the body use insulin more effectively, which can help control blood sugar levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's important to discuss any exercise plans with your healthcare provider to ensure they are safe for you and your baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regularly checking blood sugar levels can help you understand how different foods and activities affect your levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This can help you make adjustments to your diet and lifestyle to better manage the condition.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "In some cases, medication may also be necessary to help control blood sugar levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This is typically determined by a healthcare provider based on individual circumstances.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's important to work closely with your healthcare provider to develop a treatment plan that's right for you.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "They can provide guidance and support to help you manage gestational diabetes and ensure a healthy pregnancy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "Nausea and vomiting are common during pregnancy, especially in the first trimester.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Not all women experience nausea and vomiting during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It's completely normal to not have vomiting during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Consulting with a healthcare provider for concerns or changing symptoms during pregnancy is advised.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "A positive pregnancy test confirms pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Not vomiting during pregnancy is a matter of concern.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Not vomiting could be a sign of a serious disease like hyperemesis gravidarum.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Hyperemesis gravidarum involves excessive vomiting that can lead to dehydration.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to consult your doctor and share your symptoms with them.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "You can ask your doctor if you need treatment or not.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "You can ask your doctor for advice on what to eat during pregnancy to reduce vomiting.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [
+                {
+                    "Claim": "A prolonged period that lasts for 4 months can indicate problems such as hormonal imbalance, polycystic ovary syndrome (PCOS), thyroid disorders, stress, excessive exercise, or low body weight.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "It is advisable to consult a doctor and provide them with personal and family medical history.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The doctor may prescribe medications or treatments based on the diagnosis.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If there are no serious problems, your period could become normal again.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "AI cannot diagnose your medical condition, hence it is recommended to consult a doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "A period is not an indication of pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Pregnancy is confirmed when a fertilized egg implants in the uterus, typically around 10-14 days after conception.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If it's been 4 months since your last period, you would be about 16-18 weeks pregnant.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "At 16-18 weeks pregnant, the fetus is about the size of a sweet potato, around 4.6 to 5.6 inches long, and weighs approximately 5.25 to 11 ounces.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "The baby's features are becoming more distinct, and they can now hear your voice and respond to touch around 16-18 weeks of gestation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have not had a positive pregnancy test, it's likely that you are not pregnant and your period is simply overdue.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "It's important to consult with a healthcare professional if you have concerns about your menstrual cycle or any other health matters.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [
+                {
+                    "Claim": "During the second trimester, which is from week 13 to week 26, your body will continue to change and grow, and so will your baby's.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Include lean meats, poultry, fish, beans, eggs, and tofu for proteins. Aim for 3-4 servings per day.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Consume at least 3-4 servings of dairy products like milk, cheese, and yogurt for calcium. If you're lactose intolerant, consider calcium-fortified soy milk or almond milk.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Aim for at least 5 servings of various fruits and vegetables.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Choose a variety of colors from fruits and vegetables to ensure you're getting a wide range of nutrients.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Include whole grains like brown rice, quinoa, whole-wheat bread, and pasta in your diet. Aim for 6-8 servings per day.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Consume healthy fats like avocados, nuts, seeds, and olive oil.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Drink at least 8-10 glasses of water per day.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Avoid certain foods that can be harmful to you and your baby, such as raw or undercooked meat, fish high in mercury, raw eggs, unpasteurized dairy products, and alcohol.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Every woman's nutritional needs are different, so it's always a good idea to consult with your healthcare provider to create a personalized diet plan that suits your specific needs.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "Proteins, lipids, and carbohydrates inherently have a 'warm essence' that warms up the body when digested.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Consuming foods considered to have a 'warm essence' immediately impacts the body by heating it when they are consumed.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Eating foods with a 'warm essence' can cause stomach pain and issues.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Eating foods with a 'warm essence' will prevent feelings of hunger because these foods require time to be digested and assimilated in the body.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "The concept of foods being 'hot' or 'cold' is more of a traditional belief rather than a scientific one.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "There's no scientific evidence to suggest that these foods actually change your body temperature or have a significant impact on your health in this way.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you're referring to foods that might irritate your digestive system or cause discomfort, it's always a good idea to reintroduce them slowly and in moderation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Reintroducing foods slowly and in moderation can help you gauge your body's reaction and avoid any potential issues.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Discussing food reintroduction with your healthcare provider is recommended if dealing with a particular health condition.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "If a child has been sick for four months and there's no medication available at the hospital, alternate hospitals or clinics can be sought for treatment.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "If travelling to other hospitals is problematic, one can contact their doctor via video call and request medication.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to treat a sick child by showing them to a doctor who will prescribe medication based on the child’s symptoms.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The health of the child will improve by seeking proper medical treatment.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Any questions about illness can be asked from the AI, and the AI can attempt to assist.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [
+                {
+                    "Claim": "Continue breastfeeding if possible, as it provides the best nutrition for your baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If not breastfeeding, consult your pediatrician about the right formula.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Make sure your baby is up-to-date with all their vaccinations. They protect your baby from serious diseases.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Wash your hands and your baby's hands regularly, especially before feeding and after diaper changes.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This helps prevent the spread of germs.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Always place your baby on their back to sleep, in a crib that's free of soft toys, blankets, or pillows.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "This reduces the risk of Sudden Infant Death Syndrome (SIDS).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Give your baby some supervised tummy time each day. This helps strengthen their neck and shoulder muscles.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Keep regular appointments with your baby's pediatrician.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "They can monitor your baby's growth and development, and address any concerns.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Every baby is unique and may have different needs.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Always consult with a healthcare professional for advice tailored to your baby's specific needs.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [
+                {
+                    "Claim": "\"Ulti ho jati hai\" is prakar ke symptoms ko \"nausea\" kehte hain.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Nausea can be caused by illness, pain, stress, or a reaction to food.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If experiencing nausea due to medication, repeatedly check the medication to ensure it is not defective.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Eating small amounts of butter can empty your stomach and reduce nausea.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Drinking lemon water, which contains coconut water, is used for treating various illnesses.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Sitting in cool air is a technique that can help manage nausea.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Sleeping at least 8 hours per night allows your body to function well.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If nausea worsens or is accompanied by pain, consult a doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "If you're experiencing nausea after taking your medication on an empty stomach, it might be helpful to take it with a small snack.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking medication with a small snack can help to buffer the medication and reduce stomach irritation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Some medications should be taken on an empty stomach.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If your nausea persists, it would be best to contact your healthcare provider for further advice.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [
+                {
+                    "Claim": "Normal hemoglobin levels for an adult woman lie between 12.1 to 15.1 grams per deciliter (g/dL).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "During pregnancy, the recommended hemoglobin level is 11 g/dL or higher.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If your hemoglobin level falls below 10 g/dL, your doctor may not consider you ready for delivery as it increases the risk of anemia.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Anemia is a chronic condition that can be treated, but it becomes difficult to manage during delivery.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Maintaining your hemoglobin level above 10 g/dL is beneficial for both you and your baby.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        }
+    },
+    "mixtral_rag": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid is a type of B vitamin that is very important for the normal development of your baby's brain and spinal cord.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid helps to prevent birth defects of the brain and spine, called neural tube defects.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is recommended that women take a daily dose of 400 μg folic acid, starting before conception and continuing through the first 12 weeks of pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid can be taken in the form of a tablet or can be found in certain foods such as catla fish, moth beans, kidney beans, soybean, spinach, sem ki phali, and sarson ka saag.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Regular consumption of iodated salts is also advised during pregnancy as low iodine levels can cause cretinism, which can lead to mental/physical retardation of the baby.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "It is normal to not have vomiting in early pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "You should try to eat at least 3 main meals and 1 nutritious snack to help you and your baby meet nutrient requirements.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to include foods rich in folate such as catla fish, moth beans, kidney beans, soybean, spinach, sem ki phali, sarson ka saag, and chicken liver in your meals and snacks.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "You should continue consuming one folic acid tablet (400 mg) daily.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "You are 2.5 months pregnant and your urine pregnancy test is positive. This means that you are pregnant and your body is producing Human Chorionic Gonadotrophin (hCG) hormone which is detected by the pregnancy test kit.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is normal if you are not experiencing nausea or vomiting, as not all women have these symptoms during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "However, if you have any concerns or symptoms, please consult your healthcare provider for further evaluation and management.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is also important to start consuming a healthy and balanced diet, including calcium and folate rich foods, to support your baby's growth and development.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [
+                {
+                    "Claim": "The baby's stool, also known as meconium, is usually present in the first few days after birth.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The frequency of stools can vary greatly from one baby to another.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Some babies may pass stools after every feed, while others may only pass stools once a day or even less frequently.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "In the first 4 months of life, it is normal for a baby's stool pattern to change and for them to pass stools less frequently as they grow and their diet changes.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to monitor the baby's stools for any changes in color, consistency, or frequency that may indicate a problem.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have any concerns about your baby's stools, it is best to consult with a healthcare provider.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Since the baby is 4 months old and the stool frequency has decreased, it is advisable to consult a healthcare provider to rule out any underlying issues.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "The food items that make you burp after eating for three months could be spicy or oily foods like channa chaat or khandvi.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "These foods can produce gas in your stomach, which can lead to burping.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "To avoid this, you can try eating lighter and simpler meals, and avoid eating too quickly.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If the problem persists, you should consult a doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "After the third month, you can start including foods that are naturally hot for the body in your diet.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Consume these foods in moderation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to maintain a balanced diet throughout your pregnancy, including a variety of fruits, vegetables, grains, and proteins.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you have any concerns about specific foods, it is always best to consult with your healthcare provider.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "In the 4th month of pregnancy, it is recommended to include calcium and folate-rich foods such as milk, curd, paneer, ragi, sesame seeds, bathua leaves, methi leaves, and chicken liver.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Protein-rich foods such as catla and eggs should be included in the diet during the 4th month of pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Fruits and vegetables should be included in the diet during pregnancy to ensure the intake of vitamins and minerals.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to ensure there are no nutrient deficiencies in the diet during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [
+                {
+                    "Claim": "Your stomach is upset, which is why you are vomiting.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "You do not have a disease, just need to settle your stomach.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Drinking some water first will give you relief.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "You should stay away from other medications that cause you to vomit.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "You should eat foods that feel right to you, including besan, peanuts, jaggery, rajgira gaund.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "You should also eat something called 'khandvi', and it should be eaten properly.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "You should also drink milk with sugar as the sugar is necessary.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "Increasing intake of food and fluids in smaller, more frequent meals can help alleviate nausea.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Avoiding taboos against nutritionally healthy foods is beneficial.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Talking to family members like a husband or mother-in-law can help ensure sufficient food intake and avoidance of heavy work.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Ginger may help relieve symptoms of nausea and vomiting.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Pharmacological treatments like doxylamine and metoclopramide should be reserved for distressing symptoms not relieved by non-pharmacological options, under the supervision of a medical doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [
+                {
+                    "Claim": "The hemoglobin level should be equal to or greater than 11 g/dl to be ready for delivery.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        }
+    },
+    "llama": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [
+                {
+                    "Claim": "Gestational Diabetes usually occurs from 24 to 28 weeks of gestation.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The best treatment for Gestational Diabetes is to follow doctor's instructions and make diet and lifestyle changes.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Include more fruits, vegetables, and whole grains in your diet and limit high carbohydrate foods.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regular exercise can improve your body's insulin sensitivity.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you are overweight, losing weight can improve your body's insulin sensitivity.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Stay under the supervision of your doctor and follow their instructions.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "During pregnancy, the body experiences many changes, one of which is increased activity of the stomach and intestines. This change can cause vomiting.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Apart from vomiting, other symptoms such as fatigue, feeling ill, and stomach pain can be experienced during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "These symptoms are normal during pregnancy, but if they are severe or persist for a long time, consultation with a doctor is advised.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If experiencing vomiting and other symptoms during pregnancy, consulting a doctor for appropriate treatment and assessment is suggested.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If experiencing vomiting and other symptoms, consulting a doctor to assess the situation and provide appropriate treatment is for safety purposes.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [
+                {
+                    "Claim": "Bacche ki girna (child's growth) ek aisa prakriya hai jismein bachche apne shareer mein badalne ki prakriya karte hain.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Is prakriya mein, bachche ki giroth 4-6 mahine mein badalti hai.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Lekin, iski giroth ki gati bachche ki umar, swasthya, aur anya kaarakon par nirbhar karti hai.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Bachche ki giroth ki gati ko samjhne ke liye, aapko unki umar, swasthya, aur anya kaarakon ko samjhna hoga.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "At 4 months, the baby's growth is approximately 10 to 12 cm.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Additionally, the baby's weight will be around 600 grams.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Every pregnancy is different, and the baby's growth can also be different individually.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "Garam taseer wali chizein, such as hot tea, warm clothing, or hot water, can boost blood combination in your body.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "This blood combination works to protect your body from heat.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Warm temperament items can be dangerous for your body, especially if there is a problem in your body.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "If you have any problems after eating warm temperament items, you should contact a doctor.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Drinking water after eating warm temperament items helps in keeping your body healthy.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Drinking water after consuming warm temperament food items aids in maintaining your body's health.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "Foods considered 'naturally hot' for the body are usually associated with vitamins and minerals like vitamin B12, iron, and calcium.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "These nutrients provide energy and are necessary for bones and blood cells.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you are healthy and have no underlying issues, you can include these foods in your diet.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "If you have a disease or a body issue, you should consult your doctor.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "Providing supplementary foods such as fruits, vegetables, whole grains, and milk can improve a child's health.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regular exercise can improve children's health.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Adequate sleep can improve children's health.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regular health check-ups can improve children's health.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you think your child's health is deteriorating, contact a doctor immediately.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "For more information about your child's health, consult a health specialist.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "Drinking water can help alleviate fatigue if you're unable to eat.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Taking smaller doses of medicine can help prepare your body for the effects of the medicine.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "It is normal to have difficulty taking medicine, but if it continues, talking to a doctor is important.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "A doctor can advise you and help you with taking your medication.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [
+                {
+                    "Claim": "For delivery, hemoglobin levels are very important.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Hemoglobin levels help identify anemia or other harmful conditions in your body.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Hemoglobin levels play a crucial role in making your body ready for delivery.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Generally, for delivery, hemoglobin levels should be above 11 g/dL.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "The required level of hemoglobin depends on age, body condition, and other factors in the body.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        }
+    },
+    "llama_rag": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid helps in the development of the brain and spinal cord.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid prevents neural tube defects, which can cause some problems in the baby at birth.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The daily dose of folic acid should be 400 micrograms.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is recommended to take folic acid two to three months before conception and continue for the first 12 weeks of pregnancy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [
+                {
+                    "Claim": "Gestational diabetes treatment usually does not occur in the final stages of life, but during pregnancy itself.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "For the treatment of diabetes during pregnancy, you need to change your diet and physical activity.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Dietary changes include incorporating more nutritious foods into your diet, such as fruits, vegetables, and whole grains.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Physical activity changes include regular exercise such as yoga, walking, etc.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you need medication for diabetes, you should consult your doctor and follow their advice.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "For the treatment of diabetes during pregnancy, you must follow your doctor's advice and make changes to your diet and physical activity.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "In a healthy pregnancy, it's common to be busy with weight gain and abdominal pain.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "If you don't have any abdominal pain or weight gain issues, it's normal to be busy even after eating and not make any changes to your diet.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "2.5 months pregnancy mein vomet ya kch ni hora mjhe bss upt positive h",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Pehle, aapko apne aapko pahle se hi pata chalna hoga ki aapki pregnancy ki umra 2.5 mahine h.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Fir, aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Apne aapko apne aapko pahle se hi pata chalna hoga ki aapki pregnancy ki umra 2.5 mahine h.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Agar aapki pregnancy ki umra 2.5 mahine h, to aapko apne aapko apne aapko vomet ya kch ni hora mjhe bss upt positive h, iske liye kuchh vishesh charan karni honge.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "At 4 months, the baby's weight is between 2.3 kg to 3.5 kg.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "At this time, the baby's lungs and brain are developing rapidly.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "You need to include specific healthy and nutritious foods in your diet.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [
+                {
+                    "Claim": "2nd trimester diet plan should include variety of foods from all food groups.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It should consist of 1-2 carbohydrate servings along with one serving from protein rich foods.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "For non-vegetarian mothers, eggs, low-fat meat like well-cooked fish or chicken can be included.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Meal plan should be divided into 3 major meals (breakfast, lunch and dinner) and 2-3 mid-day snacks.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is recommended to include calcium rich foods such as milk, curd, paneer, ragi, sesame seeds, bathua leaves, methi leaves, etc. in the diet.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid tablet should be consumed daily.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is also recommended to include vitamin A rich foods such as green leafy vegetables, yellow and orange coloured fruits and vegetables, milk and milk products, tomato, egg, liver etc. in the diet.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "3 manth ke bad garam taseer wali chize khasakte h, jaise ki channa chaat, khandvi, besan, peanuts, jaggery aur rajgira gaund.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "ye sabhi chize mein protein aur fiber hote hain, jo sharir ko majboot banate hain.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "iske alawa, ye chize mein vitamin aur mineral bhi hote hain, jo sharir ko swasth rakhne mein madad karte hain.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "3 manth ke bad garam taseer wali chize khane se sharir ko majbooti aur swasthya milta hai.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "It is not recommended for a mother to consume naturally hot foods at 3 months of pregnancy.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Hot foods can be harmful for your body.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "During pregnancy, you should avoid hot foods.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "You can consult your doctor about consuming specific foods.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "In pregnancy, it is important to consult with your doctor to understand the health of your pregnancy and any issues you might have.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Blood tests are needed during pregnancy to check for hemoglobin levels and any other potential issues.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Ultrasound is required to monitor the health of the baby during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Doctor's advice should be sought to determine what is necessary for the baby's health.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Nutrition should be carefully monitored to ensure the baby's health improves during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Exercise should be monitored for the baby during pregnancy to improve its health.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "If there are complications, one might need to go to a hospital for a blood transfusion.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "If there are complications, one might need surgery during pregnancy.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [
+                {
+                    "Claim": "Wash your baby's hands regularly with soap and water.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Sit with your child during meal times to ensure they eat a healthy diet.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regularly breastfeed your baby, especially when they are 6 months old.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "If your baby has issues taking the pill, consult your doctor for appropriate advice and to keep your baby healthy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Regularly check your baby's health to ensure they are healthy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [
+                {
+                    "Claim": "There is something in your medication that is causing you to vomit.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "You need treatment such as reducing your medication.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "You may need treatments near your medication.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "You need specific treatment options because of the medication causing vomiting.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "If you can't eat and feel nauseous, talk to your doctor first.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Your doctor may suggest some food items that can help you and make it easier to take your medication.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "You can also talk to your family members and tell them how often you need to eat.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Ginger is often used to reduce nausea in pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Make sure to follow your doctor's advice and consult them before taking any medication or food item.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [
+                {
+                    "Claim": "Delivery ke liye ready hone ke liye hemoglobin level 11 g/dl hona chahiye.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Agar aapki hemoglobin level 7-11 g/dl hai to aapko moderate anemia hai.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Agar aapki hemoglobin level 11 g/dl se kam hai to aapko severe anemia hai.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Agar aapki hemoglobin level 11 g/dl se kam hai to aapko hospital mein delivery karne ki jarurat hogi.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [
+                {
+                    "Claim": "The hemoglobin level should be at least 11 grams per liter during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If the hemoglobin level is between 7 to 10.9 grams per liter, it should be at least 7 grams per liter in the final stages of pregnancy.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "If hemoglobin level is at least 7 grams per liter, the hemoglobin level should be at least 7 grams per liter in the final stages of pregnancy.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        }
+    },
+    "medalpaca": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid is a B vitamin that is essential for pregnant women.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important for the development of the baby's brain and spine.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid can help prevent neural tube defects in the baby.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is recommended that all pregnant women take folic acid supplements every day.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [
+                {
+                    "Claim": "Gestational diabetes is a type of diabetes that occurs during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is caused by the hormonal changes in the body.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The best treatment for gestational diabetes is a healthy diet and regular exercise.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "In addition, you may need to take insulin or oral medications to control blood sugar levels.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to monitor blood sugar levels regularly",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Follow the doctor's instructions to prevent complications for both the mother and the baby.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "Not having vomiting during pregnancy is not normal.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [
+                {
+                    "Claim": "4 months",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "Baby's growth is 4 inches long",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Baby weighs around 4 pounds now",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "3 manth ke bad garam taseer wali chize khasakte h",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "Hot foods do not have any harmful effects on the body.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "The AI response lists 'Chat Doctor' repeatedly as an answer to the query about what diet to maintain during pregnancy to ensure the health of the baby.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [
+                {
+                    "Claim": "Ulti ho jati hai ke liye, aap ise khushi se kare.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [
+                {
+                    "Claim": "Take a light meal before taking the medicine.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Take the medicine with some water.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Take the medicine after taking some antacid.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Take the medicine after taking some antacid and a light meal.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [
+                {
+                    "Claim": "Hemoglobin level during pregnancy can vary from person to person.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is normal for hemoglobin to be lower during pregnancy, especially in the first and second trimester.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If your hemoglobin level is consistently below 12.5 g/dL, you may need to be checked for anemia.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Anemia during pregnancy can lead to complications for both you and your baby.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        }
+    },
+    "medalpaca_rag": {
+        "How does folic acid help during pregnancy?": {
+            "Claims": [
+                {
+                    "Claim": "Folic acid is a B vitamin that is very important for pregnant women.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is needed for the growth and development of the baby's brain and spinal cord.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Folic acid helps prevent neural tube defects, such as spina bifida.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is important to take folic acid before and during pregnancy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What is the best treatment for gestational diabetes?": {
+            "Claims": [
+                {
+                    "Claim": "Lifestyle modification, including diet and exercise, is the primary treatment for gestational diabetes.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Metformin is the only pharmacologic agent approved for the treatment of gestational diabetes.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Insulin is used in cases of severe hyperglycemia or when metformin is contraindicated.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The treatment goal for gestational diabetes is to achieve and maintain blood glucose levels between 85–95 mg/dL.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Gestational diabetes usually resolves after delivery of the placenta.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes are at increased risk for postpartum hypoglycemia, which is managed with frequent feeding and glucose supplementation.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes are at increased risk for the development of type 2 diabetes mellitus.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing diabetes mellitus.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing hypertension.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing dyslipidemia.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing obesity.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing polycystic ovary syndrome.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing celiac disease.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing thyroid disease.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing chronic kidney disease.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing chronic liver disease.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing anemia.",
+                    "Evaluation": "Partially Correct"
+                },
+                {
+                    "Claim": "Women with gestational diabetes should be screened for pre-existing depression.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        },
+        "I am 2.5 months pregnant and don’t have vomiting. Is that normal?": {
+            "Claims": [
+                {
+                    "Claim": "Yes, it is normal not to have vomiting in pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Vomiting is a common symptom in early pregnancy, but not all women have vomiting in pregnancy.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "It is normal not to have vomiting in pregnancy.",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h": {
+            "Claims": [
+                {
+                    "Claim": "Upt positive h to positive pregnancy test kit hota hai",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Upt negative h to negative hota hai",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab": {
+            "Claims": [
+                {
+                    "Claim": "13 October period aya to 4 months chal rHa he",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "bacche ki giroth kitni hogi ab 4 kg",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "Got my period on 13 october, so it's 4 months now, how much will be the baby's growth now?": {
+            "Claims": [
+                {
+                    "Claim": "Your baby is now as long as a bottle gourd",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Your baby weighs almost 2 kg.",
+                    "Evaluation": "Factually Incorrect"
+                },
+                {
+                    "Claim": "Your baby is building fat stores",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "The brain is growing in size",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Your baby can now respond to light and sound",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "2nd trimester diet plan?": {
+            "Claims": [
+                {
+                    "Claim": "2nd trimester diet plan is same as 1st trimester diet plan.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "3 manth ke bad garam taseer wali chize khasakte h": {
+            "Claims": [
+                {
+                    "Claim": "3 month ke bad garam taseer wali chize khasakte h",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "After 3 months, can I start eating things which are naturally hot for the body": {
+            "Claims": [
+                {
+                    "Claim": "You can start eating hot things after 3 months.",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "4 month chal raha h or goli bagera to mil nahi rahi h hospital m or dait m kya kya le sakte h jisse bacche ki sehat bane": {
+            "Claims": [
+                {
+                    "Claim": "4 month chal raha h",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "goli bagera to mil nahi rahi h hospital m",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "dait m kya kya le sakte h jisse bacche ki sehat bane",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?": {
+            "Claims": [
+                {
+                    "Claim": "You are talking to a patient, make it more understandable for the patient, who has no medical background.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Answer the medical question based only on the following context.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "If you don't know the answer based on the context, admit that you don't know rather than making up information.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Always maintain patient confidentiality and provide evidence-based answers when possible.",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "Try answering in user's language( i.e. if user has asked question in hindi, try answering in hindi ).",
+                    "Evaluation": "Factually Correct"
+                },
+                {
+                    "Claim": "What can I do to keep my baby healthy when he is 4 months old or not getting the pill?",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "Dawai me nhi kha skti hu mujhe ulti ho jati hai iske liye kya kare": {
+            "Claims": [
+                {
+                    "Claim": "Chat Doctor",
+                    "Evaluation": "Factually Incorrect"
+                }
+            ]
+        },
+        "I can't eat in the medicine and I feel nauseous, what to do about it?": {
+            "Claims": [],
+            "Error": "Response is not valid JSON"
+        },
+        "Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie": {
+            "Claims": [
+                {
+                    "Claim": "Hemoglobin levels for delivery readiness should be 10-12 g/dl",
+                    "Evaluation": "Factually Correct"
+                }
+            ]
+        },
+        "What should be the hemoglobin level to be ready for delivery?": {
+            "Claims": [
+                {
+                    "Claim": "Hemoglobin level > 10 g/dL.",
+                    "Evaluation": "Partially Correct"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "The AI correctly states it doesn't have specific guidelines on mango consumption during pregnancy and recommends consulting a healthcare provider.  This is the safest approach as general guidelines may not cover individual needs and sensitivities.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "While deferring to a doctor is correct, the AI could offer some general information about fruit consumption and potential benefits/concerns related to mangoes specifically.",
+    "missing_information": [
+      "Mangoes are a good source of vitamins A and C, which are important during pregnancy. However, they are also high in sugar.  Portion control is key.",
+      "Some women experience gestational diabetes, making it important to monitor sugar intake. Discuss this with your doctor."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The language used is simple and understandable for someone with average literacy in Hinglish."
+  },
+  "cultural_appropriateness": {
+    "score": 2,
+    "justification": "While the use of Hinglish is appropriate, understanding the cultural context of Assam, India, could improve the response. Mangoes are a staple in many Indian diets. Acknowledging this and providing more specific advice related to mango consumption in pregnancy, while still recommending a doctor consultation, would be more culturally relevant. For example, mentioning the different varieties of mangoes available in Assam and their varying sugar content could be helpful."
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "I don't have enough information to answer this question based on the provided guidelines. The guidelines do not mention mango as a recommended or restricted food item during pregnancy. However, it is always best to consult a healthcare provider for personalized advice on what foods are safe and healthy during pregnancy.",
+  "language": "hinglish",
+  "judge": "gemini-pro"
+}

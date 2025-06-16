@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Bacche ko Tej Sardi ho to kaise usko maintain Karen",
+  "response": "Bacche ko tej sardi se bachana ke liye, uske liye aapko kuchh upyogi tips follow karna hoga. \n\nPehla, aapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nDusra, aapko bacche ko apne aas-paas ke aise aise kapde pehna hoga jo uske shareer ko garmi dete hain. \n\nTeesra, aapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi mile. \n\nAapko bacche ko apne aas-paas ke aise aise sthan rakha jahaan uska aaram kare aur uske shareer ko garmi",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

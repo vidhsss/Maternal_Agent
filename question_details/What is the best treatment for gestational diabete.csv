@@ -1,0 +1,233 @@
+Content Type,Model,Content,Evaluation
+Retrieved Chunk,,Chunk 1: i. Regular monitoring of fasting blood glucose should be done and,
+,,appropriate medical treatment should be provided as per the,
+,,National Gestational Diabetes Mellitus: Diagnosis and Management,
+,,of Gestational Diabetes Mellitus (2018)5,
+,,ii. The recommended diet composition for a mother with GDM is,
+,,"50–60 per cent calories from carbohydrate, 10–20 per cent from",
+,,protein and 25–30 per cent from fat. The total intake of carbohydrate,
+,,should be controlled and monitored,
+,,iii. Carbohydrate foods with a lowe...,
+,,"[Metadata: section: Gestational Diabetes Mellitus:, section_path: ['Gestational Diabetes Mellitus:'], chunk_type: text, total_chunks: 3]",
+,,,
+,,Chunk 2: 2. Inadequately controlled gestational/ pregestational diabetes mellitus,
+,,"[Metadata: section: Uncontrolled hypertension, section_path: ['Uncontrolled hypertension'], chunk_type: text]",
+,,,
+,,"Chunk 3: no difference to induction of labour (8 trials, 3832",
+,,"women; RR: 1.06, 95% CI: 0.94–1.19).",
+,,Low-certainty evidence suggests that diet and/,
+,,or exercise interventions may reduce the risk of,
+,,"gestational diabetes mellitus (GDM) (19 trials, 7279",
+,,"women; RR: 0.82, 95% CI: 0.67–1.01).",
+,,Fetal and neonatal outcomes,
+,,Moderate-certainty evidence suggests that diet,
+,,and/ or exercise interventions probably prevent,
+,,"neonatal macrosomia (27 trials, 8598 women; RR:",
+,,"0.93, 95% CI: 0.86–1.02), particularly in overweig...",
+,,"[Metadata: chapter: 3 Evidence and recommendations, recommendation: RECOMMENDATION A.1.1: Counselling about healthy eating and keeping physically active, section_path: ['3 Evidence and recommendations'], document_title: antenatal care ",
+,,for a positive pregnancy experience,
+,,,
+,,WHO Library Cataloguing-in-Publication Data,
+,,"WHO recommendations on antenatal care for a positive pregnancy experience, document_type: WHO Guidelines, chunk_type: text, chunk_index: 8, total_chunks: 10]",
+,,,
+,,Chunk 4: eclampsia) is one of the fi ve major causes of maternal mortality. Th is test is to be carried out,
+,,at the fi eld level at every antenatal visit.,
+,,Testing the urine for the presence of sugar,
+,,Th is is a test used to diagnose  women with gestational diabetes. Th is test is to be carried,
+,,"out at the fi eld level at every antenatal visit. If a woman's urine is positive for sugar, refer",
+,,"her to the MO to get her blood sugar examined and a glucose tolerance test carried out,",
+,,if required.,
+,,(Practise step...,
+,,"[Metadata: section: Auscultation of the FHS, section_path: ['Auscultation of the FHS'], chunk_type: text, chunk_index: 13, total_chunks: 23]",
+,,,
+,,Chunk 5: • A systematic review of cohort studies shows that women with hyperglycaemia (diabetes mellitus,
+,,"and GDM) detected during pregnancy are at greater risk of adverse pregnancy outcomes, including",
+,,"macrosomia, pre-eclampsia/hypertensive disorders in pregnancy, and shoulder dystocia. T reatment",
+,,"of GDM, which usually involves a stepped approach of lifestyle changes (nutritional counselling and",
+,,"exercise) followed by oral blood-glucose-lowering agents or insulin if necessary, is effective in reducing",
+,,t...,
+,,"[Metadata: chapter: 3 Evidence and recommendations, recommendation: RECOMMENDATION B1.4: Hyperglycaemia first detected at any time during pregnancy should, section_path: ['3 Evidence and recommendations'], document_title: antenatal care ",
+,,for a positive pregnancy experience,
+,,,
+,,WHO Library Cataloguing-in-Publication Data,
+,,"WHO recommendations on antenatal care for a positive pregnancy experience, document_type: WHO Guidelines, chunk_type: text, chunk_index: 1, total_chunks: 5]",
+,,,
+,,"Chunk 6: care (MLCC) model as a way of achieving a positive,",
+,,trusting and empathetic relationship with pregnant,
+,,women (moderate confidence in the evidence) (see,
+,,"RecommendationE.2, in section E: Health systems",
+,,interventions to improve the utilization and quality of,
+,,ANC).,
+,,Feasibility,
+,,"Following IPV clinical enquiry, complex, multifaceted,",
+,,culturally specific interventions are required to,
+,,"manage IPV, which could be challenging in many low-",
+,,"resource settings. However, emerging evidence from",
+,,HICs shows that...,
+,,"[Metadata: chapter: 3 Evidence and recommendations, section_path: ['3 Evidence and recommendations'], document_title: antenatal care ",
+,,for a positive pregnancy experience,
+,,,
+,,WHO Library Cataloguing-in-Publication Data,
+,,"WHO recommendations on antenatal care for a positive pregnancy experience, document_type: WHO Guidelines, chunk_type: text, chunk_index: 1, total_chunks: 2]",
+,,,
+Response,gpt,The best treatment for gestational diabetes focuses on managing blood sugar levels to keep both you and your baby healthy and to prevent complications during pregnancy and delivery. Here are the key components of treatment:,
+,,,
+,,"1. **Diet and Nutrition**: Eating a balanced diet is crucial. This involves consuming a variety of foods in appropriate portions to help manage your blood sugar levels. A dietitian can help create a meal plan based on your health needs, weight, and blood sugar level.",
+,,,
+,,"2. **Exercise**: Regular physical activity can help manage blood sugar levels. Activities like walking, swimming, or prenatal yoga can be beneficial. It's important to consult with your healthcare provider before starting any new exercise routines during pregnancy.",
+,,,
+,,3. **Blood Sugar Monitoring**: Keeping track of your blood sugar levels at home using a glucose meter is a vital part of managing gestational diabetes. This will help you see how well your diet and exercise are working and whether medication might be needed.,
+,,,
+,,"4. **Medication**: If diet and exercise aren't enough to control your blood sugar levels, your doctor might prescribe medication. Insulin injections are commonly used if needed. Occasionally, oral medications are also prescribed, but insulin is generally preferred because it is considered safe and effective during pregnancy.",
+,,,
+,,5. **Regular Check-ups**: Frequent visits to your healthcare provider are important to monitor the health of you and your baby. These check-ups can help catch any potential issues early and adjust your treatment plan as needed.,
+,,,
+,,"It's important to follow your healthcare provider's recommendations closely and attend all your prenatal appointments. Managing gestational diabetes is very individualized, so what works best can vary from person to person.",
+,,,
+,,,
+Response,gpt_rag,"The best treatment for gestational diabetes primarily involves managing your diet and engaging in regular physical activity. According to the guidelines, it's recommended to monitor your fasting blood glucose regularly and follow a specific diet plan. This diet should consist of 50-60% calories from carbohydrates, 10-20% from proteins, and 25-30% from fats. It's important to choose carbohydrates with a low glycemic index and avoid refined carbohydrates like sweets, fruit juices, and starchy vegetables. Spreading carbohydrate intake throughout the day across three small meals and 2-3 snacks can help maintain stable blood glucose levels.",
+,,,
+,,"Additionally, avoiding fried foods and opting for healthier cooking methods such as steaming, boiling, or sautéing in a non-stick pan is advised.",
+,,,
+,,"Exercise is also a crucial part of managing gestational diabetes. Moderate physical activity, as recommended by your healthcare provider, can help control blood sugar levels.",
+,,,
+,,"If diet and exercise are not enough to control blood sugar, medication may be necessary. This could include oral glucose-lowering drugs or insulin therapy, depending on individual needs.",
+,,,
+,,Regular follow-ups with your healthcare provider are essential to monitor the health of both you and your baby and make adjustments to your treatment plan as needed.,
+,,,
+Claim,gpt_rag,Claim 1: The best treatment for gestational diabetes primarily involves managing your diet and engaging in regular physical activity.,Factually Correct
+,,Claim 2: It's recommended to monitor your fasting blood glucose regularly and follow a specific diet plan.,Factually Correct
+,,"Claim 3: This diet should consist of 50-60% calories from carbohydrates, 10-20% from proteins, and 25-30% from fats.",Factually Correct
+,,"Claim 4: It's important to choose carbohydrates with a low glycemic index and avoid refined carbohydrates like sweets, fruit juices, and starchy vegetables.",Factually Correct
+,,Claim 5: Spreading carbohydrate intake throughout the day across three small meals and 2-3 snacks can help maintain stable blood glucose levels.,Factually Correct
+,,"Claim 6: Avoiding fried foods and opting for healthier cooking methods such as steaming, boiling, or sautéing in a non-stick pan is advised.",Factually Correct
+,,Claim 7: Exercise is also a crucial part of managing gestational diabetes.,Factually Correct
+,,"Claim 8: Moderate physical activity, as recommended by your healthcare provider, can help control blood sugar levels.",Factually Correct
+,,"Claim 9: If diet and exercise are not enough to control blood sugar, medication may be necessary.",Factually Correct
+,,"Claim 10: This could include oral glucose-lowering drugs or insulin therapy, depending on individual needs.",Factually Correct
+,,Claim 11: Regular follow-ups with your healthcare provider are essential to monitor the health of both you and your baby and make adjustments to your treatment plan as needed.,Factually Correct
+,,,
+Response,mixtral,Answer:**,
+,,        ,
+,,Gestational diabetes is a type of diabetes that occurs during pregnancy. It's important to manage this condition to ensure the health of both the mother and the baby. ,
+,,,
+,,"The best treatment for gestational diabetes typically involves a combination of healthy eating, regular physical activity, and monitoring blood sugar levels. ",
+,,,
+,,"1. **Healthy Eating:** A balanced diet rich in fruits, vegetables, lean proteins, and whole grains can help manage blood sugar levels. It's also important to limit intake of sugary drinks and foods, and to eat regularly to prevent spikes in blood sugar.",
+,,,
+,,"2. **Physical Activity:** Regular exercise can help the body use insulin more effectively, which can help control blood sugar levels. However, it's important to discuss any exercise plans with your healthcare provider to ensure they are safe for you and your baby.",
+,,,
+,,3. **Monitoring Blood Sugar Levels:** Regularly checking blood sugar levels can help you understand how different foods and activities affect your levels. This can help you make adjustments to your diet and lifestyle to better manage the condition.,
+,,,
+,,"In some cases, medication may also be necessary to help control blood sugar levels. This is typically determined by a healthcare provider based on individual circumstances.",
+,,,
+,,"Remember, it's important to work closely with your healthcare provider to develop a treatment plan that's right for you. They can provide guidance and support to help you manage gestational diabetes and ensure a healthy pregnancy.",
+,,,
+Claim,mixtral,Claim 1: Gestational diabetes is a type of diabetes that occurs during pregnancy.,Factually Correct
+,,"Claim 2: The best treatment for gestational diabetes typically involves a combination of healthy eating, regular physical activity, and monitoring blood sugar levels.",Factually Correct
+,,"Claim 3: A balanced diet rich in fruits, vegetables, lean proteins, and whole grains can help manage blood sugar levels.",Factually Correct
+,,"Claim 4: It's also important to limit intake of sugary drinks and foods, and to eat regularly to prevent spikes in blood sugar.",Factually Correct
+,,"Claim 5: Regular exercise can help the body use insulin more effectively, which can help control blood sugar levels.",Factually Correct
+,,Claim 6: It's important to discuss any exercise plans with your healthcare provider to ensure they are safe for you and your baby.,Factually Correct
+,,Claim 7: Regularly checking blood sugar levels can help you understand how different foods and activities affect your levels.,Factually Correct
+,,Claim 8: This can help you make adjustments to your diet and lifestyle to better manage the condition.,Factually Correct
+,,"Claim 9: In some cases, medication may also be necessary to help control blood sugar levels.",Factually Correct
+,,Claim 10: This is typically determined by a healthcare provider based on individual circumstances.,Factually Correct
+,,Claim 11: It's important to work closely with your healthcare provider to develop a treatment plan that's right for you.,Factually Correct
+,,Claim 12: They can provide guidance and support to help you manage gestational diabetes and ensure a healthy pregnancy.,Factually Correct
+,,,
+Response,mixtral_rag,Answer:,
+,,        ,
+,,        ,
+,,"        The best treatment for gestational diabetes involves regular monitoring of fasting blood glucose levels and following a recommended diet composition. The diet should consist of 50-60% calories from carbohydrates, 10-20% from protein, and 25-30% from fat. The total intake of carbohydrates should be controlled and monitored, with a focus on carbohydrate foods with a lower glycemic index. Refined carbohydrate foods like sweets, fruit juices, table sugar, starchy vegetables, etc. should be avoided. Carbohydrate foods should be spread throughout the day over 3 small meals and 2-3 snacks. Fried foods should be avoided, and whole fruits should be preferred over juices. Fish or chicken should be preferred over red or organ meat, and fiber should be increased in the diet by including salad, beans, non-starchy vegetables, whole fruit, whole grain cereals, whole pulses, flax seeds, and oat bran. Water, buttermilk, soups, and other unsweetened healthy beverages should be consumed instead of soda or fruit juices. Processed foods should be restricted, and regular physical activity should be encouraged. It is important to seek specialist opinion before planning a meal for a mother with gestational diabetes.",
+,,,
+,,,
+Response,llama,Answer:**,
+,,         नमस्ते! (Namaste!) मैं आपकी स्वास्थ्य समस्याओं के बारे में जानकारी प्रदान करने में आपकी मदद करने के लिए यहाँ हूँ। (Hello! I'm here to help you with information about your health issues.),
+,,,
+,,"गेस्टेशनल डायबिटीज (Gestational Diabetes) एक ऐसी स्थिति है जो गर्भावस्था के दौरान होती है, जब शरीर के लिए प्राकृतिक रूप से उत्पन्न होने वाले इंसुलिन की मात्रा में परिवर्तन होता है। यह स्थिति आमतौर पर 24 से 28 सप्ताह के गर्भावस्था के दौरान होती है।",
+,,,
+,,गेस्टेशनल डायबिटीज के लिए सबसे अच्छा उपचार यह है कि आप अपने डॉक्टर के निर्देशों का पालन करें और अपने आहार और जीवनशैली में बदलाव करें। यहाँ कुछ सुझाव दिए गए हैं:,
+,,,
+,,"1. **आहार में बदलाव**: अपने आहार में अधिक फल, सब्जियां, और पूरे अनाज शामिल करें। इनमें से अधिक कार्बोहाइड्रेट्स वाले खाद्य पदार्थों को सीमित करें।",
+,,2. **व्यायाम**: नियमित व्यायाम करने से आपके शरीर के लिए इंसुलिन की मात्रा में सुधार हो सकता है।,
+,,"3. **वजन प्रबंधन**: यदि आपका वजन अधिक है, तो वजन कम करने से आपके शरीर के लिए इंसुलिन की मात्रा में सुधार हो सकता है।",
+,,4. **डॉक्टर की निगरानी**: अपने डॉक्टर की निगरानी में रहें और उनके निर्देशों का पालन करें।,
+,,,
+,,यह ध्यान रखें कि गेस्टेशनल डायबिटीज के,
+,,,
+Claim,llama,Claim 1: Gestational Diabetes usually occurs from 24 to 28 weeks of gestation.,Factually Correct
+,,Claim 2: The best treatment for Gestational Diabetes is to follow doctor's instructions and make diet and lifestyle changes.,Factually Correct
+,,"Claim 3: Include more fruits, vegetables, and whole grains in your diet and limit high carbohydrate foods.",Factually Correct
+,,Claim 4: Regular exercise can improve your body's insulin sensitivity.,Factually Correct
+,,"Claim 5: If you are overweight, losing weight can improve your body's insulin sensitivity.",Factually Correct
+,,Claim 6: Stay under the supervision of your doctor and follow their instructions.,Factually Correct
+,,,
+Response,llama_rag,Answer:,
+,,         गESTेशनल डायबिटीज़ का सबसे अच्छा इलाज क्या है? ,
+,,"         गESTेशनल डायबिटीज़ का इलाज आमतौर पर जीवन के अंतिम चरण में नहीं होता है, बल्कि यह गर्भावस्था के दौरान ही होता है। ",
+,,"         गर्भावस्था के दौरान डायबिटीज़ का इलाज करने के लिए, आपको अपने आहार और शारीरिक गतिविधि में बदलाव करना होगा। ",
+,,"         आहार में बदलाव करने के लिए, आपको अपने आहार में अधिक पोषक तत्वों वाले खाद्य पदार्थों को शामिल करना होगा, जैसे कि फल, सब्जियां, और पूरे अनाज। ",
+,,"         शारीरिक गतिविधि में बदलाव करने के लिए, आपको नियमित रूप से व्यायाम करना होगा, जैसे कि योग, चलना, आदि। ",
+,,"         यदि आपके पास डायबिटीज़ के लिए दवा की आवश्यकता है, तो आपको अपने डॉक्टर से परामर्श करना होगा और उनकी सलाह का पालन करना होगा। ",
+,,"         गर्भावस्था के दौरान डायबिटीज़ का इलाज करने के लिए, आपको अपने डॉक्टर की सलाह का पालन करना होगा और अपने आहार और शारीरिक गतिविधि में बदलाव करना होगा। ",
+,,,
+,,"Note: The answer is provided in simple language, avoiding technical terms and jargon, to make it understandable for a patient with no medical background. The answer is based on the provided context and does not include any information that is not mentioned in the context.",
+,,,
+Claim,llama_rag,"Claim 1: Gestational diabetes treatment usually does not occur in the final stages of life, but during pregnancy itself.",Factually Correct
+,,"Claim 2: For the treatment of diabetes during pregnancy, you need to change your diet and physical activity.",Factually Correct
+,,"Claim 3: Dietary changes include incorporating more nutritious foods into your diet, such as fruits, vegetables, and whole grains.",Factually Correct
+,,"Claim 4: Physical activity changes include regular exercise such as yoga, walking, etc.",Factually Correct
+,,"Claim 5: If you need medication for diabetes, you should consult your doctor and follow their advice.",Factually Correct
+,,"Claim 6: For the treatment of diabetes during pregnancy, you must follow your doctor's advice and make changes to your diet and physical activity.",Factually Correct
+,,,
+Response,medalpaca,Answer:**,
+,,"         Gestational diabetes is a type of diabetes that occurs during pregnancy. It is caused by the hormonal changes in the body. The best treatment for gestational diabetes is a healthy diet and regular exercise. In addition, you may need to take insulin or oral medications to control blood sugar levels. It is important to monitor blood sugar levels regularly and follow the doctor's instructions to prevent complications for both the mother and the baby.",
+,,,
+Claim,medalpaca,Claim 1: Gestational diabetes is a type of diabetes that occurs during pregnancy.,Factually Correct
+,,Claim 2: It is caused by the hormonal changes in the body.,Factually Correct
+,,Claim 3: The best treatment for gestational diabetes is a healthy diet and regular exercise.,Partially Correct
+,,"Claim 4: In addition, you may need to take insulin or oral medications to control blood sugar levels.",Factually Correct
+,,Claim 5: It is important to monitor blood sugar levels regularly,Factually Correct
+,,Claim 6: Follow the doctor's instructions to prevent complications for both the mother and the baby.,Factually Correct
+,,,
+Response,medalpaca_rag,Answer:,
+,,"        1. Lifestyle modification, including diet and exercise, is the primary treatment for gestational diabetes.",
+,,        2. Metformin is the only pharmacologic agent approved for the treatment of gestational diabetes.,
+,,        3. Insulin is used in cases of severe hyperglycemia or when metformin is contraindicated.,
+,,        4. The treatment goal for gestational diabetes is to achieve and maintain blood glucose levels between 85–95 mg/dL.,
+,,        5. Gestational diabetes usually resolves after delivery of the placenta.,
+,,"        6. Women with gestational diabetes are at increased risk for postpartum hypoglycemia, which is managed with frequent feeding and glucose supplementation.",
+,,        7. Women with gestational diabetes are at increased risk for the development of type 2 diabetes mellitus.,
+,,        8. Women with gestational diabetes should be screened for pre-existing diabetes mellitus.,
+,,        9. Women with gestational diabetes should be screened for pre-existing hypertension.,
+,,        10. Women with gestational diabetes should be screened for pre-existing dyslipidemia.,
+,,        11. Women with gestational diabetes should be screened for pre-existing obesity.,
+,,        12. Women with gestational diabetes should be screened for pre-existing polycystic ovary syndrome.,
+,,        13. Women with gestational diabetes should be screened for pre-existing celiac disease.,
+,,        14. Women with gestational diabetes should be screened for pre-existing thyroid disease.,
+,,        15. Women with gestational diabetes should be screened for pre-existing chronic kidney disease.,
+,,        16. Women with gestational diabetes should be screened for pre-existing chronic liver disease.,
+,,        17. Women with gestational diabetes should be screened for pre-existing anemia.,
+,,        18. Women with gestational diabetes should be screened for pre-existing depression.,
+,,        19. Women with gestational diabetes should be screened for pre-ex,
+,,,
+Claim,medalpaca_rag,"Claim 1: Lifestyle modification, including diet and exercise, is the primary treatment for gestational diabetes.",Factually Correct
+,,Claim 2: Metformin is the only pharmacologic agent approved for the treatment of gestational diabetes.,Factually Incorrect
+,,Claim 3: Insulin is used in cases of severe hyperglycemia or when metformin is contraindicated.,Factually Correct
+,,Claim 4: The treatment goal for gestational diabetes is to achieve and maintain blood glucose levels between 85–95 mg/dL.,Factually Incorrect
+,,Claim 5: Gestational diabetes usually resolves after delivery of the placenta.,Factually Correct
+,,"Claim 6: Women with gestational diabetes are at increased risk for postpartum hypoglycemia, which is managed with frequent feeding and glucose supplementation.",Partially Correct
+,,Claim 7: Women with gestational diabetes are at increased risk for the development of type 2 diabetes mellitus.,Factually Correct
+,,Claim 8: Women with gestational diabetes should be screened for pre-existing diabetes mellitus.,Factually Correct
+,,Claim 9: Women with gestational diabetes should be screened for pre-existing hypertension.,Partially Correct
+,,Claim 10: Women with gestational diabetes should be screened for pre-existing dyslipidemia.,Partially Correct
+,,Claim 11: Women with gestational diabetes should be screened for pre-existing obesity.,Partially Correct
+,,Claim 12: Women with gestational diabetes should be screened for pre-existing polycystic ovary syndrome.,Partially Correct
+,,Claim 13: Women with gestational diabetes should be screened for pre-existing celiac disease.,Partially Correct
+,,Claim 14: Women with gestational diabetes should be screened for pre-existing thyroid disease.,Partially Correct
+,,Claim 15: Women with gestational diabetes should be screened for pre-existing chronic kidney disease.,Partially Correct
+,,Claim 16: Women with gestational diabetes should be screened for pre-existing chronic liver disease.,Partially Correct
+,,Claim 17: Women with gestational diabetes should be screened for pre-existing anemia.,Partially Correct
+,,Claim 18: Women with gestational diabetes should be screened for pre-existing depression.,Partially Correct
+,,,

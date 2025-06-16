@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "score": 1,
+    "justification": "All the claims in the response are medically correct. The advice given aligns with standard recommendations for managing prickly heat and itching, including the importance of consulting a healthcare provider for severe symptoms or before using medications.",
+    "problematic_claims": []
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response covers the most important information for managing prickly heat and itching during pregnancy. However, it could have included advice on when to seek immediate medical attention (beyond the mention of jaundice) and the potential need for allergy testing if the condition persists or if the individual has a history of allergies.",
+    "missing_information": [
+      "Information on when to seek immediate medical attention for symptoms other than jaundice, such as signs of infection.",
+      "Mention of the potential need for allergy testing if the condition does not improve or if there is a known history of allergies."
+    ]
+  },
+  "clarity": {
+    "score": 1,
+    "justification": "The response is written in clear, simple language that is easily understandable by users of average literacy. It uses straightforward instructions and avoids medical jargon, making it accessible to a wide audience."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for an English-speaking audience. It avoids cultural references or idioms that could be misunderstood and focuses on general advice that is applicable to a broad audience."
+  },
+  "question": "I have seen prickly heat and itching on some part of my body... What should I do?",
+  "response": "Prickly heat and itching are common during pregnancy due to hormonal changes and increased sweating. Here are a few tips to help manage the discomfort:\n\n1. Keep the affected area cool and dry. Try to stay in cooler environments and avoid excessive heat.\n2. Wear loose, breathable clothing made from natural fibers like cotton, which allows your skin to breathe and reduces irritation.\n3. Bathe in cool water and use a mild soap that is gentle on the skin.\n4. You can apply a calamine lotion or an over-the-counter hydrocortisone cream to soothe itching. However, it's always best to consult with your healthcare provider before using any medications.\n5. Stay hydrated by drinking plenty of water, as this helps to regulate your body temperature.\n\nIf the itching is severe, widespread, or accompanied by other symptoms like jaundice, it's important to consult your healthcare provider for further evaluation. Remember, it's always best to seek personalized advice from your healthcare provider regarding any health concerns during pregnancy.",
+  "language": "english",
+  "judge": "gpt-4"
+}

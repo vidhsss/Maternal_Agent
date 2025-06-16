@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Pragnancy me mango \ud83e\udd6d kitna mntra me kha skti hu",
+  "response": "Mangoes can be consumed during pregnancy, but it is important to maintain a balanced diet and not consume too much of any one food. Mangoes are rich in vitamins A and C, but they also contain natural sugars. It is recommended to eat at least 3 main meals and 2 nutritious snacks daily, including a variety of fruits and vegetables. However, if you have any concerns about your diet during pregnancy, it is always best to consult with a healthcare provider for personalized advice.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

@@ -1,0 +1,22 @@
+{
+  "correctness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "completeness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "clarity": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "cultural_appropriateness": {
+    "score": 3,
+    "justification": "Failed to parse structured response"
+  },
+  "question": "Kya pregnancy m bleeding hoti h kya yeh normal h",
+  "response": "Bleeding during pregnancy can be normal, but it can also be a sign of a problem. If you are experiencing bleeding, it is important to pay attention to the amount and color of the blood, as well as any other symptoms you may be having. In early pregnancy, light bleeding with lower abdominal pain could be a sign of a threatened abortion, which is when the cervix begins to open but the pregnancy is not expelled. This is not usually a serious condition, but it is important to be monitored by a healthcare provider. If you have heavy bleeding, severe abdominal pain, or any other concerning symptoms, you should seek medical attention immediately. It is always best to consult with a healthcare provider for personalized medical advice.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}

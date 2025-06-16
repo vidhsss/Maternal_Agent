@@ -1,0 +1,29 @@
+{
+  "correctness": {
+    "score": 2,
+    "justification": "The response implies that not experiencing vomiting during pregnancy does not necessarily require any special steps for safety, which is medically correct. However, the statement that 'vomiting is less in pregnancy' is misleading and incorrect as it varies greatly among individuals. Some may experience no vomiting, while others may have severe nausea and vomiting (hyperemesis gravidarum).",
+    "problematic_claims": [
+      "Garbhaalamban mein vomiting kaam aata hai, lekin iska koi sthaayi nahi hai."
+    ]
+  },
+  "completeness": {
+    "score": 2,
+    "justification": "The response addresses the concern about the absence of vomiting but fails to provide a comprehensive overview of what symptoms might be expected during the first trimester and when it might be necessary to seek medical advice.",
+    "missing_information": [
+      "Explanation that a lack of vomiting is not uncommon and does not necessarily indicate a problem with the pregnancy.",
+      "Advice to stay hydrated and maintain a balanced diet, and information on when to seek medical help for any concerns."
+    ]
+  },
+  "clarity": {
+    "score": 2,
+    "justification": "The response is somewhat clear but could be confusing due to the mixed use of Hinglish and some grammatical inconsistencies. The message could be made clearer with more straightforward language and structure."
+  },
+  "cultural_appropriateness": {
+    "score": 1,
+    "justification": "The response is culturally appropriate for a Hinglish-speaking user, using a mix of Hindi and English that is commonly found in many parts of India. It addresses the user's concern in a culturally sensitive manner."
+  },
+  "question": "2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe",
+  "response": "Aapko 2.5 mahine se hogaye hue hamare garbha ko vomit ya kuch nahi hai, yeh aapki surakshit rahne ke liye koi khas kadam nahi lena chahta hai. Garbhaalamban mein vomiting kaam aata hai, lekin iska koi sthaayi nahi hai. Agar aapko vomiting ya koi anya problem hai to aap apne swasthya karyakarta se salah lena chahte hain.",
+  "language": "hinglish",
+  "judge": "gpt-4"
+}
